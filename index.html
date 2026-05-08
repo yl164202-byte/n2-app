@@ -1,0 +1,197 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>JLPT N2 學習系統 - 專業版</title>
+    <style>
+        :root { --primary: #4a90e2; --bg: #f5f7fa; --card-white: #ffffff; --warning: #f1c40f; --danger: #e74c3c; }
+        body { font-family: 'PingFang TC', sans-serif; background-color: var(--bg); display: flex; flex-direction: column; align-items: center; margin: 0; padding: 20px; user-select: none; }
+        
+        /* 頂部：模式切換 */
+        .header { margin-bottom: 15px; text-align: center; width: 100%; max-width: 400px; display: flex; flex-direction: column; gap: 8px; }
+        .mode-status { font-size: 0.9rem; color: #7f8c8d; font-weight: bold; }
+        .btn-mode { padding: 12px; font-size: 1rem; border-radius: 12px; border: 2px solid #bdc3c7; background: white; color: #7f8c8d; cursor: pointer; transition: 0.3s; }
+        .btn-mode.active { border-color: var(--warning); background: var(--warning); color: #2c3e50; font-weight: bold; }
+
+        /* 卡片設計 */
+        #card { 
+            background: var(--card-white); width: 95%; max-width: 400px; min-height: 350px; 
+            display: flex; flex-direction: column; justify-content: center; align-items: center; 
+            border-radius: 24px; box-shadow: 0 10px 30px rgba(0,0,0,0.1); 
+            text-align: center; cursor: pointer; padding: 30px 20px; box-sizing: border-box;
+            transition: transform 0.1s;
+        }
+        #card:active { transform: scale(0.98); }
+
+        .reading { color: #7f8c8d; font-size: 1.4rem; min-height: 1.6rem; margin-bottom: 10px; }
+        .word { font-size: 3.5rem; font-weight: bold; color: #2c3e50; margin-bottom: 20px; word-break: break-all; }
+        .meaning { color: #34495e; font-size: 1.5rem; font-weight: 600; line-height: 1.4; }
+        
+        .hidden { visibility: hidden; }
+        
+        /* 控制按鈕區 */
+        .btn-group { margin-top: 25px; display: grid; grid-template-columns: 1fr 1fr; gap: 12px; width: 100%; max-width: 400px; }
+        .btn-full { grid-column: span 2; }
+        
+        button.action-btn { 
+            padding: 15px; font-size: 1.1rem; border-radius: 15px; border: none; color: white; 
+            cursor: pointer; background-color: var(--primary); box-shadow: 0 4px 10px rgba(0,0,0,0.1); 
+            transition: 0.2s; display: flex; align-items: center; justify-content: center; gap: 8px;
+        }
+        button.action-btn:active { transform: scale(0.95); }
+        
+        /* 收藏按鈕樣式 */
+        .btn-fav { background-color: #95a5a6; }
+        .btn-fav.active { background-color: var(--warning); color: #2c3e50; font-weight: bold; }
+        
+        .btn-speak { background-color: #9b59b6; }
+        .btn-next { background-color: var(--primary); }
+
+        .stats { margin-top: 20px; font-size: 0.85rem; color: #95a5a6; }
+    </style>
+</head>
+<body>
+
+    <div class="header">
+        <div class="mode-status" id="modeStatus">目前範圍：全部單字</div>
+        <button class="btn-mode" id="modeBtn" onclick="toggleMode()">切換至「收藏複習」模式</button>
+    </div>
+
+    <div id="card" onclick="toggleAnswer()">
+        <div id="reading" class="reading hidden"></div>
+        <div id="word" class="word">載入中...</div>
+        <div id="meaning" class="meaning hidden"></div>
+    </div>
+
+    <div class="btn-group">
+        <button class="action-btn btn-speak" onclick="speak()">🔊 發音</button>
+        <button class="action-btn btn-fav" id="favActionBtn" onclick="toggleFavorite()">★ 收藏此單字</button>
+        <button class="action-btn btn-next btn-full" onclick="nextWord()">下一個單字 ➔</button>
+    </div>
+
+    <div class="stats" id="stats">正在初始化...</div>
+
+    <script src="data.js"></script>
+    <script>
+        let currentPool = [];
+        let favorites = JSON.parse(localStorage.getItem('jlpt_n2_favs')) || [];
+        let currentItem = null;
+        let isAnswerShown = false;
+        let isOnlyFavMode = false;
+
+        window.onload = () => {
+            if (typeof allVocabData !== 'undefined') {
+                updatePool();
+            } else {
+                document.getElementById('word').innerText = "找不到 data.js";
+            }
+        };
+
+        // 核心邏輯：更新資料池
+        function updatePool() {
+            currentPool = isOnlyFavMode ? favorites : allVocabData;
+            
+            const statusText = isOnlyFavMode ? "目前範圍：我的收藏" : "目前範圍：全部單字";
+            document.getElementById('modeStatus').innerText = statusText;
+            document.getElementById('stats').innerText = `清單總計：${currentPool.length} 個單字`;
+            
+            nextWord();
+        }
+
+        // 模式切換
+        function toggleMode() {
+            isOnlyFavMode = !isOnlyFavMode;
+            const btn = document.getElementById('modeBtn');
+            btn.innerText = isOnlyFavMode ? "切換至「全部單字」模式" : "切換至「收藏複習」模式";
+            btn.classList.toggle('active', isOnlyFavMode);
+            updatePool();
+        }
+
+        // 抽取下一個
+        function nextWord() {
+            if (currentPool.length === 0) {
+                const msg = isOnlyFavMode ? "收藏夾空空如也，請先在全部模式中收藏不熟的單字。" : "資料讀取失敗。";
+                document.getElementById('word').innerText = "提示";
+                document.getElementById('meaning').innerText = msg;
+                document.getElementById('reading').innerText = "";
+                document.getElementById('meaning').classList.remove('hidden');
+                currentItem = null;
+                return;
+            }
+
+            isAnswerShown = false;
+            currentItem = currentPool[Math.floor(Math.random() * currentPool.length)];
+            
+            // 介面更新
+            document.getElementById('word').innerText = currentItem.word;
+            document.getElementById('reading').innerText = currentItem.reading;
+            document.getElementById('meaning').innerText = currentItem.meaning_tw;
+
+            // 初始狀態隱藏答案
+            document.getElementById('reading').classList.add('hidden');
+            document.getElementById('meaning').classList.add('hidden');
+
+            updateFavButtonUI();
+            setTimeout(speak, 300);
+        }
+
+        function toggleAnswer() {
+            if (!currentItem) return;
+            isAnswerShown = !isAnswerShown;
+            document.getElementById('reading').classList.toggle('hidden', !isAnswerShown);
+            document.getElementById('meaning').classList.toggle('hidden', !isAnswerShown);
+        }
+
+        // 收藏按鈕的操作邏輯
+        function toggleFavorite() {
+            if (!currentItem) return;
+
+            const index = favorites.findIndex(item => item.word === currentItem.word && item.reading === currentItem.reading);
+            
+            if (index > -1) {
+                // 移除收藏
+                favorites.splice(index, 1);
+                // 如果在收藏模式下移除，則從當前輪播池也移除，並直接跳下一題
+                if (isOnlyFavMode) {
+                    currentPool = [...favorites];
+                    localStorage.setItem('jlpt_n2_favs', JSON.stringify(favorites));
+                    nextWord();
+                    return;
+                }
+            } else {
+                // 加入收藏
+                favorites.push(currentItem);
+            }
+
+            localStorage.setItem('jlpt_n2_favs', JSON.stringify(favorites));
+            updateFavButtonUI();
+        }
+
+        // 更新收藏按鈕的視覺狀態
+        function updateFavButtonUI() {
+            if (!currentItem) return;
+            const isFav = favorites.some(item => item.word === currentItem.word && item.reading === currentItem.reading);
+            const favBtn = document.getElementById('favActionBtn');
+            
+            if (isFav) {
+                favBtn.classList.add('active');
+                favBtn.innerText = "★ 已在收藏中";
+            } else {
+                favBtn.classList.remove('active');
+                favBtn.innerText = "☆ 收藏(不熟)";
+            }
+        }
+
+        function speak() {
+            if (!currentItem) return;
+            window.speechSynthesis.cancel();
+            const text = currentItem.reading.replace(/～/g, '') || currentItem.word.replace(/～/g, '');
+            const utterance = new SpeechSynthesisUtterance(text);
+            utterance.lang = 'ja-JP';
+            utterance.rate = 0.8;
+            window.speechSynthesis.speak(utterance);
+        }
+    </script>
+</body>
+</html>
