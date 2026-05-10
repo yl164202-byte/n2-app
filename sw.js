@@ -1,5 +1,5 @@
 // sw.js - 離線控制核心
-const CACHE_NAME = 'jlpt-n2-v1';
+const CACHE_NAME = 'jlpt-n2-v2';
 const ASSETS = [
   'index.html',
   'data.js',
