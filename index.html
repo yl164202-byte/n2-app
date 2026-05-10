@@ -86,6 +86,12 @@
             } else {
                 document.getElementById('word').innerText = "找不到 data.js";
             }
+            // --- 新增：註冊 Service Worker 離線功能 ---
+            if ('serviceWorker' in navigator) {
+                navigator.serviceWorker.register('./sw.js')
+                    .then(() => console.log("【系統訊息】離線核心註冊成功"))
+                    .catch(err => console.error("【系統訊息】離線核心註冊失敗", err));
+    }
         };
 
         // 核心邏輯：更新資料池
