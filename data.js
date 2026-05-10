@@ -2,13342 +2,13348 @@ const allVocabData = [
     {
         "word": "〜 (まる) ごと",
         "reading": "〜 (まる) ごと",
-        "meaning_tw": "whole ~, all of ~",
+        "meaning_tw": "整個、全部",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "(かさを～) さす",
         "reading": "(かさを～) さす",
-        "meaning_tw": "to open; hold (an umbrella)",
+        "meaning_tw": "撐（傘）",
         "level": "2",
         "tags": "JLPT JLPT_2 MediaMissing"
     },
     {
         "word": "〜(日本) 式",
         "reading": "～(にほん) しき",
-        "meaning_tw": "custom,",
+        "meaning_tw": "日式、日本方式",
         "level": "2",
         "tags": "JLPT JLPT_2 MediaMissing"
     },
     {
         "word": "～位",
         "reading": "～い",
-        "meaning_tw": "~th place",
+        "meaning_tw": "第～名、第～位",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～いち (にほんいち)",
         "reading": "～いち (にほんいち)",
-        "meaning_tw": "No. 1 ~ (in)",
+        "meaning_tw": "（日本）第一的～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～園",
         "reading": "～えん",
-        "meaning_tw": "~ garden (especially man made)",
+        "meaning_tw": "～園（尤指人工庭園）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～おしまい (おわり)",
         "reading": "～おしまい (おわり)",
-        "meaning_tw": "end up ~",
+        "meaning_tw": "結束、完了",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～日",
         "reading": "～か",
-        "meaning_tw": "counter for days",
+        "meaning_tw": "第～天（日期計數）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～下",
         "reading": "～か",
-        "meaning_tw": "under ~",
+        "meaning_tw": "在～之下、～以下",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～化",
         "reading": "～か",
-        "meaning_tw": "action of making something",
+        "meaning_tw": "～化（變成某種狀態）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～科",
         "reading": "～か",
-        "meaning_tw": "family, group, course",
+        "meaning_tw": "學科、科別、類別",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～歌",
         "reading": "～か",
-        "meaning_tw": "song of ~",
+        "meaning_tw": "～之歌",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～画",
+        "word": "～畫",
         "reading": "～が",
-        "meaning_tw": "picture, painting",
+        "meaning_tw": "～圖、～畫",
         "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "～外",
         "reading": "～がい",
-        "meaning_tw": "out of ~",
+        "meaning_tw": "～之外",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～難い",
+        "word": "～がたい",
         "reading": "～がたい",
-        "meaning_tw": "hard (difficult) to do ~",
+        "meaning_tw": "難以～、很難做～",
         "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "～がち",
         "reading": "～がち",
-        "meaning_tw": "tend to do ~",
+        "meaning_tw": "容易～、傾向於～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～刊",
-        "reading": "～かん",
-        "meaning_tw": "~ issued (magazine, newspaper)",
+        "word": "～方",
+        "reading": "～かた",
+        "meaning_tw": "～的方法、做法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～間",
-        "reading": "～かん",
-        "meaning_tw": "between, during",
+        "word": "～がまる (おわる)",
+        "reading": "～がまる (おわる)",
+        "meaning_tw": "停止做～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～巻",
-        "reading": "～かん",
-        "meaning_tw": "volume",
+        "word": "～き (しんぶんき)",
+        "reading": "～き (しんぶんき)",
+        "meaning_tw": "報紙文章",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～館",
-        "reading": "～かん",
-        "meaning_tw": "~ hall, ~ building",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～感",
-        "reading": "～かん",
-        "meaning_tw": "feeling, sense, impression",
+        "word": "～気",
+        "reading": "～き",
+        "meaning_tw": "～的感覺、氣息",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～期",
         "reading": "～き",
-        "meaning_tw": "~age, ~period",
+        "meaning_tw": "～時期、期間",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～器",
         "reading": "～き",
-        "meaning_tw": "device, equipment",
+        "meaning_tw": "～器具、裝置",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～機",
         "reading": "～き",
-        "meaning_tw": "machine",
+        "meaning_tw": "～機械、飛機",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～気味",
-        "reading": "～ぎみ",
-        "meaning_tw": "slightly ~",
+        "word": "～出す",
+        "reading": "～だす",
+        "meaning_tw": "開始～、～出來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～教",
-        "reading": "～きょう",
-        "meaning_tw": "religion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～行",
-        "reading": "～ぎょう",
-        "meaning_tw": "line, row",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～業",
-        "reading": "～ぎょう",
-        "meaning_tw": "type of business",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～きる",
-        "reading": "～きる",
-        "meaning_tw": "nevertheless, to carry through",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～切れ",
-        "reading": "～きれ",
-        "meaning_tw": "out of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～口",
-        "reading": "～くち",
-        "meaning_tw": "~ opening; ~ entrance, ~ exit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～家",
-        "reading": "～け",
-        "meaning_tw": "~'s family, the house of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～形",
-        "reading": "～けい",
-        "meaning_tw": "shape of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～系",
-        "reading": "～けい",
-        "meaning_tw": "~ system, ~ lineage, ~ group",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
-    },
-    {
-        "word": "～圏",
-        "reading": "～けん",
-        "meaning_tw": "bloc, sphere, area",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
-    },
-    {
-        "word": "～校",
-        "reading": "～こう",
-        "meaning_tw": "counter for school",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～港",
-        "reading": "～こう",
-        "meaning_tw": "~ port",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～号",
-        "reading": "～ごう",
-        "meaning_tw": "counter for magazine; the name of ship",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～国",
-        "reading": "～こく",
-        "meaning_tw": "nation of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～毎",
-        "reading": "～ごと",
-        "meaning_tw": "every ~, each ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～山",
-        "reading": "～さん",
-        "meaning_tw": "the name of mountain",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～産",
-        "reading": "～さん",
-        "meaning_tw": "made in ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～史",
-        "reading": "～し",
-        "meaning_tw": "history of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～紙",
-        "reading": "～し",
-        "meaning_tw": "newspaper, type of paper",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～寺",
-        "reading": "～じ",
-        "meaning_tw": "the name of temple",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～時間目",
-        "reading": "～じかんめ",
-        "meaning_tw": "~th hour, ~th period",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～室",
-        "reading": "～しつ",
-        "meaning_tw": "counter for room",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～日",
-        "reading": "～じつ",
-        "meaning_tw": "day",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～車",
-        "reading": "～しゃ",
-        "meaning_tw": "~ car",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～者",
-        "reading": "～しゃ",
-        "meaning_tw": "person",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～社",
-        "reading": "～しゃ",
-        "meaning_tw": "counter for company",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～手",
-        "reading": "～しゅ",
-        "meaning_tw": "~ player, person who does ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～酒",
-        "reading": "～しゅ",
-        "meaning_tw": "kind of alcohol",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～集",
-        "reading": "～しゅう",
-        "meaning_tw": "collection of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～所",
-        "reading": "～しょ",
-        "meaning_tw": "place",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～所",
-        "reading": "～じょ",
-        "meaning_tw": "place",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～女",
-        "reading": "～じょ",
-        "meaning_tw": "count for sisters",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～省",
-        "reading": "～しょう",
-        "meaning_tw": "kind of ministry",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～商",
-        "reading": "～しょう",
-        "meaning_tw": "merchant, business",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～勝",
-        "reading": "～しょう",
-        "meaning_tw": "count for victory",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～条",
-        "reading": "～じょう",
-        "meaning_tw": "counter for article",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
-    },
-    {
-        "word": "～場",
-        "reading": "～じょう",
-        "meaning_tw": "kind of field, ground",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～畳",
-        "reading": "～じょう",
-        "meaning_tw": "count for tatami, mat",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～色",
-        "reading": "～しょく",
-        "meaning_tw": "kind of color",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～過ぎる",
-        "reading": "～すぎる",
-        "meaning_tw": "too much ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～済",
-        "reading": "～ずみ",
-        "meaning_tw": "finished",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～席",
-        "reading": "～せき",
-        "meaning_tw": "counter for seats",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～船",
-        "reading": "～せん",
-        "meaning_tw": "counter for ships",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～戦",
-        "reading": "～せん",
-        "meaning_tw": "counter for games, matches",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～前",
-        "reading": "～ぜん",
-        "meaning_tw": "before ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～沿い",
-        "reading": "～そい",
-        "meaning_tw": "along",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～艘",
-        "reading": "～そう",
-        "meaning_tw": "counter for ships",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～足",
-        "reading": "～そく",
-        "meaning_tw": "counter for shoes",
+        "word": "～続ける",
+        "reading": "～つづける",
+        "meaning_tw": "繼續～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "～だらけ",
         "reading": "～だらけ",
-        "meaning_tw": "be full of ~, be filled with ~",
+        "meaning_tw": "充滿～（通常指負面物）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "～団",
-        "reading": "～だん",
-        "meaning_tw": "group, corps, party",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～着",
-        "reading": "～ちゃく",
-        "meaning_tw": "counter for clothes; finishing place",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～庁",
-        "reading": "～ちょう",
-        "meaning_tw": "office, agency",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～兆",
-        "reading": "～ちょう",
-        "meaning_tw": "trillion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～長",
-        "reading": "～ちょう",
-        "meaning_tw": "leader, head",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～帳",
-        "reading": "～ちょう",
-        "meaning_tw": "~ book, notebook",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～丁目",
-        "reading": "～ちょうめ",
-        "meaning_tw": "~ district (of a town; city, block)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～通",
-        "reading": "～つう",
-        "meaning_tw": "counter for letters",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～遣い",
-        "reading": "～づかい",
-        "meaning_tw": "use of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～付",
-        "reading": "～つき",
-        "meaning_tw": "with ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～続く",
-        "reading": "～つづく",
-        "meaning_tw": "follow, continue, go on",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～辛い",
-        "reading": "～づらい",
-        "meaning_tw": "hard to do ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～滴",
-        "reading": "～てき",
-        "meaning_tw": "drop",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～点",
-        "reading": "～てん",
-        "meaning_tw": "counter for scores",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～頭",
-        "reading": "～とう",
-        "meaning_tw": "counter for animals",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～等",
-        "reading": "～とう",
-        "meaning_tw": "level, place",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～島",
-        "reading": "～とう",
-        "meaning_tw": "kind of islands",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～道",
-        "reading": "～どう",
-        "meaning_tw": "kind of path, road",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～通り",
-        "reading": "～とおり",
-        "meaning_tw": "in accordance with ~; following ~; ~ street, ~ avenue",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～ところ",
-        "reading": "～ところ",
-        "meaning_tw": "about to do ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～内",
-        "reading": "～ない",
-        "meaning_tw": "inside ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～年生",
-        "reading": "～ねんせい",
-        "meaning_tw": "counter for school year",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～泊",
-        "reading": "～はく",
-        "meaning_tw": "counter for staying (e.g., 2 nights)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～発",
-        "reading": "～はつ",
-        "meaning_tw": "counter for bullets",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～番目",
-        "reading": "～ばんめ",
-        "meaning_tw": "~th",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～費",
-        "reading": "～ひ",
-        "meaning_tw": "cost of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～病",
-        "reading": "～びょう",
-        "meaning_tw": "kind of disease",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～部",
-        "reading": "～ぶ",
-        "meaning_tw": "~ part",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～風",
-        "reading": "～ふう",
-        "meaning_tw": "~ style",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～振り",
-        "reading": "～ぶり",
-        "meaning_tw": "after an interval of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～遍",
-        "reading": "～へん",
-        "meaning_tw": "time",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～弁",
-        "reading": "～べん",
-        "meaning_tw": "speech, dialect",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～歩",
-        "reading": "～ほ",
-        "meaning_tw": "step, pace",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～ぽい",
-        "reading": "～ぽい",
-        "meaning_tw": "~ish",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～ほう (ひかく)",
-        "reading": "～ほう (ひかく)",
-        "meaning_tw": "(in comparison)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～みたい",
-        "reading": "～みたい",
-        "meaning_tw": "looks like ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～向け",
-        "reading": "～むけ",
-        "meaning_tw": "for ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～名",
-        "reading": "～めい",
-        "meaning_tw": "counter for people",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～もち",
-        "reading": "～もち",
-        "meaning_tw": "person who has ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～問",
-        "reading": "～もん",
-        "meaning_tw": "counter for questions",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～夜",
-        "reading": "～や",
-        "meaning_tw": "counter for nights",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～等",
-        "reading": "～ら",
-        "meaning_tw": "plural persons",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～流",
-        "reading": "～りゅう",
-        "meaning_tw": "fashion, manner, way",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～料",
-        "reading": "～りょう",
-        "meaning_tw": "fare, charge",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～領",
-        "reading": "～りょう",
-        "meaning_tw": "territory",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～力",
-        "reading": "～りょく",
-        "meaning_tw": "power of ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～論",
-        "reading": "～ろん",
-        "meaning_tw": "theory",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "～羽",
-        "reading": "～わ",
-        "meaning_tw": "counter for rabbits; birds",
+        "word": "～のみ",
+        "reading": "～のみ",
+        "meaning_tw": "僅僅、只有",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "相変わらず",
         "reading": "あいかわらず",
-        "meaning_tw": "as usual, as always, as before, as ever, still",
+        "meaning_tw": "照舊、依然",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "アイデア; アイディア",
-        "reading": "アイデア; アイディア",
-        "meaning_tw": "idea",
+        "word": "愛する",
+        "reading": "あいする",
+        "meaning_tw": "愛、熱愛",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "あいまい",
-        "reading": "あいまい",
-        "meaning_tw": "vague, ambiguous",
+        "word": "相手",
+        "reading": "あいて",
+        "meaning_tw": "對手、對方",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "あいにく",
+        "reading": "あいにく",
+        "meaning_tw": "不巧、遺憾、偏偏",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "扇ぐ",
-        "reading": "あおぐ",
-        "meaning_tw": "to fan, to flap",
+        "word": "明ける",
+        "reading": "あける",
+        "meaning_tw": "天亮、結束、期滿",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "青白い",
-        "reading": "あおじろい",
-        "meaning_tw": "pale",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "呆れる",
-        "reading": "あきれる",
-        "meaning_tw": "to be shocked, to be appalled",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "アクセント",
-        "reading": "アクセント",
-        "meaning_tw": "accent",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "あくび",
-        "reading": "あくび",
-        "meaning_tw": "yawn",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "飽くまで",
-        "reading": "あくまで",
-        "meaning_tw": "to the end, to the last, stubbornly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "明くる～",
-        "reading": "あくる～",
-        "meaning_tw": "next, following",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "明け方",
-        "reading": "あけがた",
-        "meaning_tw": "dawn",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "憧れる",
-        "reading": "あこがれる",
-        "meaning_tw": "to long for, to yearn after",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "朝寝坊",
-        "reading": "あさねぼう",
-        "meaning_tw": "oversleeping, late riser",
+        "word": "預ける",
+        "reading": "あずける",
+        "meaning_tw": "寄放、委託、寄存",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "足跡",
         "reading": "あしあと",
-        "meaning_tw": "footprint",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "足元",
-        "reading": "あしもと",
-        "meaning_tw": "at one's feet",
+        "meaning_tw": "腳印、足跡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "味わう",
         "reading": "あじわう",
-        "meaning_tw": "to taste, to savor",
+        "meaning_tw": "品嚐、體驗、欣賞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "預かる",
         "reading": "あずかる",
-        "meaning_tw": "to keep in custody, to receive on deposit, to take charge of",
+        "meaning_tw": "保管、收存、承擔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "温まる",
-        "reading": "あたたまる",
-        "meaning_tw": "to warm oneself",
+        "word": "汗",
+        "reading": "あせ",
+        "meaning_tw": "汗水",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "当たり前",
-        "reading": "あたりまえ",
-        "meaning_tw": "natural, reasonable, obvious, usual, common, ordinary, commonplace, the norm",
+        "word": "辺り",
+        "reading": "あたり",
+        "meaning_tw": "附近、一帶、大約",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "あちらこちら",
-        "reading": "あちらこちら",
-        "meaning_tw": "here and there",
+        "word": "当たる",
+        "reading": "あたる",
+        "meaning_tw": "打中、命中、對應",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning_tw": "聚集、集中",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "集める",
+        "reading": "あつめる",
+        "meaning_tw": "收集、召集",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "厚かましい",
         "reading": "あつかましい",
-        "meaning_tw": "impudent, shameless,",
+        "meaning_tw": "臉皮厚的、無恥的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "圧縮",
         "reading": "あっしゅく",
-        "meaning_tw": "compression, condensation, pressure",
+        "meaning_tw": "壓縮、縮減",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "宛名",
-        "reading": "あてな",
-        "meaning_tw": "address, direction",
+        "word": "宛先",
+        "reading": "あてさき",
+        "meaning_tw": "收件地址、收件人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "当てはまる",
-        "reading": "あてはまる",
-        "meaning_tw": "to be applicable, to come under (a category)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "当てはめる",
-        "reading": "あてはめる",
-        "meaning_tw": "to apply, to adapt",
+        "word": "当てる",
+        "reading": "あてる",
+        "meaning_tw": "碰撞、猜中、指派",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "暴れる",
         "reading": "あばれる",
-        "meaning_tw": "to act violently, to rage",
+        "meaning_tw": "胡鬧、搗亂、橫衝直撞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "脂",
         "reading": "あぶら",
-        "meaning_tw": "fat, tallow, lard",
+        "meaning_tw": "油脂、脂肪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "あぶる",
+        "word": "炙る",
         "reading": "あぶる",
-        "meaning_tw": "to scorch, to roast",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "あふれる",
-        "reading": "あふれる",
-        "meaning_tw": "to flood, to overflow",
+        "meaning_tw": "烘烤、取暖",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "雨戸",
         "reading": "あまど",
-        "meaning_tw": "sliding storm door",
+        "meaning_tw": "防雨窗、護窗板",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "甘やかす",
         "reading": "あまやかす",
-        "meaning_tw": "to pamper, to spoil",
+        "meaning_tw": "溺愛、縱容",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "余る",
         "reading": "あまる",
-        "meaning_tw": "to be left over, to be in excess",
+        "meaning_tw": "剩餘、過多",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "編み物",
-        "reading": "あみもの",
-        "meaning_tw": "knitting",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "あみもの",
-        "reading": "あみもの",
-        "meaning_tw": "knitting, web",
+        "word": "網",
+        "reading": "あみ",
+        "meaning_tw": "網子、網路",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "編む",
         "reading": "あむ",
-        "meaning_tw": "to knit",
+        "meaning_tw": "編織、編寫",
         "level": "2",
-        "tags": "Genki Genki_Ln.13 JLPT JLPT_2"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "危うい",
         "reading": "あやうい",
-        "meaning_tw": "dangerous, critical",
+        "meaning_tw": "危險的、危在旦夕的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "怪しい",
         "reading": "あやしい",
-        "meaning_tw": "suspicious, dubious, doubtful",
+        "meaning_tw": "可疑的、奇怪的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "あやふや",
+        "reading": "あやふや",
+        "meaning_tw": "含糊、不確定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "誤る",
+        "reading": "あやまる",
+        "meaning_tw": "弄錯、犯錯",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "荒い",
         "reading": "あらい",
-        "meaning_tw": "rough, rude, wild",
+        "meaning_tw": "粗魯的、劇烈的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "粗い",
         "reading": "あらい",
-        "meaning_tw": "coarse, rough",
+        "meaning_tw": "粗糙的、顆粒大的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "粗筋",
-        "reading": "あらすじ",
-        "meaning_tw": "outline, synopsis",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "争う",
-        "reading": "あらそう",
-        "meaning_tw": "to compete, to contest, to contend to quarrel, to argue, to dispute, to be at variance, to oppose",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "改めて",
-        "reading": "あらためて",
-        "meaning_tw": "another time, again",
+        "word": "荒らす",
+        "reading": "あらす",
+        "meaning_tw": "騷擾、荒廢、弄亂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "改める",
         "reading": "あらためる",
-        "meaning_tw": "to change, to reform, to revise",
+        "meaning_tw": "改變、改進、檢查",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "あらわす",
+        "word": "現れる",
+        "reading": "あらわれる",
+        "meaning_tw": "出現、露出",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "表す",
         "reading": "あらわす",
-        "meaning_tw": "to write, to publish",
+        "meaning_tw": "表現、代表、象徵",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "有難い",
+        "word": "現わす",
+        "reading": "あらわす",
+        "meaning_tw": "顯露、呈現",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "有り難い",
         "reading": "ありがたい",
-        "meaning_tw": "grateful, thankful, appreciated",
+        "meaning_tw": "感激、難得、可貴",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "あれこれ",
-        "reading": "あれこれ",
-        "meaning_tw": "one thing or another, this and that",
+        "word": "有る",
+        "reading": "ある",
+        "meaning_tw": "有、存在",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "荒れる",
-        "reading": "あれる",
-        "meaning_tw": "to be stormy, to be rough, to be ruined",
+        "word": "或る",
+        "reading": "ある",
+        "meaning_tw": "某、某個",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "慌ただしい",
+        "word": "あわただしい",
         "reading": "あわただしい",
-        "meaning_tw": "busy, hurried",
+        "meaning_tw": "匆忙的、慌張的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "慌てる",
-        "reading": "あわてる",
-        "meaning_tw": "to become confused (disconcerted, disorganized), to be flustered, to panic, to hurry, to rush, to hasten",
+        "word": "泡",
+        "reading": "あわ",
+        "meaning_tw": "泡沫",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "安易",
-        "reading": "あんい",
-        "meaning_tw": "easy-going",
+        "word": "合わせる",
+        "reading": "あわせる",
+        "meaning_tw": "合併、配合、對照",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "案外",
-        "reading": "あんがい",
-        "meaning_tw": "unexpectedly, surprisingly",
+        "word": "哀れ",
+        "reading": "あわれ",
+        "meaning_tw": "悲哀、可憐",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "アンテナ",
-        "reading": "アンテナ",
-        "meaning_tw": "antenna",
+        "word": "案",
+        "reading": "あん",
+        "meaning_tw": "計畫、方案、想法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "言い出す",
-        "reading": "いいだす",
-        "meaning_tw": "to start talking, to suggest",
+        "word": "暗記",
+        "reading": "あんき",
+        "meaning_tw": "背誦、暗記",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "言い付ける",
-        "reading": "いいつける",
-        "meaning_tw": "to tell, to order",
+        "word": "安定",
+        "reading": "あんてい",
+        "meaning_tw": "穩定、平衡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "意義",
-        "reading": "いぎ",
-        "meaning_tw": "meaning, significance",
+        "word": "案内",
+        "reading": "あんない",
+        "meaning_tw": "引導、導覽、通知",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "生き生き",
-        "reading": "いきいき",
-        "meaning_tw": "vividly, lively",
+        "word": "あんなに",
+        "reading": "あんなに",
+        "meaning_tw": "那樣地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "いきなり",
-        "reading": "いきなり",
-        "meaning_tw": "all of a sudden",
-        "level": "2",
-        "tags": "Intermediate_Japanese Intermediate_Japanese_Ln.13 JLPT JLPT_2"
-    },
-    {
-        "word": "幾～",
-        "reading": "いく～",
-        "meaning_tw": "several ~",
+        "word": "あんまり",
+        "reading": "あんまり",
+        "meaning_tw": "太、過於（同あまり）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "育児",
-        "reading": "いくじ",
-        "meaning_tw": "childcare, nursing",
-        "level": "2",
-        "tags": "Intermediate_Japanese Intermediate_Japanese_Ln.14 JLPT JLPT_2"
-    },
-    {
-        "word": "幾分",
-        "reading": "いくぶん",
-        "meaning_tw": "somewhat",
+        "word": "胃",
+        "reading": "い",
+        "meaning_tw": "胃",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "生け花",
-        "reading": "いけばな",
-        "meaning_tw": "flower arrangement",
+        "word": "いい (よい)",
+        "reading": "いい (よい)",
+        "meaning_tw": "好的、可以、足夠",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "以後",
-        "reading": "いご",
-        "meaning_tw": "after this; from now on; hereafter",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
-    },
-    {
-        "word": "イコール",
-        "reading": "イコール",
-        "meaning_tw": "equal",
+        "word": "委員",
+        "reading": "いいん",
+        "meaning_tw": "委員",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "以降",
-        "reading": "いこう",
-        "meaning_tw": "on and after, hereafter",
+        "word": "言う",
+        "reading": "いう",
+        "meaning_tw": "說、講",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "勇ましい",
-        "reading": "いさましい",
-        "meaning_tw": "brave, valiant",
+        "word": "意外",
+        "reading": "いがい",
+        "meaning_tw": "出乎意料",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "衣食住",
-        "reading": "いしょくじゅう",
-        "meaning_tw": "food, clothing and shelter",
+        "word": "生かす",
+        "reading": "いかす",
+        "meaning_tw": "活用、發揮、使其生存",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "いちいち",
-        "reading": "いちいち",
-        "meaning_tw": "one by one, separately",
+        "word": "いかに",
+        "reading": "いかに",
+        "meaning_tw": "如何、多麼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一応",
-        "reading": "いちおう",
-        "meaning_tw": "tentatively, for the time being",
+        "word": "いかにも",
+        "reading": "いかにも",
+        "meaning_tw": "確實、果然、真的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一段と",
-        "reading": "いちだんと",
-        "meaning_tw": "by far, greater",
+        "word": "怒り",
+        "reading": "いかり",
+        "meaning_tw": "憤怒",
         "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
+        "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一流",
-        "reading": "いちりゅう",
-        "meaning_tw": "first class, leading",
+        "word": "怒る",
+        "reading": "いかる (おこる)",
+        "meaning_tw": "生氣、憤怒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "維持",
+        "reading": "いじ",
+        "meaning_tw": "維持、維護",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "意識",
+        "reading": "いしき",
+        "meaning_tw": "意識、自覺",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "異常",
+        "reading": "いじょう",
+        "meaning_tw": "異常、不尋常",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "椅子",
+        "reading": "いす",
+        "meaning_tw": "椅子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "泉",
+        "reading": "いずみ",
+        "meaning_tw": "泉水、源泉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いずれ",
+        "reading": "いずれ",
+        "meaning_tw": "反正、遲早、其中之一",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "以前",
+        "reading": "いぜん",
+        "meaning_tw": "以前、過去",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "板",
+        "reading": "いた",
+        "meaning_tw": "板子、木板",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "偉大",
+        "reading": "いだい",
+        "meaning_tw": "偉大",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "抱く",
+        "reading": "いだく (だく)",
+        "meaning_tw": "抱、擁抱、懷抱（理想）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いたずら",
+        "reading": "いたずら",
+        "meaning_tw": "惡作劇、淘氣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "頂",
+        "reading": "いただき",
+        "meaning_tw": "山頂、頂點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "頂く",
+        "reading": "いただく",
+        "meaning_tw": "領受、吃、喝（謙讓語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "痛む",
+        "reading": "いたむ",
+        "meaning_tw": "疼痛",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "至る",
+        "reading": "いたる",
+        "meaning_tw": "到達、來到、至於",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "市",
+        "reading": "いち",
+        "meaning_tw": "城市、市區、市場",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一度に",
+        "reading": "いちどに",
+        "meaning_tw": "同時、一下子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "市場",
+        "reading": "いちば",
+        "meaning_tw": "市場",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一番",
+        "reading": "いちばん",
+        "meaning_tw": "第一、最",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いつのまにか",
+        "reading": "いつのまにか",
+        "meaning_tw": "不知不覺間",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "一昨日",
-        "reading": "いっさくじつ",
-        "meaning_tw": "day before yesterday",
+        "reading": "いっさくじつ (おととい)",
+        "meaning_tw": "前天",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "一昨年",
-        "reading": "いっさくねん",
-        "meaning_tw": "year before last",
+        "reading": "いっさくねん (おととし)",
+        "meaning_tw": "前年",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一斉",
-        "reading": "いっせい",
-        "meaning_tw": "simultaneous, all at once",
+        "word": "一斉に",
+        "reading": "いっせいに",
+        "meaning_tw": "一齊、同時",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一旦",
-        "reading": "いったん",
-        "meaning_tw": "once, for a moment",
+        "word": "一種",
+        "reading": "いっしゅ",
+        "meaning_tw": "一種、某種",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "一定",
-        "reading": "いってい",
-        "meaning_tw": "fixed, settled, regular",
+        "word": "一瞬",
+        "reading": "いっしゅん",
+        "meaning_tw": "一瞬間、頃刻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "行っていらっしゃい",
-        "reading": "いっていらっしゃい",
-        "meaning_tw": "have a nice day, see you",
+        "word": "一生",
+        "reading": "いっしょう",
+        "meaning_tw": "一生、終身",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一生懸命",
+        "reading": "いっしょうけんめい",
+        "meaning_tw": "努力、拼命地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一層",
+        "reading": "いっそう",
+        "meaning_tw": "更、更加、越發",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一体",
+        "reading": "いったい",
+        "meaning_tw": "一體、總之、到底",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一致",
+        "reading": "いっち",
+        "meaning_tw": "一致、吻合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "いってきます",
         "reading": "いってきます",
-        "meaning_tw": "(Lit.) I'll go and come back, 'I'm going, see you later'",
+        "meaning_tw": "我走了（出門時說）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いってらっしゃい",
+        "reading": "いってらっしゃい",
+        "meaning_tw": "慢走（對出門的人說）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一定",
+        "reading": "いってい",
+        "meaning_tw": "一定、固定、不變",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "いってまいります",
         "reading": "いってまいります",
-        "meaning_tw": "(Lit.) I'll go and come back, 'I'm going, see you later'",
+        "meaning_tw": "我走了（丁寧語）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "行ってらっしゃい",
-        "reading": "いってらっしゃい",
-        "meaning_tw": "have a nice day, see you",
+        "word": "いつまでも",
+        "reading": "いつまでも",
+        "meaning_tw": "永遠、始終",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いつも",
+        "reading": "いつも",
+        "meaning_tw": "總是、經常",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "移転",
         "reading": "いてん",
-        "meaning_tw": "moving, transfer",
+        "meaning_tw": "遷移、搬家、轉讓",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "井戸",
         "reading": "いど",
-        "meaning_tw": "water well",
+        "meaning_tw": "水井",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "緯度",
         "reading": "いど",
-        "meaning_tw": "latitude (navigation)",
+        "meaning_tw": "緯度",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "移動",
+        "reading": "いどう",
+        "meaning_tw": "移動、搬遷",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "従姉妹 (いとこ)",
+        "reading": "いとこ",
+        "meaning_tw": "堂（表）姐妹",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "従兄弟 (いとこ)",
+        "reading": "いとこ",
+        "meaning_tw": "堂（表）兄弟",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "従兄弟",
+        "reading": "いとこ",
+        "meaning_tw": "堂表兄弟姊妹",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "以内",
+        "reading": "いない",
+        "meaning_tw": "以內",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "田舎",
+        "reading": "いなか",
+        "meaning_tw": "鄉下、故鄉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "稲",
+        "reading": "いね",
+        "meaning_tw": "稻子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "居眠り",
+        "reading": "いねむり",
+        "meaning_tw": "打瞌睡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "命",
+        "reading": "いのち",
+        "meaning_tw": "生命、壽命",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "祈る",
+        "reading": "いのる",
+        "meaning_tw": "祈禱、祝願",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "威張る",
         "reading": "いばる",
-        "meaning_tw": "to be proud, to swagger",
+        "meaning_tw": "自吹自擂、傲慢、擺架子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "違反",
+        "reading": "いはん",
+        "meaning_tw": "違反、違背",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "衣服",
+        "reading": "いふく",
+        "meaning_tw": "衣服、服裝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "今さら",
+        "reading": "いまさら",
+        "meaning_tw": "事到如今、現在才",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "未だ",
+        "reading": "いまだ",
+        "meaning_tw": "還、尚未",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "今に",
+        "reading": "いまに",
+        "meaning_tw": "即將、遲早",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "今にも",
+        "reading": "いまにも",
+        "meaning_tw": "眼看、馬上",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning_tw": "意義、意思",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "イメージ",
+        "reading": "イメージ",
+        "meaning_tw": "形象、印象、圖像",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いや (嫌)",
+        "reading": "いや (嫌)",
+        "meaning_tw": "討厭的、不願意的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "嫌がる",
         "reading": "いやがる",
-        "meaning_tw": "reluctant, to dislike",
+        "meaning_tw": "討厭、不喜歡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "いよいよ",
         "reading": "いよいよ",
-        "meaning_tw": "more and more, increasingly, at last",
+        "meaning_tw": "終於、越發、果真",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "以来",
+        "reading": "いらい",
+        "meaning_tw": "以來、之後",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "依頼",
+        "reading": "いらい",
+        "meaning_tw": "委託、拜託、請求",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いらいら",
+        "reading": "いらいら",
+        "meaning_tw": "焦急、煩躁",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "医療",
+        "reading": "いりょう",
+        "meaning_tw": "醫療",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いる (要る)",
+        "reading": "いる (要る)",
+        "meaning_tw": "需要",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "いる (居る)",
+        "reading": "いる (居る)",
+        "meaning_tw": "有、在（人或動物）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "煎る",
         "reading": "いる",
-        "meaning_tw": "to roast",
+        "meaning_tw": "炒、烘焙",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "炒る",
         "reading": "いる",
-        "meaning_tw": "to parch, to roast",
+        "meaning_tw": "炒、烘焙",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "入れる",
+        "reading": "いれる",
+        "meaning_tw": "放入、倒進",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "入れ物",
         "reading": "いれもの",
-        "meaning_tw": "container, case",
+        "meaning_tw": "容器、盒子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "インキ",
-        "reading": "インキ",
-        "meaning_tw": "ink",
+        "word": "岩",
+        "reading": "いわ",
+        "meaning_tw": "岩石",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "引力",
-        "reading": "いんりょく",
-        "meaning_tw": "gravity",
+        "word": "祝う",
+        "reading": "いわう",
+        "meaning_tw": "慶祝、祝賀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ウーマン",
-        "reading": "ウーマン",
-        "meaning_tw": "woman",
+        "word": "いわゆる",
+        "reading": "いわゆる",
+        "meaning_tw": "所謂的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ウール",
-        "reading": "ウール",
-        "meaning_tw": "wool",
+        "word": "印",
+        "reading": "しるし",
+        "meaning_tw": "標記、符號、象徵",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ウエートレス",
-        "reading": "ウエートレス",
-        "meaning_tw": "waitress",
+        "word": "印刷",
+        "reading": "いんさつ",
+        "meaning_tw": "印刷",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "植木",
-        "reading": "うえき",
-        "meaning_tw": "garden shrubs, trees, potted plant",
+        "word": "印象",
+        "reading": "いんしょう",
+        "meaning_tw": "印象",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "飢える",
+        "word": "引退",
+        "reading": "いんたい",
+        "meaning_tw": "引退、退休",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "インタビュー",
+        "reading": "インタビュー",
+        "meaning_tw": "採訪、面談",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "飲料",
+        "reading": "いんりょう",
+        "meaning_tw": "飲料",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ウイルス",
+        "reading": "ウイルス",
+        "meaning_tw": "病毒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ウイスキー",
+        "reading": "ウイスキー",
+        "meaning_tw": "威士忌",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "植える",
         "reading": "うえる",
-        "meaning_tw": "to starve",
+        "meaning_tw": "種植、培育",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "浮ぶ",
+        "word": "魚",
+        "reading": "うお (さかな)",
+        "meaning_tw": "魚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "伺う",
+        "reading": "うかがう",
+        "meaning_tw": "拜訪、打聽、詢問（謙讓語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "浮かぶ",
         "reading": "うかぶ",
-        "meaning_tw": "to float, to rise to surface, to come to mind",
+        "meaning_tw": "浮起、浮現、想到",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "浮かべる",
         "reading": "うかべる",
-        "meaning_tw": "to float; to express",
+        "meaning_tw": "使浮起、露出（笑容）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "浮く",
         "reading": "うく",
-        "meaning_tw": "to float",
+        "meaning_tw": "浮、鬆動、剩餘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "承る",
         "reading": "うけたまわる",
-        "meaning_tw": "(humble) to hear, to be told, to know",
+        "meaning_tw": "聽取、接受、承諾（謙讓語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "受ける",
+        "reading": "うける",
+        "meaning_tw": "接受、受到、參加（考試）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "受付",
+        "reading": "うけつけ",
+        "meaning_tw": "接待、櫃檯、受理",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "受取",
         "reading": "うけとり",
-        "meaning_tw": "receipt",
+        "meaning_tw": "收據、領取",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "受け持つ",
-        "reading": "うけもつ",
-        "meaning_tw": "to take (be in) charge of",
+        "word": "受持",
+        "reading": "うけもち",
+        "meaning_tw": "擔當、負責",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "動かす",
+        "reading": "うごかす",
+        "meaning_tw": "使移動、開動、感動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning_tw": "移動、動作、變動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "牛",
+        "reading": "うし",
+        "meaning_tw": "牛",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "失う",
+        "reading": "うしなう",
+        "meaning_tw": "丟失、失去、喪失",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "薄い",
+        "reading": "うすい",
+        "meaning_tw": "薄的、淡的、淺的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "薄暗い",
         "reading": "うすぐらい",
-        "meaning_tw": "dim, gloomy",
+        "meaning_tw": "昏暗的、微暗的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "薄める",
         "reading": "うすめる",
-        "meaning_tw": "to dilute, to water down",
+        "meaning_tw": "弄淡、稀釋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "打合せ",
+        "word": "嘘",
+        "reading": "うそ",
+        "meaning_tw": "謊言",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "疑う",
+        "reading": "うたがう",
+        "meaning_tw": "懷疑",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "歌う",
+        "reading": "うたう",
+        "meaning_tw": "唱歌、歌頌",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "内",
+        "reading": "うち",
+        "meaning_tw": "裡面、內部、我家",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "打ち合わせ",
         "reading": "うちあわせ",
-        "meaning_tw": "business meeting, previous arrangement",
+        "meaning_tw": "碰頭、商量、預演",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "打ち消す",
         "reading": "うちけす",
-        "meaning_tw": "to deny, to negate",
+        "meaning_tw": "否定、抵消、消除",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "討つ",
+        "reading": "うつ",
+        "meaning_tw": "擊、攻、討伐",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "撃つ",
+        "reading": "うつ",
+        "meaning_tw": "射擊、攻擊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "打つ",
+        "reading": "うつ",
+        "meaning_tw": "打、擊、敲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "うっかり",
+        "reading": "うっかり",
+        "meaning_tw": "不留神、發呆",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "映す",
+        "reading": "うつす",
+        "meaning_tw": "照、映射、反映",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning_tw": "抄寫、模仿、拍照",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "移す",
+        "reading": "うつす",
+        "meaning_tw": "移動、挪動、轉移",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "映る",
+        "reading": "うつる",
+        "meaning_tw": "映出、投影、相配",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "写る",
         "reading": "うつる",
-        "meaning_tw": "to be photographed, to be projected",
+        "meaning_tw": "拍照、顯影",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "移る",
+        "reading": "うつる",
+        "meaning_tw": "移動、搬遷、感染",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "うで (腕)",
+        "reading": "うで (腕)",
+        "meaning_tw": "手臂、手腕、本事",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "うどん",
         "reading": "うどん",
-        "meaning_tw": "udon noodles (Japanese traditional noodles)",
+        "meaning_tw": "烏龍麵",
         "level": "2",
-        "tags": "Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese"
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "促す",
+        "reading": "うながす",
+        "meaning_tw": "促使、催促",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "うなずく",
         "reading": "うなずく",
-        "meaning_tw": "to nod",
+        "meaning_tw": "點頭、認可",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "唸る",
+        "reading": "うなる",
+        "meaning_tw": "呻吟、吼叫、嗡嗡響",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "自惚れ",
+        "reading": "うぬぼれ",
+        "meaning_tw": "自負、自大",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "奪う",
+        "reading": "うばう",
+        "meaning_tw": "奪取、掠奪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "馬",
+        "reading": "うま",
+        "meaning_tw": "馬",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "上手い",
+        "reading": "うまい",
+        "meaning_tw": "好吃的、高明的、順利的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "生まれ",
+        "reading": "うまれ",
+        "meaning_tw": "出生、出生地、門第",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "生まれる",
+        "reading": "うまれる",
+        "meaning_tw": "出生、產生",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "海",
+        "reading": "うみ",
+        "meaning_tw": "海洋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "有無",
         "reading": "うむ",
-        "meaning_tw": "existence or nonexistence, presence of absence consent or refusal, yes or no",
+        "meaning_tw": "有無",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "埋める",
         "reading": "うめる",
-        "meaning_tw": "to bury, to fill up, to fill (a seat, a vacant position)",
+        "meaning_tw": "填埋、填滿、補足",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "敬う",
         "reading": "うやまう",
-        "meaning_tw": "to show respect, to honor",
+        "meaning_tw": "尊敬、敬仰",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "裏返す",
-        "reading": "うらがえす",
-        "meaning_tw": "to turn inside out, to turn (something) over",
+        "word": "裏",
+        "reading": "うら",
+        "meaning_tw": "背面、裡面、內部",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "裏口",
-        "reading": "うらぐち",
-        "meaning_tw": "backdoor, rear entrance",
+        "word": "裏切る",
+        "reading": "うらぎる",
+        "meaning_tw": "背叛、辜負",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "占う",
         "reading": "うらなう",
-        "meaning_tw": "to predict, to divine",
+        "meaning_tw": "占卜、算命",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "恨み",
         "reading": "うらみ",
-        "meaning_tw": "resentment",
+        "meaning_tw": "恨意、怨言",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "恨む",
         "reading": "うらむ",
-        "meaning_tw": "to curse, to feel bitter",
+        "meaning_tw": "怨恨",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "羨ましい",
+        "reading": "うらやましい",
+        "meaning_tw": "令人羨慕的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "羨む",
         "reading": "うらやむ",
-        "meaning_tw": "to envy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "売上",
-        "reading": "うりあげ",
-        "meaning_tw": "amount sold, proceeds",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "売り上げ",
-        "reading": "うりあげ",
-        "meaning_tw": "amount sold, sales, proceeds, takings, turnover",
+        "meaning_tw": "羨慕、眼紅",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "売り切れ",
         "reading": "うりきれ",
-        "meaning_tw": "sold-out",
+        "meaning_tw": "售罄、賣完",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "売り切れる",
         "reading": "うりきれる",
-        "meaning_tw": "to be sold out",
+        "meaning_tw": "售完",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "売行き",
-        "reading": "うれゆき",
-        "meaning_tw": "sales",
+        "word": "売り場",
+        "reading": "うりば",
+        "meaning_tw": "售票處、櫃檯",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "売れ行き",
-        "reading": "うれゆき",
-        "meaning_tw": "sales, demand",
+        "word": "売る",
+        "reading": "うる",
+        "meaning_tw": "賣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "うろうろ",
-        "reading": "うろうろ",
-        "meaning_tw": "loitering, aimless wandering",
+        "word": "売れる",
+        "reading": "うれる",
+        "meaning_tw": "暢銷、好賣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "浮気",
+        "reading": "うわき",
+        "meaning_tw": "花心、見異思遷、外遇",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "上～",
-        "reading": "うわ～",
-        "meaning_tw": "upper ~",
+        "word": "噂",
+        "reading": "うわさ",
+        "meaning_tw": "謠言、傳聞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "運",
+        "reading": "うん",
+        "meaning_tw": "運氣、命運",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "運河",
         "reading": "うんが",
-        "meaning_tw": "canal, waterway",
+        "meaning_tw": "運河",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "うんと",
-        "reading": "うんと",
-        "meaning_tw": "a great deal, very much",
+        "word": "運送",
+        "reading": "うんそう",
+        "meaning_tw": "運送、運輸",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "運転",
+        "reading": "うんてん",
+        "meaning_tw": "駕駛、開車、運轉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning_tw": "運動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "運用",
+        "reading": "うんよう",
+        "meaning_tw": "運用、運用資金",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "永遠",
+        "reading": "えいえん",
+        "meaning_tw": "永遠、永恆",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning_tw": "電影",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "永久",
+        "reading": "えいきゅう",
+        "meaning_tw": "永久、長久",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "影響",
+        "reading": "えいきょう",
+        "meaning_tw": "影響",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "衛星",
+        "reading": "えいせい",
+        "meaning_tw": "衛星",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "衛生",
+        "reading": "えいせい",
+        "meaning_tw": "衛生",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "英文",
         "reading": "えいぶん",
-        "meaning_tw": "sentence in English",
+        "meaning_tw": "英文",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "英和",
-        "reading": "えいわ",
-        "meaning_tw": "English-Japanese (e.g., dictionary)",
+        "word": "英雄",
+        "reading": "えいゆう",
+        "meaning_tw": "英雄",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ええと",
-        "reading": "ええと",
-        "meaning_tw": "let me see, well, er...",
+        "word": "栄養",
+        "reading": "えいよう",
+        "meaning_tw": "營養",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "液体",
-        "reading": "えきたい",
-        "meaning_tw": "liquid, fluid",
+        "word": "笑顔",
+        "reading": "えがお",
+        "meaning_tw": "笑容",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "エチケット",
-        "reading": "エチケット",
-        "meaning_tw": "etiquette",
+        "word": "描く",
+        "reading": "えがく",
+        "meaning_tw": "描繪、描寫",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "絵の具",
-        "reading": "えのぐ",
-        "meaning_tw": "colors, paints",
+        "word": "餌",
+        "reading": "えさ",
+        "meaning_tw": "餌、飼料",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "エプロン",
-        "reading": "エプロン",
-        "meaning_tw": "apron",
+        "word": "枝",
+        "reading": "えだ",
+        "meaning_tw": "樹枝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "偉い",
-        "reading": "えらい",
-        "meaning_tw": "great, celebrated, remarkable,",
+        "word": "閲覧",
+        "reading": "えつらん",
+        "meaning_tw": "閱覽、瀏覽",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "獲物",
+        "reading": "えもの",
+        "meaning_tw": "獵物、捕獲物",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "獲る",
+        "reading": "える",
+        "meaning_tw": "獲得、捕獲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "得る",
+        "reading": "える",
+        "meaning_tw": "得到、獲得",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "宴会",
         "reading": "えんかい",
-        "meaning_tw": "party, banquet",
+        "meaning_tw": "宴會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "園芸",
-        "reading": "えんげい",
-        "meaning_tw": "horticulture, gardening",
+        "word": "延期",
+        "reading": "えんき",
+        "meaning_tw": "延期",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "演劇",
-        "reading": "えんげき",
-        "meaning_tw": "play (theatrical)",
+        "word": "演技",
+        "reading": "えんぎ",
+        "meaning_tw": "演技、表現",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "円周",
-        "reading": "えんしゅう",
-        "meaning_tw": "circumference",
+        "word": "援助",
+        "reading": "えんじょ",
+        "meaning_tw": "援助、幫助",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "演説",
+        "reading": "えんぜつ",
+        "meaning_tw": "演說、演講",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "演奏",
+        "reading": "えんそう",
+        "meaning_tw": "演奏",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "遠足",
         "reading": "えんそく",
-        "meaning_tw": "trip, hike, picnic",
+        "meaning_tw": "遠足、郊遊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "延長",
         "reading": "えんちょう",
-        "meaning_tw": "extension, prolongation",
+        "meaning_tw": "延長",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "煙突",
         "reading": "えんとつ",
-        "meaning_tw": "chimney",
+        "meaning_tw": "煙囪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "オーケストラ",
-        "reading": "オーケストラ",
-        "meaning_tw": "orchestra",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "オートメーション",
-        "reading": "オートメーション",
-        "meaning_tw": "automation",
+        "word": "遠慮",
+        "reading": "えんりょ",
+        "meaning_tw": "顧慮、客氣、謝絕",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "追いかける",
         "reading": "おいかける",
-        "meaning_tw": "to chase or run after someone",
+        "meaning_tw": "追趕",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "追い越す",
         "reading": "おいこす",
-        "meaning_tw": "to pass (e.g., car), to outdistance, to outstrip",
+        "meaning_tw": "超越、追過",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "オイル",
-        "reading": "オイル",
-        "meaning_tw": "oil",
+        "word": "追い出す",
+        "reading": "おいだす",
+        "meaning_tw": "趕出、逐出",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "追い付く",
+        "reading": "おいつく",
+        "meaning_tw": "趕上",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "王",
+        "reading": "おう",
+        "meaning_tw": "王、國王",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "応援",
         "reading": "おうえん",
-        "meaning_tw": "aid, assistance, help, support, reinforcement cheering, rooting (for), support",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "王女",
-        "reading": "おうじょ",
-        "meaning_tw": "princess",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "応ずる",
-        "reading": "おうずる",
-        "meaning_tw": "to respond, to comply with",
+        "meaning_tw": "援助、加油、聲援",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "応接",
         "reading": "おうせつ",
-        "meaning_tw": "reception",
+        "meaning_tw": "接待、應接",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "応対",
         "reading": "おうたい",
-        "meaning_tw": "receiving, dealing with",
+        "meaning_tw": "應對、招待",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "黄金",
+        "reading": "おうごん",
+        "meaning_tw": "黃金",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "王子",
+        "reading": "おうじ",
+        "meaning_tw": "王子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "王女",
+        "reading": "おうじょ",
+        "meaning_tw": "王女、公主",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "応答",
+        "reading": "おうとう",
+        "meaning_tw": "回答、響應",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "往復",
         "reading": "おうふく",
-        "meaning_tw": "(col) round trip, coming and going, return ticket",
+        "meaning_tw": "往返、來回",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "欧米",
+        "word": "歐米",
         "reading": "おうべい",
-        "meaning_tw": "Europe and America, the West",
+        "meaning_tw": "歐美",
         "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "応用",
         "reading": "おうよう",
-        "meaning_tw": "application, put to practical use",
+        "meaning_tw": "應用",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "おおざっぱ",
+        "word": "大雑把",
         "reading": "おおざっぱ",
-        "meaning_tw": "rough (not precise), broad, sketchy",
+        "meaning_tw": "粗略、草率、大而化之",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "大空",
+        "reading": "おおぞら",
+        "meaning_tw": "天空、長空",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "大通り",
         "reading": "おおどおり",
-        "meaning_tw": "main street",
+        "meaning_tw": "大馬路、大街",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "大凡",
-        "reading": "おおよそ",
-        "meaning_tw": "about, approximately",
+        "word": "大幅",
+        "reading": "おおはば",
+        "meaning_tw": "大幅度",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お帰り",
-        "reading": "おかえり",
-        "meaning_tw": "return, welcome",
+        "word": "大水",
+        "reading": "おおみず",
+        "meaning_tw": "洪水、大水",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "おかけください",
-        "reading": "おかけください",
-        "meaning_tw": "please sit down",
+        "word": "終える",
+        "reading": "おえる",
+        "meaning_tw": "完成、結束",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "おかげさまで",
-        "reading": "おかげさまで",
-        "meaning_tw": "Thanks to god, thanks to you",
+        "word": "覆う",
+        "reading": "おおう",
+        "meaning_tw": "覆蓋、掩蓋",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "狼",
+        "reading": "おおかみ",
+        "meaning_tw": "狼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "大家",
+        "reading": "おおや",
+        "meaning_tw": "房東",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "おおよそ",
+        "meaning_tw": "大約、大概",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "丘",
+        "reading": "おか",
+        "meaning_tw": "山丘、小山",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "おかず",
-        "reading": "おかず",
-        "meaning_tw": "side dish, accompaniment for rice dishes",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "おかまいなく",
-        "reading": "おかまいなく",
-        "meaning_tw": "please don't fuss over me",
+        "meaning_tw": "菜餚、配菜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "拝む",
         "reading": "おがむ",
-        "meaning_tw": "to worship, to pray",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "お代わり",
-        "reading": "おかわり",
-        "meaning_tw": "second helping, another cup",
+        "meaning_tw": "拜、祈求、瞻仰",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "補う",
         "reading": "おぎなう",
-        "meaning_tw": "to compensate for",
+        "meaning_tw": "補償、補充",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お気の毒に",
-        "reading": "おきのどくに",
-        "meaning_tw": "I'm sorry to hear that…",
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning_tw": "起床、發生",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "屋外",
-        "reading": "おくがい",
-        "meaning_tw": "outdoors",
+        "word": "置く",
+        "reading": "おく",
+        "meaning_tw": "放置、設置",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "送り仮名",
-        "reading": "おくりがな",
-        "meaning_tw": "part of word written in kana",
+        "word": "臆病",
+        "reading": "おくびょう",
+        "meaning_tw": "膽怯、膽小",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お元気で",
-        "reading": "おげんきで",
-        "meaning_tw": "Take care'",
+        "word": "遅らす",
+        "reading": "おくらす",
+        "meaning_tw": "推遲、延誤",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "怠る",
-        "reading": "おこたる",
-        "meaning_tw": "to neglect, to fail",
+        "word": "遅れる",
+        "reading": "おくれる",
+        "meaning_tw": "延遲、遲到",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "押さえる",
+        "word": "起す",
+        "reading": "おこす",
+        "meaning_tw": "喚醒、引起",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "行う",
+        "reading": "おこなう",
+        "meaning_tw": "舉行、進行",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "起こる",
+        "reading": "おこる",
+        "meaning_tw": "發生、引起",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "抑える",
         "reading": "おさえる",
-        "meaning_tw": "to pin down, to hold down, to press down, to hold in place, to hold steady to cover (esp. a part of one's body with one's hand), to clutch (a body part in pain), to press (a body part) to get a hold of, to obtain, to seize, to catch, to arrest",
+        "meaning_tw": "壓抑、制止、控制",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お先に",
-        "reading": "おさきに",
-        "meaning_tw": "before, after you",
+        "word": "收まる",
+        "reading": "おさまる",
+        "meaning_tw": "收納、平息、解決",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "伯父",
-        "reading": "おじ",
-        "meaning_tw": "(humble) uncle (older than one's parent)",
+        "word": "納まる",
+        "reading": "おさまる",
+        "meaning_tw": "納入、收納",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "叔父",
-        "reading": "おじ",
-        "meaning_tw": "uncle (younger than one's parent)",
+        "word": "治まる",
+        "reading": "おさまる",
+        "meaning_tw": "統治、平定、平息",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "收める",
+        "reading": "おさめる",
+        "meaning_tw": "收納、取得、結束",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "納める",
+        "reading": "おさめる",
+        "meaning_tw": "繳納、供應",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "治める",
+        "reading": "おさめる",
+        "meaning_tw": "統治、治理",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "惜しい",
         "reading": "おしい",
-        "meaning_tw": "regrettable, disappointing",
+        "meaning_tw": "可惜的、捨不得",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "伯父さん",
-        "reading": "おじさん",
-        "meaning_tw": "(hon.) middle-aged gentleman, uncle",
+        "word": "おじいさん",
+        "meaning_tw": "祖父、老爺爺",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "小父さん",
-        "reading": "おじさん",
-        "meaning_tw": "(hon.) middle-aged gentleman, uncle",
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning_tw": "教導、告訴",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "叔父さん",
-        "reading": "おじさん",
-        "meaning_tw": "(hon.) middle-aged gentleman, uncle",
+        "word": "お辭儀",
+        "reading": "おじぎ",
+        "meaning_tw": "鞠躬、敬禮",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お邪魔します",
-        "reading": "おじゃまします",
-        "meaning_tw": "Excuse me for disturbing you",
+        "word": "伯父",
+        "reading": "おじ",
+        "meaning_tw": "伯父、叔父",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お世話になりました",
-        "reading": "おせわになりました",
-        "meaning_tw": "I've been in your care",
+        "word": "叔父",
+        "reading": "おじ",
+        "meaning_tw": "叔父、伯父",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お大事に",
-        "reading": "おだいじに",
-        "meaning_tw": "Take care of yourself, Take care!, Get well soon",
+        "word": "おしゃれ",
+        "meaning_tw": "時髦、愛打扮",
         "level": "2",
-        "tags": "JLPT Genki_Ln.12 Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.12 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
-        "word": "落着く",
-        "reading": "おちつく",
-        "meaning_tw": "to calm down, to settle down",
+        "word": "お喋り",
+        "reading": "おしゃべり",
+        "meaning_tw": "聊天、多嘴",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "汚染",
+        "reading": "おせん",
+        "meaning_tw": "污染",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "遅い",
+        "reading": "おそい",
+        "meaning_tw": "慢的、遲的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "襲う",
+        "reading": "おそう",
+        "meaning_tw": "襲擊、繼承",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恐らく",
+        "reading": "おそらく",
+        "meaning_tw": "恐怕、大概",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恐れる",
+        "reading": "おそれる",
+        "meaning_tw": "害怕、恐懼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恐ろしい",
+        "reading": "おそろしい",
+        "meaning_tw": "可怕的、驚人的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "穏やか",
+        "reading": "おだやか",
+        "meaning_tw": "溫和、平靜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "お出掛け",
         "reading": "おでかけ",
-        "meaning_tw": "outing",
+        "meaning_tw": "出門、外出",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "お手伝いさん",
-        "reading": "おてつだいさん",
-        "meaning_tw": "maid",
+        "meaning_tw": "女傭、幫傭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "脅かす",
         "reading": "おどかす",
-        "meaning_tw": "to threaten, to coerce",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "落し物",
-        "reading": "おとしもの",
-        "meaning_tw": "lost property",
+        "meaning_tw": "威脅、嚇唬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "驚かす",
         "reading": "おどろかす",
-        "meaning_tw": "to surprise, to frighten",
+        "meaning_tw": "驚嚇",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お願いします",
-        "reading": "おねがいします",
-        "meaning_tw": "Please (lit., I request)",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese"
-    },
-    {
-        "word": "各々",
-        "reading": "おのおの",
-        "meaning_tw": "each, every, either",
+        "word": "落とし物",
+        "meaning_tw": "失物、遺失物",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "伯母",
-        "reading": "おば",
-        "meaning_tw": "(humble) aunt (older than one's parent)",
+        "word": "訪れる",
+        "reading": "おとずれる",
+        "meaning_tw": "拜訪、訪問、到來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "叔母",
-        "reading": "おば",
-        "meaning_tw": "aunt (younger than one's parent)",
+        "word": "劣る",
+        "reading": "おとる",
+        "meaning_tw": "劣於、不如",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "小母さん",
-        "reading": "おばさん",
-        "meaning_tw": "lady, woman, ma'am",
+        "word": "おどおど",
+        "meaning_tw": "提心吊膽、戰戰兢兢",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "おはよう",
-        "reading": "おはよう",
-        "meaning_tw": "(abbr.) Good morning",
+        "word": "踴り",
+        "reading": "おどり",
+        "meaning_tw": "舞蹈",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お参り",
+        "word": "踴る",
+        "reading": "おどる",
+        "meaning_tw": "跳舞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "驚く",
+        "reading": "おどろく",
+        "meaning_tw": "驚訝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鬼",
+        "reading": "おに",
+        "meaning_tw": "鬼、惡魔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "帯",
+        "reading": "おび",
+        "meaning_tw": "帶子、腰帶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "おびえる",
+        "meaning_tw": "害怕、恐懼、膽怯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "おびただしい",
+        "meaning_tw": "大量的、很多的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "脅す",
+        "reading": "おどす",
+        "meaning_tw": "威脅、恐嚇",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "覚え",
+        "reading": "おぼえ",
+        "meaning_tw": "記憶、理解、名聲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "覚える",
+        "reading": "おぼえる",
+        "meaning_tw": "記住、學習",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "お前",
+        "reading": "おまえ",
+        "meaning_tw": "你（對等或對下稱呼）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "お參り",
         "reading": "おまいり",
-        "meaning_tw": "worship, shrine visit",
+        "meaning_tw": "參拜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お待たせしました",
-        "reading": "おまたせしました",
-        "meaning_tw": "Sorry to have kept you waiting",
+        "word": "おまけ",
+        "meaning_tw": "贈品、折扣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お待ちください",
-        "reading": "おまちください",
-        "meaning_tw": "Please wait a moment",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "おまちどおさま",
-        "reading": "おまちどおさま",
-        "meaning_tw": "Sorry to have kept you waiting",
+        "word": "お待ち遠様",
+        "meaning_tw": "讓你久等了",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "おめでたい",
-        "reading": "おめでたい",
-        "meaning_tw": "happy event, matter for congratulation",
+        "meaning_tw": "值得慶賀、喜慶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "思い掛けない",
-        "reading": "おもいがけない",
-        "meaning_tw": "unexpected, casual",
+        "word": "思い",
+        "reading": "おもい",
+        "meaning_tw": "想法、思念、願望",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "思い切り",
         "reading": "おもいきり",
-        "meaning_tw": "with all one's strength (heart), resignation, resolution",
+        "meaning_tw": "盡情地、果斷地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "思い切る",
+        "reading": "おもいきる",
+        "meaning_tw": "下定決心、死心",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "思い込む",
         "reading": "おもいこむ",
-        "meaning_tw": "to be under impression that, to be convinced that",
+        "meaning_tw": "深信、固執",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "思いっ切り",
-        "reading": "おもいっきり",
-        "meaning_tw": "very, much, fully",
+        "word": "思い出す",
+        "reading": "おもいだす",
+        "meaning_tw": "想起",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "思いっきり",
-        "reading": "おもいっきり",
-        "meaning_tw": "to the best of one's ability",
+        "word": "思い付き",
+        "reading": "おもいつき",
+        "meaning_tw": "想法、主意、偶然想到",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "思い付く",
+        "reading": "おもいつく",
+        "meaning_tw": "想到、想起",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "重たい",
         "reading": "おもたい",
-        "meaning_tw": "heavy, massive, serious",
+        "meaning_tw": "重的、沈重的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "お休み",
-        "reading": "おやすみ",
-        "meaning_tw": "holiday, absence; (exp.) Good night",
+        "word": "おもちゃ",
+        "meaning_tw": "玩具",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "表",
+        "reading": "おもて",
+        "meaning_tw": "表面、正面",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "おもてなし",
+        "meaning_tw": "款待、招待",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "主",
+        "reading": "おも",
+        "meaning_tw": "主要、主要部分",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "主に",
+        "reading": "おもに",
+        "meaning_tw": "主要地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "思わず",
+        "reading": "おもわず",
+        "meaning_tw": "不禁、不由自主地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "親",
+        "reading": "おや",
+        "meaning_tw": "父母、雙親",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "おやつ",
-        "reading": "おやつ",
-        "meaning_tw": "between meal snack, afternoon refreshment",
+        "meaning_tw": "點心、零食",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "親指",
         "reading": "おやゆび",
-        "meaning_tw": "thumb",
+        "meaning_tw": "拇指",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "オルガン",
-        "reading": "オルガン",
-        "meaning_tw": "organ",
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "meaning_tw": "游泳",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "御～",
-        "reading": "おん～",
-        "meaning_tw": "honorific ~",
+        "word": "及ぼす",
+        "reading": "およぼす",
+        "meaning_tw": "波及、影響、使達到",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "降りる",
+        "reading": "おりる",
+        "meaning_tw": "下（車）、降下",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "織る",
+        "reading": "おる",
+        "meaning_tw": "編織",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "折る",
+        "reading": "おる",
+        "meaning_tw": "折斷、彎曲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "俺",
+        "reading": "おれ",
+        "meaning_tw": "我（男性用語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "愚か",
+        "reading": "おろか",
+        "meaning_tw": "愚蠢、笨",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "おろそか",
+        "meaning_tw": "疏忽、草率",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "終わる",
+        "reading": "おわる",
+        "meaning_tw": "結束",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恩",
+        "reading": "おん",
+        "meaning_tw": "恩情、恩惠",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "恩恵",
         "reading": "おんけい",
-        "meaning_tw": "blessing, benefit",
+        "meaning_tw": "恩惠、利益",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "温室",
+        "word": "溫室",
         "reading": "おんしつ",
-        "meaning_tw": "greenhouse",
+        "meaning_tw": "溫室",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "温泉",
+        "word": "溫泉",
         "reading": "おんせん",
-        "meaning_tw": "spa, hot spring",
+        "meaning_tw": "溫泉",
         "level": "2",
-        "tags": "JLPT Intermediate_Japanese JLPT_2 Genki_Ln.9 Intermediate_Japanese_Ln.10 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
-        "word": "温帯",
+        "word": "溫帯",
         "reading": "おんたい",
-        "meaning_tw": "temperate zone",
+        "meaning_tw": "溫帶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "御中",
         "reading": "おんちゅう",
-        "meaning_tw": "Messrs.",
+        "meaning_tw": "啟、公啟（用於單位）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "女の人",
-        "reading": "おんなのひと",
-        "meaning_tw": "woman",
+        "word": "溫度",
+        "reading": "おんど",
+        "meaning_tw": "溫度",
         "level": "2",
-        "tags": "Genki_Ln.7 JLPT JLPT_2 Genki"
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "女",
+        "reading": "おんな",
+        "meaning_tw": "女、女性",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "蚊",
         "reading": "か",
-        "meaning_tw": "mosquito",
+        "meaning_tw": "蚊子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "カーブ",
-        "reading": "カーブ",
-        "meaning_tw": "curve; curve ball (baseball)",
+        "word": "可",
+        "reading": "か",
+        "meaning_tw": "可、合格",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "貝",
+        "word": "課",
+        "reading": "か",
+        "meaning_tw": "課、部門",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "会",
         "reading": "かい",
-        "meaning_tw": "shell, shellfish",
+        "meaning_tw": "會、會議、集會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "外～",
-        "reading": "がい～",
-        "meaning_tw": "foreign ~, outside ~",
+        "word": "回",
+        "reading": "かい",
+        "meaning_tw": "次、回",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "開会",
-        "reading": "かいかい",
-        "meaning_tw": "opening of a meeting",
+        "word": "害",
+        "reading": "がい",
+        "meaning_tw": "害、損害",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "会館",
-        "reading": "かいかん",
-        "meaning_tw": "meeting hall, assembly hall",
+        "word": "会員",
+        "reading": "かいいん",
+        "meaning_tw": "會員",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "絵画",
+        "reading": "かいが",
+        "meaning_tw": "繪畫",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "海外",
+        "reading": "かいがい",
+        "meaning_tw": "海外、國外",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "海岸",
+        "reading": "かいがん",
+        "meaning_tw": "海岸、海濱",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "会計",
+        "reading": "かいけい",
+        "meaning_tw": "會計、結帳",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "解決",
+        "reading": "かいけつ",
+        "meaning_tw": "解決",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "会合",
+        "reading": "かいごう",
+        "meaning_tw": "會合、集會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "改札",
         "reading": "かいさつ",
-        "meaning_tw": "examination of tickets",
+        "meaning_tw": "驗票、剪票",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "解散",
         "reading": "かいさん",
-        "meaning_tw": "breakup, dissolution",
+        "meaning_tw": "解散",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "海水浴",
-        "reading": "かいすいよく",
-        "meaning_tw": "sea bathing, seawater bath",
+        "word": "開始",
+        "reading": "かいし",
+        "meaning_tw": "開始",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "回数",
-        "reading": "かいすう",
-        "meaning_tw": "number of times, frequency",
+        "word": "解釈",
+        "reading": "かいしゃく",
+        "meaning_tw": "解釋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "回数券",
-        "reading": "かいすうけん",
-        "meaning_tw": "book of tickets",
+        "word": "外出",
+        "reading": "がいしゅつ",
+        "meaning_tw": "外出",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "改正",
         "reading": "かいせい",
-        "meaning_tw": "revision, amendment, alteration",
+        "meaning_tw": "改正、修正",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "快晴",
         "reading": "かいせい",
-        "meaning_tw": "good weather",
+        "meaning_tw": "晴朗、大晴天",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "解説",
         "reading": "かいせつ",
-        "meaning_tw": "explanation, commentary",
+        "meaning_tw": "解說",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "改造",
-        "reading": "かいぞう",
-        "meaning_tw": "remodeling",
+        "word": "改善",
+        "reading": "かいぜん",
+        "meaning_tw": "改善",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "開通",
         "reading": "かいつう",
-        "meaning_tw": "opening, open",
+        "meaning_tw": "開通、通車",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "回転",
-        "reading": "かいてん",
-        "meaning_tw": "rotation, turning",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "解答",
-        "reading": "かいとう",
-        "meaning_tw": "answer, solution",
+        "word": "快適",
+        "reading": "かいてき",
+        "meaning_tw": "舒適",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "回答",
         "reading": "かいとう",
-        "meaning_tw": "reply, answer",
+        "meaning_tw": "回答、解答",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "外部",
         "reading": "がいぶ",
-        "meaning_tw": "the outside, external",
+        "meaning_tw": "外部",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "解放",
         "reading": "かいほう",
-        "meaning_tw": "release, liberation, emancipation",
+        "meaning_tw": "解放、釋放",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "開放",
         "reading": "かいほう",
-        "meaning_tw": "open, throw open, liberalization",
+        "meaning_tw": "開放",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "海洋",
         "reading": "かいよう",
-        "meaning_tw": "ocean",
+        "meaning_tw": "海洋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "概論",
         "reading": "がいろん",
-        "meaning_tw": "introduction, general remark",
+        "meaning_tw": "概論",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "却って",
-        "reading": "かえって",
-        "meaning_tw": "on the contrary, rather",
+        "word": "帰る",
+        "reading": "かえる",
+        "meaning_tw": "回去、回來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "家屋",
-        "reading": "かおく",
-        "meaning_tw": "house, building",
+        "word": "変える",
+        "reading": "かえる",
+        "meaning_tw": "改變、更換",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "係わる",
-        "reading": "かかわる",
-        "meaning_tw": "to concern oneself in, to be involved in",
+        "word": "代える",
+        "reading": "かえる",
+        "meaning_tw": "代替、更換",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "書留",
-        "reading": "かきとめ",
-        "meaning_tw": "registered mail",
+        "word": "替える",
+        "reading": "かえる",
+        "meaning_tw": "更換、替換",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "書取",
-        "reading": "かきとり",
-        "meaning_tw": "dictation",
+        "word": "換える",
+        "reading": "かえる",
+        "meaning_tw": "交換、變換",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "垣根",
-        "reading": "かきね",
-        "meaning_tw": "hedge",
+        "word": "香り",
+        "reading": "かおり",
+        "meaning_tw": "香氣、香味",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "限り",
-        "reading": "かぎり",
-        "meaning_tw": "limit(s), as far as possible",
+        "word": "畫家",
+        "reading": "がか",
+        "meaning_tw": "畫家",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "各～",
-        "reading": "かく～",
-        "meaning_tw": "every ~, each ~",
+        "word": "抱える",
+        "reading": "かかえる",
+        "meaning_tw": "抱、擔負、承擔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "架空",
-        "reading": "かくう",
-        "meaning_tw": "imaginary, fiction, fanciful",
+        "word": "価格",
+        "reading": "かかく",
+        "meaning_tw": "價格",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "各自",
-        "reading": "かくじ",
-        "meaning_tw": "individual, each",
+        "word": "化學",
+        "reading": "かがく",
+        "meaning_tw": "化學",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "拡充",
-        "reading": "かくじゅう",
-        "meaning_tw": "expansion",
+        "word": "科學",
+        "reading": "かがく",
+        "meaning_tw": "科學",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学術",
-        "reading": "がくじゅつ",
-        "meaning_tw": "science, learning, scholarship",
+        "word": "輝く",
+        "reading": "かがやく",
+        "meaning_tw": "發光、輝煌",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "各地",
-        "reading": "かくち",
-        "meaning_tw": "various parts of the country",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "拡張",
-        "reading": "かくちょう",
-        "meaning_tw": "expansion, extension",
+        "word": "係",
+        "reading": "かかり",
+        "meaning_tw": "擔任、負責人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "角度",
-        "reading": "かくど",
-        "meaning_tw": "angle",
+        "word": "掛かる",
+        "reading": "かかる",
+        "meaning_tw": "掛著、花費、啟動",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学年",
-        "reading": "がくねん",
-        "meaning_tw": "year in school, grade in school",
+        "word": "懸かる",
+        "reading": "かかる",
+        "meaning_tw": "掛、懸、關聯",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学部",
-        "reading": "がくぶ",
-        "meaning_tw": "department of a university undergraduate (course, program, etc.)",
+        "word": "罹る",
+        "reading": "かかる",
+        "meaning_tw": "患病、染上",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "格別",
-        "reading": "かくべつ",
-        "meaning_tw": "exceptional",
+        "word": "鍵",
+        "reading": "かぎ",
+        "meaning_tw": "鑰匙",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "確率",
-        "reading": "かくりつ",
-        "meaning_tw": "probability",
+        "word": "限る",
+        "reading": "かぎる",
+        "meaning_tw": "限制、限定",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学力",
-        "reading": "がくりょく",
-        "meaning_tw": "scholarship, knowledge",
+        "word": "描く",
+        "reading": "かく",
+        "meaning_tw": "畫、描繪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "角",
+        "reading": "かく",
+        "meaning_tw": "角、角度、角落",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "掛け算",
-        "reading": "かけざん",
-        "meaning_tw": "multiplication",
+        "word": "各",
+        "reading": "かく",
+        "meaning_tw": "各、各個",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かけざん",
-        "reading": "かけざん",
-        "meaning_tw": "multiplication",
+        "word": "格",
+        "reading": "かく",
+        "meaning_tw": "資格、等級、格調",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "可決",
-        "reading": "かけつ",
-        "meaning_tw": "approval, adoption (e.g., motion, bill), passage",
+        "word": "核",
+        "reading": "かく",
+        "meaning_tw": "核、核心、原子核",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "火口",
-        "reading": "かこう",
-        "meaning_tw": "crater (of a volcano)",
+        "word": "学問",
+        "reading": "がくもん",
+        "meaning_tw": "學問、學術、學習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下降",
-        "reading": "かこう",
-        "meaning_tw": "decline, descent, fall",
+        "word": "欠ける",
+        "reading": "かける",
+        "meaning_tw": "缺損、缺少、缺乏",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "掲げる",
+        "reading": "かかげる",
+        "meaning_tw": "懸掛、高舉、刊載",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "籠",
+        "reading": "かご",
+        "meaning_tw": "籃子、籠子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning_tw": "過去",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "囲む",
+        "reading": "かこむ",
+        "meaning_tw": "圍繞、圍住",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "火災",
+        "reading": "かさい",
+        "meaning_tw": "火災",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "重なる",
+        "reading": "かさなる",
+        "meaning_tw": "重疊、重合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "重ねる",
         "reading": "かさねる",
-        "meaning_tw": "to pile up, to heap up, to stack up, to put on top of another to repeat many times over, to go through repeatedly, to accumulate",
+        "meaning_tw": "疊放、重疊、反覆",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "飾り",
         "reading": "かざり",
-        "meaning_tw": "decoration, ornament, trimmings",
+        "meaning_tw": "裝飾、裝飾品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "火山",
-        "reading": "かざん",
-        "meaning_tw": "volcano",
+        "word": "飾る",
+        "reading": "かざる",
+        "meaning_tw": "裝飾、點綴",
         "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
+        "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かしこまりました",
-        "reading": "かしこまりました",
-        "meaning_tw": "Certainly",
+        "word": "貸し",
+        "reading": "かし",
+        "meaning_tw": "出租、借出、債權",
         "level": "2",
-        "tags": "JLPT JLPT_2 Genki_Ln.20 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
-        "word": "貸し出し",
-        "reading": "かしだし",
-        "meaning_tw": "lending, loaning",
+        "word": "菓子",
+        "reading": "かし",
+        "meaning_tw": "點心、糖果、糕點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "家事",
+        "reading": "かじ",
+        "meaning_tw": "家事、家務",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "賢い",
+        "reading": "かしこい",
+        "meaning_tw": "聰明的、賢明的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "貸し出す",
+        "reading": "かしだす",
+        "meaning_tw": "借出、出租",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "過失",
         "reading": "かしつ",
-        "meaning_tw": "error, mistake, negligence",
+        "meaning_tw": "過失、失誤",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "果実",
         "reading": "かじつ",
-        "meaning_tw": "fruit",
+        "meaning_tw": "果實、成果",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "貸間",
-        "reading": "かしま",
-        "meaning_tw": "room to let",
+        "word": "貸す",
+        "reading": "かす",
+        "meaning_tw": "借給、出租",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "貸家",
-        "reading": "かしや",
-        "meaning_tw": "house for rent",
+        "word": "霞む",
+        "reading": "かすむ",
+        "meaning_tw": "模糊、雲霧繚繞、看不清",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "箇所",
-        "reading": "かしょ",
-        "meaning_tw": "place, point, part",
+        "word": "化石",
+        "reading": "かせき",
+        "meaning_tw": "化石",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かしょ",
-        "reading": "かしょ",
-        "meaning_tw": "passage, place",
+        "word": "稼ぐ",
+        "reading": "かせぐ",
+        "meaning_tw": "賺錢、爭取（時間）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "過剰",
-        "reading": "かじょう",
-        "meaning_tw": "excess, over-",
+        "word": "数",
+        "reading": "かず",
+        "meaning_tw": "數字、數量",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かじる",
-        "reading": "かじる",
-        "meaning_tw": "to chew, to bite (at)",
+        "word": "数える",
+        "reading": "かぞえる",
+        "meaning_tw": "計算、數數",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "課税",
-        "reading": "かぜい",
-        "meaning_tw": "taxation",
+        "word": "肩",
+        "reading": "かた",
+        "meaning_tw": "肩膀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "カセット",
-        "reading": "カセット",
-        "meaning_tw": "cassette (tape)",
+        "word": "型",
+        "reading": "かた",
+        "meaning_tw": "模型、樣式、型號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下線",
-        "reading": "かせん",
-        "meaning_tw": "underline, underscore",
+        "word": "形",
+        "reading": "かたち",
+        "meaning_tw": "形狀、形式、樣子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "加速",
-        "reading": "かそく",
-        "meaning_tw": "acceleration",
+        "word": "刀",
+        "reading": "かたな",
+        "meaning_tw": "刀、劍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "加速度",
-        "reading": "かそくど",
-        "meaning_tw": "acceleration",
+        "word": "語る",
+        "reading": "かたる",
+        "meaning_tw": "講述、敘述",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かたかな",
-        "reading": "かたかな",
-        "meaning_tw": "katakana",
+        "word": "敵",
+        "reading": "かたき",
+        "meaning_tw": "敵人、仇人、對手",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かたづく",
-        "reading": "かたづく",
-        "meaning_tw": "to put in order, to dispose of, to solve",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "塊",
-        "reading": "かたまり",
-        "meaning_tw": "lump, mass, cluster",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "固まる",
-        "reading": "かたまる",
-        "meaning_tw": "to harden, to solidify, to become firm",
+        "word": "片方",
+        "reading": "かたほう",
+        "meaning_tw": "一方、單方面、一隻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "片道",
         "reading": "かたみち",
-        "meaning_tw": "one-way (trip)",
+        "meaning_tw": "單程",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "傾く",
         "reading": "かたむく",
-        "meaning_tw": "to incline toward, to slant, to lurch",
+        "meaning_tw": "傾斜、傾向於",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "片寄る",
+        "word": "傾ける",
+        "reading": "かたむける",
+        "meaning_tw": "使傾斜、傾注、傾聽",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "固まる",
+        "reading": "かたまる",
+        "meaning_tw": "凝固、變硬、固定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "固める",
+        "reading": "かためる",
+        "meaning_tw": "使凝固、加固、堅定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "偏る",
         "reading": "かたよる",
-        "meaning_tw": "to be one-sided, to incline, to be partial",
+        "meaning_tw": "偏頗、不均衡、偏向",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学科",
-        "reading": "がっか",
-        "meaning_tw": "study subject, course of study",
+        "word": "語らう",
+        "reading": "かたらう",
+        "meaning_tw": "交談、談心",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学会",
-        "reading": "がっかい",
-        "meaning_tw": "academic conference",
+        "word": "価値",
+        "reading": "かち",
+        "meaning_tw": "價值",
         "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "活気",
+        "reading": "かっき",
+        "meaning_tw": "活力、生機",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "學期",
+        "reading": "がっき",
+        "meaning_tw": "學期",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "楽器",
         "reading": "がっき",
-        "meaning_tw": "musical instrument",
+        "meaning_tw": "樂器",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "学級",
+        "word": "學級",
         "reading": "がっきゅう",
-        "meaning_tw": "class",
+        "meaning_tw": "班級",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "担ぐ",
         "reading": "かつぐ",
-        "meaning_tw": "to shoulder, to carry on shoulder",
+        "meaning_tw": "扛、挑、背、迷信",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "括弧",
         "reading": "かっこ",
-        "meaning_tw": "parenthesis, brackets",
+        "meaning_tw": "括弧、括號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "活字",
         "reading": "かつじ",
-        "meaning_tw": "printing type",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "勝手に",
-        "reading": "かってに",
-        "meaning_tw": "arbitrarily,",
+        "meaning_tw": "活字、字體",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "活躍",
         "reading": "かつやく",
-        "meaning_tw": "activity (esp. energetic or successful), great efforts, active participation",
+        "meaning_tw": "活躍、展現身手",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "活用",
+        "reading": "かつよう",
+        "meaning_tw": "活用、實際應用、語法活用",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "活力",
         "reading": "かつりょく",
-        "meaning_tw": "vitality, energy",
+        "meaning_tw": "活力、生命力",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "過程",
+        "reading": "かてい",
+        "meaning_tw": "過程",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "家庭",
+        "reading": "かてい",
+        "meaning_tw": "家庭",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仮定",
+        "reading": "かてい",
+        "meaning_tw": "假定、假設",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "課程",
         "reading": "かてい",
-        "meaning_tw": "course, curriculum",
+        "meaning_tw": "課程、進度",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仮名",
-        "reading": "かな",
-        "meaning_tw": "kana",
+        "word": "角",
+        "reading": "かど",
+        "meaning_tw": "角落、拐角",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仮名遣い",
-        "reading": "かなづかい",
-        "meaning_tw": "kana orthography, syllabary spelling",
+        "word": "門",
+        "reading": "かど",
+        "meaning_tw": "門、門口",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鐘",
+        "word": "かな (仮名)",
+        "reading": "かな (仮名)",
+        "meaning_tw": "假名",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "家內",
+        "reading": "かない",
+        "meaning_tw": "內人、妻子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "悲しい",
+        "reading": "かなしい",
+        "meaning_tw": "悲傷的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "悲しむ",
+        "reading": "かなしむ",
+        "meaning_tw": "悲傷、哀悼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "金",
         "reading": "かね",
-        "meaning_tw": "bell (often a large hanging bell), chime",
+        "meaning_tw": "錢、金屬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "加熱",
-        "reading": "かねつ",
-        "meaning_tw": "heating",
+        "word": "金持ち",
+        "reading": "かねもち",
+        "meaning_tw": "有錢人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "兼ねる",
-        "reading": "かねる",
-        "meaning_tw": "to simultaneously serve two or more functions",
+        "word": "可能",
+        "reading": "かのう",
+        "meaning_tw": "可能",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "カバー",
-        "reading": "カバー",
-        "meaning_tw": "cover (e.g., book)",
+        "word": "彼女",
+        "reading": "かのじょ",
+        "meaning_tw": "她、女朋友",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "過半数",
+        "word": "過半數",
         "reading": "かはんすう",
-        "meaning_tw": "majority",
+        "meaning_tw": "過半數",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かび (～がはえる)",
-        "reading": "かび (～がはえる)",
-        "meaning_tw": "mold, mildew",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "被せる",
-        "reading": "かぶせる",
-        "meaning_tw": "to cover (with something)",
+        "word": "壁",
+        "reading": "かべ",
+        "meaning_tw": "牆壁",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "釜",
         "reading": "かま",
-        "meaning_tw": "iron pot, kettle",
+        "meaning_tw": "鍋、釜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "構いません",
-        "reading": "かまいません",
-        "meaning_tw": "it's all right; one doesn’t mind",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.4 JLPT JLPT_2 Intermediate_Japanese"
-    },
-    {
-        "word": "紙屑",
-        "reading": "かみくず",
-        "meaning_tw": "wastepaper",
+        "word": "構う",
+        "reading": "かまう",
+        "meaning_tw": "介意、理會、照顧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "神様",
-        "reading": "かみさま",
-        "meaning_tw": "god",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Genki_Ln.20 Genki"
-    },
-    {
-        "word": "剃刀",
-        "reading": "かみそり",
-        "meaning_tw": "razor",
+        "word": "構え",
+        "reading": "かまえ",
+        "meaning_tw": "姿勢、準備、構造",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ガム",
-        "reading": "ガム",
-        "meaning_tw": "chewing gum",
+        "word": "構える",
+        "reading": "かまえる",
+        "meaning_tw": "擺出姿勢、建築、設置",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "貨物",
-        "reading": "かもつ",
-        "meaning_tw": "cargo, freight",
+        "word": "我慢",
+        "reading": "がまん",
+        "meaning_tw": "忍耐、克制",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "神",
+        "reading": "かみ",
+        "meaning_tw": "神",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "髪",
+        "reading": "かみ",
+        "meaning_tw": "頭髮",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "紙",
+        "reading": "かみ",
+        "meaning_tw": "紙",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "嚙む",
+        "reading": "かむ",
+        "meaning_tw": "咬、嚼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "通う",
+        "reading": "かよう",
+        "meaning_tw": "通勤、往返、通向",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "歌謡",
         "reading": "かよう",
-        "meaning_tw": "song, ballad",
+        "meaning_tw": "歌謠",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "殻",
+        "word": "殼",
         "reading": "から",
-        "meaning_tw": "shell, husk, hull, pod, chaff",
+        "meaning_tw": "殼、皮",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "カラー",
-        "reading": "カラー",
-        "meaning_tw": "collar, color",
+        "word": "空",
+        "reading": "から",
+        "meaning_tw": "空的、空虛",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "からかう",
-        "reading": "からかう",
-        "meaning_tw": "to ridicule, to make fun of",
+        "word": "柄",
+        "reading": "がら",
+        "meaning_tw": "花樣、圖案、身份",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "空っぽ",
-        "reading": "からっぽ",
-        "meaning_tw": "empty, vacant, hollow",
+        "word": "辛い",
+        "reading": "からい",
+        "meaning_tw": "辣的、鹹的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "かるた",
-        "reading": "かるた",
-        "meaning_tw": "playing cards (POR: carta)",
+        "word": "身体",
+        "reading": "からだ",
+        "meaning_tw": "身體",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "空手",
+        "reading": "からて",
+        "meaning_tw": "空手道",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "借金",
+        "reading": "しゃっきん",
+        "meaning_tw": "借款、債務",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning_tw": "輕的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "枯れる",
         "reading": "かれる",
-        "meaning_tw": "to wither, to die (plant), to be blasted (plant)",
+        "meaning_tw": "枯萎、凋謝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "カロリー",
-        "reading": "カロリー",
-        "meaning_tw": "calorie",
+        "word": "彼",
+        "reading": "かれ",
+        "meaning_tw": "他、男朋友",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "可愛がる",
         "reading": "かわいがる",
-        "meaning_tw": "to love, to be affectionate",
+        "meaning_tw": "疼愛、寵愛",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "乾かす",
-        "reading": "かわかす",
-        "meaning_tw": "to dry (clothes, etc.), to desiccate",
+        "word": "可愛い",
+        "reading": "かわいい",
+        "meaning_tw": "可愛的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "かわいそう (可哀相)",
+        "reading": "かわいそう",
+        "meaning_tw": "可憐的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "変わる",
+        "reading": "かわる",
+        "meaning_tw": "變化、改變",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "代わる",
+        "reading": "かわる",
+        "meaning_tw": "代替、代理",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "替わる",
+        "reading": "かわる",
+        "meaning_tw": "交替、更換",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "換わる",
+        "reading": "かわる",
+        "meaning_tw": "更換、換取",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾く",
+        "reading": "かわく",
+        "meaning_tw": "乾、乾燥",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "渇く",
+        "reading": "かわく",
+        "meaning_tw": "口渴",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "為替",
         "reading": "かわせ",
-        "meaning_tw": "money order, exchange",
+        "meaning_tw": "匯兌、匯率",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "瓦",
         "reading": "かわら",
-        "meaning_tw": "roof tile",
+        "meaning_tw": "瓦、屋瓦",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "代わり",
+        "reading": "かわり",
+        "meaning_tw": "代替、補償",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "換わり",
+        "reading": "かわり",
+        "meaning_tw": "更換",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "代わる代わる",
+        "reading": "かわるがわる",
+        "meaning_tw": "輪流地、交替地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾かす",
+        "reading": "かわかす",
+        "meaning_tw": "弄乾、曬乾",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "管",
+        "reading": "かん",
+        "meaning_tw": "管子、管道",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "缶",
+        "reading": "かん",
+        "meaning_tw": "罐子、罐頭",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘",
+        "reading": "かん",
+        "meaning_tw": "直覺、第六感",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "冠",
+        "reading": "かん",
+        "meaning_tw": "皇冠",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観",
+        "reading": "かん",
+        "meaning_tw": "觀看、見解",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "館",
+        "reading": "かん",
+        "meaning_tw": "館、大樓、公館",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "簡易",
+        "reading": "かんい",
+        "meaning_tw": "簡易、簡單",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感覚",
+        "reading": "かんかく",
+        "meaning_tw": "感覺、感官",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "間隔",
         "reading": "かんかく",
-        "meaning_tw": "space, interval space character, whitespace",
+        "meaning_tw": "間隔、距離",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "換気",
-        "reading": "かんき",
-        "meaning_tw": "ventilation",
+        "word": "観客",
+        "reading": "かんきゃく",
+        "meaning_tw": "觀眾",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "環境",
+        "reading": "かんきょう",
+        "meaning_tw": "環境",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "歓迎",
+        "reading": "かんげい",
+        "meaning_tw": "歡迎",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "感激",
         "reading": "かんげき",
-        "meaning_tw": "deep emotion, impression, inspiration",
+        "meaning_tw": "感激、感動",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "関西",
-        "reading": "かんさい",
-        "meaning_tw": "south-western half of Japan, including Osaka",
+        "word": "漢語",
+        "reading": "かんご",
+        "meaning_tw": "漢語（日語中的漢文詞）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "元日",
-        "reading": "がんじつ",
-        "meaning_tw": "New Year's Day",
+        "word": "看護",
+        "reading": "かんご",
+        "meaning_tw": "看護、護理",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鑑賞",
-        "reading": "かんしょう",
-        "meaning_tw": "appreciation",
+        "word": "玩具",
+        "reading": "がんぐ",
+        "meaning_tw": "玩具",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "感ずる",
-        "reading": "かんずる",
-        "meaning_tw": "to feel, to sense",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "間接",
-        "reading": "かんせつ",
-        "meaning_tw": "indirect, indirectness",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "乾燥",
-        "reading": "かんそう",
-        "meaning_tw": "dry, arid, insipid, dehydrated",
+        "word": "関係",
+        "reading": "かんけい",
+        "meaning_tw": "關係",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "感想",
         "reading": "かんそう",
-        "meaning_tw": "impressions, thoughts, feelings, reactions",
+        "meaning_tw": "感想、心得",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "観測",
         "reading": "かんそく",
-        "meaning_tw": "observation",
+        "meaning_tw": "觀測、預測",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "寒帯",
         "reading": "かんたい",
-        "meaning_tw": "frigid zone",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "勘違い",
-        "reading": "かんちがい",
-        "meaning_tw": "misunderstanding, wrong guess",
+        "meaning_tw": "寒帶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "官庁",
         "reading": "かんちょう",
-        "meaning_tw": "government office, authorities",
+        "meaning_tw": "官署、政府機關",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘違い",
+        "reading": "かんちがい",
+        "meaning_tw": "誤解、搞錯",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "缶詰",
         "reading": "かんづめ",
-        "meaning_tw": "canning, canned goods,",
+        "meaning_tw": "罐頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "乾電池",
-        "reading": "かんでんち",
-        "meaning_tw": "dry cell, battery",
+        "word": "鑑定",
+        "reading": "かんてい",
+        "meaning_tw": "鑑定、評估",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "関東",
-        "reading": "かんとう",
-        "meaning_tw": "eastern half of Japan, including Tokyo",
+        "word": "觀點",
+        "reading": "かんてん",
+        "meaning_tw": "觀點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "観念",
+        "word": "感動",
+        "reading": "かんどう",
+        "meaning_tw": "感動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "監督",
+        "reading": "かんとく",
+        "meaning_tw": "監督、導演、教練",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "堪忍",
+        "reading": "かんにん",
+        "meaning_tw": "忍耐、原諒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "觀念",
         "reading": "かんねん",
-        "meaning_tw": "idea, notion; sense",
+        "meaning_tw": "觀念、理念",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "乾杯",
         "reading": "かんぱい",
-        "meaning_tw": "Cheers! (a toast)",
+        "meaning_tw": "乾杯",
         "level": "2",
-        "tags": "JLPT_2 JLPT Genki_Ln.8 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "看板",
         "reading": "かんばん",
-        "meaning_tw": "sign, signboard",
+        "meaning_tw": "看板、招牌",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "看病",
         "reading": "かんびょう",
-        "meaning_tw": "nursing (a patient)",
+        "meaning_tw": "看護、照料病人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "冠",
-        "reading": "かんむり",
-        "meaning_tw": "crown, wreath",
+        "word": "完備",
+        "reading": "かんび",
+        "meaning_tw": "完備、齊全",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "漢和",
-        "reading": "かんわ",
-        "meaning_tw": "Chinese Character-Japanese (e.g., dictionary)",
+        "word": "勘弁",
+        "reading": "かんべん",
+        "meaning_tw": "饒恕、原諒、寬容",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "気圧",
+        "word": "完璧",
+        "reading": "かんぺき",
+        "meaning_tw": "完美、十全十美",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観賞",
+        "reading": "かんしょう",
+        "meaning_tw": "觀賞、賞析",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鑑賞",
+        "reading": "かんしょう",
+        "meaning_tw": "鑒賞、賞析",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感情",
+        "reading": "かんじょう",
+        "meaning_tw": "感情、情緒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘定",
+        "reading": "かんじょう",
+        "meaning_tw": "計算、結帳",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完結",
+        "reading": "かんけつ",
+        "meaning_tw": "完結、結束",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "簡潔",
+        "reading": "かんけつ",
+        "meaning_tw": "簡潔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感謝",
+        "reading": "かんしゃ",
+        "meaning_tw": "感謝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning_tw": "患者、病人",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "官署",
+        "reading": "かんしょ",
+        "meaning_tw": "官署",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "觀衆",
+        "reading": "かんしゅう",
+        "meaning_tw": "觀眾、群眾",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "慣習",
+        "reading": "かんしゅう",
+        "meaning_tw": "慣例、習俗",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "監視",
+        "reading": "かんし",
+        "meaning_tw": "監視",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "關心",
+        "reading": "かんしん",
+        "meaning_tw": "關心、感興趣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感心",
+        "reading": "かんしん",
+        "meaning_tw": "佩服、讚賞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完成",
+        "reading": "かんせい",
+        "meaning_tw": "完成",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "岩石",
+        "reading": "がんせき",
+        "meaning_tw": "岩石",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感染",
+        "reading": "かんせん",
+        "meaning_tw": "感染",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "関節",
+        "reading": "かんせつ",
+        "meaning_tw": "關節",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "間接",
+        "reading": "かんせつ",
+        "meaning_tw": "間接",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾燥",
+        "reading": "かんそう",
+        "meaning_tw": "乾燥",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "感想",
+        "reading": "かんそう",
+        "meaning_tw": "感想、心得",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観測",
+        "reading": "かんそく",
+        "meaning_tw": "觀測、預測",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "寒帯",
+        "reading": "かんたい",
+        "meaning_tw": "寒帶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "官庁",
+        "reading": "かんちょう",
+        "meaning_tw": "官署、政府機關",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘違い",
+        "reading": "かんちがい",
+        "meaning_tw": "誤解、搞錯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "缶詰",
+        "reading": "かんづめ",
+        "meaning_tw": "罐頭",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鑑定",
+        "reading": "かんてい",
+        "meaning_tw": "鑑定、評估",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観點",
+        "reading": "かんてん",
+        "meaning_tw": "觀點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感動",
+        "reading": "かんどう",
+        "meaning_tw": "感動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "監督",
+        "reading": "かんとく",
+        "meaning_tw": "監督、導演、教練",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "堪忍",
+        "reading": "かんにん",
+        "meaning_tw": "忍耐、原諒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観念",
+        "reading": "かんねん",
+        "meaning_tw": "觀念、理念",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾杯",
+        "reading": "かんぱい",
+        "meaning_tw": "乾杯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "看板",
+        "reading": "かんばん",
+        "meaning_tw": "看板、招牌",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "看病",
+        "reading": "かんびょう",
+        "meaning_tw": "看護、照料病人",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完備",
+        "reading": "かんび",
+        "meaning_tw": "完備、齊全",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘弁",
+        "reading": "かんべん",
+        "meaning_tw": "饒恕、原諒、寬容",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完璧",
+        "reading": "かんぺき",
+        "meaning_tw": "完美、十全十美",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観賞",
+        "reading": "かんしょう",
+        "meaning_tw": "觀賞、賞析",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鑑賞",
+        "reading": "かんしょう",
+        "meaning_tw": "鑒賞、賞析",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感情",
+        "reading": "かんじょう",
+        "meaning_tw": "感情、情緒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘定",
+        "reading": "かんじょう",
+        "meaning_tw": "計算、結帳",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完結",
+        "reading": "かんけつ",
+        "meaning_tw": "完結、結束",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "簡潔",
+        "reading": "かんけつ",
+        "meaning_tw": "簡潔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感謝",
+        "reading": "かんしゃ",
+        "meaning_tw": "感謝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "患者",
+        "reading": "かんじゃ",
+        "meaning_tw": "患者、病人",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "官署",
+        "reading": "かんしょ",
+        "meaning_tw": "官署",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観衆",
+        "reading": "かんしゅう",
+        "meaning_tw": "觀眾、群眾",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "慣習",
+        "reading": "かんしゅう",
+        "meaning_tw": "慣例、習俗",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "監視",
+        "reading": "かんし",
+        "meaning_tw": "監視",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "関心",
+        "reading": "かんしん",
+        "meaning_tw": "關心、感興趣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感心",
+        "reading": "かんしん",
+        "meaning_tw": "佩服、讚賞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完成",
+        "reading": "かんせい",
+        "meaning_tw": "完成",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "岩石",
+        "reading": "がんせき",
+        "meaning_tw": "岩石",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感染",
+        "reading": "かんせん",
+        "meaning_tw": "感染",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "関節",
+        "reading": "かんせつ",
+        "meaning_tw": "關節",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "間接",
+        "reading": "かんせつ",
+        "meaning_tw": "間接",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾燥",
+        "reading": "かんそう",
+        "meaning_tw": "乾燥",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観測",
+        "reading": "かんそく",
+        "meaning_tw": "觀測、調查",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "簡単",
+        "reading": "かんたん",
+        "meaning_tw": "簡單、容易",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "官庁",
+        "reading": "かんちょう",
+        "meaning_tw": "政府機關",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘違い",
+        "reading": "かんちがい",
+        "meaning_tw": "搞錯、誤認",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完通",
+        "reading": "かんつう",
+        "meaning_tw": "貫通、通曉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鑑定",
+        "reading": "かんてい",
+        "meaning_tw": "鑑定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "関點",
+        "reading": "かんてん",
+        "meaning_tw": "觀點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "感動",
+        "reading": "かんどう",
+        "meaning_tw": "感動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "監督",
+        "reading": "かんとく",
+        "meaning_tw": "監督、教練",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "堪忍",
+        "reading": "かんにん",
+        "meaning_tw": "原諒、忍耐",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "観念",
+        "reading": "かんねん",
+        "meaning_tw": "觀念、死心",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "乾杯",
+        "reading": "かんぱい",
+        "meaning_tw": "乾杯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "看板",
+        "reading": "かんばん",
+        "meaning_tw": "看板、招牌",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "看病",
+        "reading": "かんびょう",
+        "meaning_tw": "看護、護理",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完備",
+        "reading": "かんび",
+        "meaning_tw": "設備完善",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勘弁",
+        "reading": "かんべん",
+        "meaning_tw": "饒恕、寬容",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完璧",
+        "reading": "かんぺき",
+        "meaning_tw": "完美",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "官僚",
+        "reading": "かんりょう",
+        "meaning_tw": "官僚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "完了",
+        "reading": "かんりょう",
+        "meaning_tw": "完成、結束",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "関連",
+        "reading": "かんれん",
+        "meaning_tw": "關聯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "管理",
+        "reading": "かんり",
+        "meaning_tw": "管理",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "漢論",
+        "reading": "かんろん",
+        "meaning_tw": "漢論",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "概論",
+        "reading": "がいろん",
+        "meaning_tw": "概論",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外観",
+        "reading": "がいかん",
+        "meaning_tw": "外觀",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外貨",
+        "reading": "がいか",
+        "meaning_tw": "外幣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外交",
+        "reading": "がいこう",
+        "meaning_tw": "外交",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外出",
+        "reading": "がいしゅつ",
+        "meaning_tw": "外出",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "該当",
+        "reading": "がいとう",
+        "meaning_tw": "符合、相當",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "街頭",
+        "reading": "がいとう",
+        "meaning_tw": "街頭",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外部",
+        "reading": "がいぶ",
+        "meaning_tw": "外部",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "概略",
+        "reading": "がいりゃく",
+        "meaning_tw": "概要、大略",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学",
+        "reading": "がく",
+        "meaning_tw": "學問、學術",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "額",
+        "reading": "がく",
+        "meaning_tw": "額頭、金額、畫框",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学部",
+        "reading": "がくぶ",
+        "meaning_tw": "學部、系所",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学年",
+        "reading": "がくねん",
+        "meaning_tw": "學年、年級",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学者",
+        "reading": "がくしゃ",
+        "meaning_tw": "學者",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学説",
+        "reading": "がくせつ",
+        "meaning_tw": "學說",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学習",
+        "reading": "がくしゅう",
+        "meaning_tw": "學習",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学術",
+        "reading": "がくじゅつ",
+        "meaning_tw": "學術",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "学問",
+        "reading": "がくもん",
+        "meaning_tw": "學問",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "合唱",
+        "reading": "がっしょう",
+        "meaning_tw": "合唱",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "合致",
+        "reading": "がっち",
+        "meaning_tw": "吻合、一致",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "合併",
+        "reading": "がっぺい",
+        "meaning_tw": "合併",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "月日",
+        "reading": "がっぴ",
+        "meaning_tw": "日期、年月日",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "がん",
+        "meaning_tw": "癌症",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "眼科",
+        "reading": "がんか",
+        "meaning_tw": "眼科",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "玩具",
+        "reading": "がんぐ",
+        "meaning_tw": "玩具",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "頑固",
+        "reading": "がんこ",
+        "meaning_tw": "頑固、倔強",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "願書",
+        "reading": "がんしょ",
+        "meaning_tw": "申請書",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "頑丈",
+        "reading": "がんじょう",
+        "meaning_tw": "堅固、強壯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "岩石",
+        "reading": "がんせき",
+        "meaning_tw": "岩石",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "元旦",
+        "reading": "がんたん",
+        "meaning_tw": "元旦",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "頑張る",
+        "reading": "がんばる",
+        "meaning_tw": "努力、加油",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "木",
+        "reading": "き",
+        "meaning_tw": "樹、木頭",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気",
+        "reading": "き",
+        "meaning_tw": "氣、精神、心情",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "期",
+        "reading": "き",
+        "meaning_tw": "期、期間",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "器",
+        "reading": "き",
+        "meaning_tw": "容器、器具、才幹",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "機",
+        "reading": "き",
+        "meaning_tw": "機會、飛機、機器",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "基",
+        "reading": "き",
+        "meaning_tw": "基礎、依據",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "黄色",
+        "reading": "きいろ",
+        "meaning_tw": "黃色",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "消える",
+        "reading": "きえる",
+        "meaning_tw": "消失、熄滅",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "氣圧",
         "reading": "きあつ",
-        "meaning_tw": "atmospheric pressure",
+        "meaning_tw": "氣壓",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "着替え",
-        "reading": "きがえ",
-        "meaning_tw": "changing clothes, change of clothes",
+        "word": "氣合",
+        "reading": "きあい",
+        "meaning_tw": "精神、勁頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "着替える",
+        "word": "記憶",
+        "reading": "きおく",
+        "meaning_tw": "記憶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気温",
+        "reading": "きおん",
+        "meaning_tw": "氣溫",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "機械",
+        "reading": "きかい",
+        "meaning_tw": "機械",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "器械",
+        "reading": "きかい",
+        "meaning_tw": "器械、工具",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "機會",
+        "reading": "きかい",
+        "meaning_tw": "機會",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "着換える",
         "reading": "きがえる",
-        "meaning_tw": "to change (one's) clothes",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese JLPT_2 Genki Intermediate_Japanese_Ln.10 Genki_Ln.21"
-    },
-    {
-        "word": "機関車",
-        "reading": "きかんしゃ",
-        "meaning_tw": "locomotive, engine",
+        "meaning_tw": "換衣服",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "飢饉",
-        "reading": "ききん",
-        "meaning_tw": "famine",
+        "word": "氣加減",
+        "reading": "きかげん",
+        "meaning_tw": "心情、氣色",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "期間",
+        "reading": "きかん",
+        "meaning_tw": "期間",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "機関",
+        "reading": "きかん",
+        "meaning_tw": "機關、引擎",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "器管",
+        "reading": "きかん",
+        "meaning_tw": "器官",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気管",
+        "reading": "きかん",
+        "meaning_tw": "氣管",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "季刊",
+        "reading": "きかん",
+        "meaning_tw": "季刊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "効き目",
+        "reading": "ききめ",
+        "meaning_tw": "效力、效果",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "企業",
+        "reading": "きぎょう",
+        "meaning_tw": "企業",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "効く",
+        "reading": "きく",
+        "meaning_tw": "有效、靈驗",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "利く",
+        "reading": "きく",
+        "meaning_tw": "起作用、敏銳",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "聞く",
+        "reading": "きく",
+        "meaning_tw": "聽、詢問",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "聽く",
+        "reading": "きく",
+        "meaning_tw": "聆聽",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "器具",
         "reading": "きぐ",
-        "meaning_tw": "instrument",
+        "meaning_tw": "器具",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "危険",
+        "reading": "きけん",
+        "meaning_tw": "危險",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "期限",
         "reading": "きげん",
-        "meaning_tw": "term, period, time frame time limit, deadline, cutoff (date)",
+        "meaning_tw": "期限",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "記号",
+        "word": "機嫌",
+        "reading": "きげん",
+        "meaning_tw": "心情、情緒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "起源",
+        "reading": "きげん",
+        "meaning_tw": "起源",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気候",
+        "reading": "きこう",
+        "meaning_tw": "氣候",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記號",
         "reading": "きごう",
-        "meaning_tw": "symbol, code",
+        "meaning_tw": "記號、符號",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記載",
+        "reading": "きさい",
+        "meaning_tw": "記載、刊載",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "兆し",
+        "reading": "きざし",
+        "meaning_tw": "預兆、苗頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "刻む",
         "reading": "きざむ",
-        "meaning_tw": "to mince, to carve, to engrave",
+        "meaning_tw": "切碎、雕刻、銘記",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "岸",
+        "reading": "きし",
+        "meaning_tw": "岸邊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記事",
+        "reading": "きじ",
+        "meaning_tw": "報導、文章",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "生地",
+        "reading": "きじ",
+        "meaning_tw": "布料、質地、麵糰",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "儀式",
         "reading": "ぎしき",
-        "meaning_tw": "ceremony, rite, ritual",
+        "meaning_tw": "儀式",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "技師",
+        "reading": "ぎし",
+        "meaning_tw": "技師、工程師",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記者",
+        "reading": "きしゃ",
+        "meaning_tw": "記者",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "汽車",
+        "reading": "きしゃ",
+        "meaning_tw": "火車（蒸汽機車）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "基準",
         "reading": "きじゅん",
-        "meaning_tw": "standard, basis, criteria",
+        "meaning_tw": "基準",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "規準",
         "reading": "きじゅん",
-        "meaning_tw": "standard, basis, criteria",
+        "meaning_tw": "標準、規範",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "起床",
         "reading": "きしょう",
-        "meaning_tw": "rising, getting out of bed",
+        "meaning_tw": "起床",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気象",
+        "reading": "きしょう",
+        "meaning_tw": "氣象",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "傷",
+        "reading": "きず",
+        "meaning_tw": "傷口、缺點、瑕疵",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "築く",
+        "reading": "きずく",
+        "meaning_tw": "建立、構築",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "傷つく",
+        "reading": "きずつく",
+        "meaning_tw": "受傷、受損",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "傷つける",
+        "reading": "きずつける",
+        "meaning_tw": "傷害、損壞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "規制",
+        "reading": "きせい",
+        "meaning_tw": "管制、規定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "歸省",
+        "reading": "きせい",
+        "meaning_tw": "探親、回鄉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "既成",
+        "reading": "きせい",
+        "meaning_tw": "既成、現成",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "犠牲",
+        "reading": "ぎせい",
+        "meaning_tw": "犧牲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "季節",
+        "reading": "きせつ",
+        "meaning_tw": "季節",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "着せる",
         "reading": "きせる",
-        "meaning_tw": "to put on clothes",
+        "meaning_tw": "給～穿衣、嫁禍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "基礎",
         "reading": "きそ",
-        "meaning_tw": "foundation, basis",
+        "meaning_tw": "基礎",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "基地",
-        "reading": "きち",
-        "meaning_tw": "base",
+        "word": "規則",
+        "reading": "きそく",
+        "meaning_tw": "規則",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "きっかけ",
-        "reading": "きっかけ",
-        "meaning_tw": "prompt, trigger, cue",
+        "word": "期待",
+        "reading": "きたい",
+        "meaning_tw": "期待、期望",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "切っ掛け",
-        "reading": "きっかけ",
-        "meaning_tw": "chance, start, cue, excuse, motive, impetus, occassion",
+        "word": "機待",
+        "reading": "きたい",
+        "meaning_tw": "期待",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ぎっしり",
-        "reading": "ぎっしり",
-        "meaning_tw": "tightly, fully",
+        "word": "気体",
+        "reading": "きたい",
+        "meaning_tw": "氣體",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "基盤",
-        "reading": "きばん",
-        "meaning_tw": "foundation, basis",
+        "word": "北",
+        "reading": "きた",
+        "meaning_tw": "北、北方",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "客席",
-        "reading": "きゃくせき",
-        "meaning_tw": "guest seating",
+        "word": "帰宅",
+        "reading": "きたく",
+        "meaning_tw": "回家",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "客間",
-        "reading": "きゃくま",
-        "meaning_tw": "parlor, guest room",
+        "word": "汚い",
+        "reading": "きたない",
+        "meaning_tw": "骯髒的、卑鄙的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ギャング",
-        "reading": "ギャング",
-        "meaning_tw": "gang",
+        "word": "鍛える",
+        "reading": "きたえる",
+        "meaning_tw": "鍛鍊、錘鍊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "キャンパス",
-        "reading": "キャンパス",
-        "meaning_tw": "campus",
+        "word": "來たす",
+        "reading": "きたす",
+        "meaning_tw": "引起、造成",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "休業",
-        "reading": "きゅうぎょう",
-        "meaning_tw": "closure, shutdown, holiday",
+        "word": "來る",
+        "reading": "きたる",
+        "meaning_tw": "到來、下一個",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "休講",
-        "reading": "きゅうこう",
-        "meaning_tw": "lecture canceled",
+        "word": "気立て",
+        "reading": "きだて",
+        "meaning_tw": "性情、品格",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "きちっと",
+        "meaning_tw": "整齊地、精確地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "きちんと",
+        "meaning_tw": "整潔地、端正地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "きつい",
+        "meaning_tw": "緊的、嚴厲的、辛苦的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "議決",
+        "reading": "ぎけつ",
+        "meaning_tw": "議決、表決",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気遣う",
+        "reading": "きづかう",
+        "meaning_tw": "擔心、關照",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "気付く",
+        "reading": "きづく",
+        "meaning_tw": "察覺、意識到、注意到",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気に入る",
+        "reading": "きにいる",
+        "meaning_tw": "中意、喜歡、滿意",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記入",
+        "reading": "きにゅう",
+        "meaning_tw": "填寫、記入、登記",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記念",
+        "reading": "きねん",
+        "meaning_tw": "紀念",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "機能",
+        "reading": "きのう",
+        "meaning_tw": "功能、機能",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気の毒",
+        "reading": "きのどく",
+        "meaning_tw": "可憐、不幸、過意不去",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "寄付",
+        "reading": "きふ",
+        "meaning_tw": "捐贈、捐助",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "基本",
+        "reading": "きほん",
+        "meaning_tw": "基本、基礎",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "希望",
+        "reading": "きぼう",
+        "meaning_tw": "希望、願望",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "気味",
+        "reading": "きみ",
+        "meaning_tw": "氣味、樣子、稍微～的傾向",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "奇妙",
+        "reading": "きみょう",
+        "meaning_tw": "奇妙、奇怪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "義務",
+        "reading": "ぎむ",
+        "meaning_tw": "義務",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "客觀",
+        "reading": "きゃっかん",
+        "meaning_tw": "客觀",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "逆",
+        "reading": "ぎゃく",
+        "meaning_tw": "相反、逆向",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "救援",
+        "reading": "きゅうえん",
+        "meaning_tw": "救援、解救",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "休假",
+        "reading": "きゅうか",
+        "meaning_tw": "假期、休假",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "休憩",
+        "reading": "きゅうけい",
+        "meaning_tw": "休息",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "急激",
+        "reading": "きゅうげき",
+        "meaning_tw": "急劇、激烈",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "吸収",
+        "reading": "きゅうしゅう",
+        "meaning_tw": "吸收",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "救助",
+        "reading": "きゅうじょ",
+        "meaning_tw": "救助、營救",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "急速",
+        "reading": "きゅうそく",
+        "meaning_tw": "急速、迅速",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "休息",
         "reading": "きゅうそく",
-        "meaning_tw": "rest, relief, relaxation",
+        "meaning_tw": "休息",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "給与",
         "reading": "きゅうよ",
-        "meaning_tw": "salary",
+        "meaning_tw": "薪水、給予、津貼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "休養",
         "reading": "きゅうよう",
-        "meaning_tw": "rest, break, recreation",
+        "meaning_tw": "休養",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "急用",
+        "reading": "きゅうよう",
+        "meaning_tw": "急事",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "清い",
         "reading": "きよい",
-        "meaning_tw": "clear, pure, noble",
+        "meaning_tw": "清澈的、潔淨的、純潔的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "器用",
+        "reading": "きよう",
+        "meaning_tw": "手巧、靈巧、精明",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "教育",
+        "reading": "きょういく",
+        "meaning_tw": "教育",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "教科書",
+        "reading": "きょうかしょ",
+        "meaning_tw": "教科書、課本",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "競技",
+        "reading": "きょうぎ",
+        "meaning_tw": "競技、比賽",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "共感",
+        "reading": "きょうかん",
+        "meaning_tw": "共鳴、同感",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "境遇",
+        "reading": "きょうぐう",
+        "meaning_tw": "境遇、處境",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "強引",
+        "reading": "きょういん",
+        "meaning_tw": "強制、強行、不講理",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "教員",
+        "reading": "きょういん",
+        "meaning_tw": "教師、教員",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "強化",
         "reading": "きょうか",
-        "meaning_tw": "strengthen, intensify, reinforce",
+        "meaning_tw": "強化、加強",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "境界",
         "reading": "きょうかい",
-        "meaning_tw": "boundary",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "共産～",
-        "reading": "きょうさん～",
-        "meaning_tw": "communist ~",
+        "meaning_tw": "境界、邊界",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "行事",
         "reading": "ぎょうじ",
-        "meaning_tw": "event, function",
+        "meaning_tw": "儀式、活動、行事",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "教授",
+        "reading": "きょうじゅ",
+        "meaning_tw": "教授、教導",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "恐縮",
         "reading": "きょうしゅく",
-        "meaning_tw": "sorry to trouble",
+        "meaning_tw": "惶恐、不好意思、不敢當",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "強制",
+        "reading": "きょうせい",
+        "meaning_tw": "強制",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "矯正",
+        "reading": "きょうせい",
+        "meaning_tw": "矯正、糾正",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "行政",
+        "reading": "ぎょうせい",
+        "meaning_tw": "行政",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "業績",
+        "reading": "ぎょうせき",
+        "meaning_tw": "業績、成就",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "強調",
+        "reading": "きょうちょう",
+        "meaning_tw": "強調",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "協調",
+        "reading": "きょうちょう",
+        "meaning_tw": "協調、合作",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "共通",
+        "reading": "きょうつう",
+        "meaning_tw": "共通、共同",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "共同",
+        "reading": "きょうどう",
+        "meaning_tw": "共同、聯合",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恐怖",
+        "reading": "きょうふ",
+        "meaning_tw": "恐怖、恐懼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "教養",
         "reading": "きょうよう",
-        "meaning_tw": "culture, education, sophistication",
+        "meaning_tw": "教養、素養",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "協力",
+        "reading": "きょうりょく",
+        "meaning_tw": "協力、合作",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "強力",
+        "reading": "きょうりょく",
+        "meaning_tw": "強力、強大",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "行列",
         "reading": "ぎょうれつ",
-        "meaning_tw": "line, procession; matrix (math)",
+        "meaning_tw": "行列、隊伍、排隊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "漁業",
-        "reading": "ぎょぎょう",
-        "meaning_tw": "fishing (industry)",
+        "word": "極端",
+        "reading": "きょくたん",
+        "meaning_tw": "極端",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "曲線",
-        "reading": "きょくせん",
-        "meaning_tw": "curve",
+        "word": "局",
+        "reading": "きょく",
+        "meaning_tw": "局、部門、電台",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "曲",
+        "reading": "きょく",
+        "meaning_tw": "樂曲、旋律",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "許可",
+        "reading": "きょか",
+        "meaning_tw": "許可、批准",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "居住",
+        "reading": "きょじゅう",
+        "meaning_tw": "居住",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "拒否",
+        "reading": "きょひ",
+        "meaning_tw": "拒絕、否認",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "巨大",
+        "reading": "きょだい",
+        "meaning_tw": "巨大",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "距離",
+        "reading": "きょり",
+        "meaning_tw": "距離",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "嫌う",
+        "reading": "きらう",
+        "meaning_tw": "討厭、不喜歡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "嫌い",
+        "reading": "きらい",
+        "meaning_tw": "討厭、不喜歡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "きらきら",
+        "reading": "きらきら",
+        "meaning_tw": "閃閃發光、耀眼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "霧",
+        "reading": "きり",
+        "meaning_tw": "霧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "規律",
         "reading": "きりつ",
-        "meaning_tw": "order, rules, law",
+        "meaning_tw": "規律、紀律",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "切る",
+        "reading": "きる",
+        "meaning_tw": "切、剪、切斷",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "斬る",
         "reading": "きる",
-        "meaning_tw": "to behead, to murder",
+        "meaning_tw": "砍、殺（用刀）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "着る",
+        "reading": "きる",
+        "meaning_tw": "穿（衣服）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "綺麗",
+        "reading": "きれい",
+        "meaning_tw": "漂亮、乾淨、整潔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "切れ味",
+        "reading": "きれあじ",
+        "meaning_tw": "鋒利度、乾脆",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "切れる",
+        "reading": "きれる",
+        "meaning_tw": "切斷、斷開、到期",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "記録",
+        "reading": "きろく",
+        "meaning_tw": "紀錄",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "議論",
+        "reading": "ぎろん",
+        "meaning_tw": "議論、討論",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "際",
+        "reading": "きわ",
+        "meaning_tw": "邊際、時候",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "極めて",
+        "reading": "きわめて",
+        "meaning_tw": "極其、非常",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "気を付ける",
         "reading": "きをつける",
-        "meaning_tw": "to be careful, to pay attention, to take care",
+        "meaning_tw": "小心、注意",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "琴",
+        "word": "金",
         "reading": "きん",
-        "meaning_tw": "13-string Japanese zither",
+        "meaning_tw": "金、黃金",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "金魚",
-        "reading": "きんぎょ",
-        "meaning_tw": "goldfish",
+        "word": "銀",
+        "reading": "ぎん",
+        "meaning_tw": "銀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "クーラー",
-        "reading": "クーラー",
-        "meaning_tw": "air conditioner",
+        "word": "禁煙",
+        "reading": "きんえん",
+        "meaning_tw": "禁菸",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "区域",
-        "reading": "くいき",
-        "meaning_tw": "zone, district, area",
+        "word": "金額",
+        "reading": "きんがく",
+        "meaning_tw": "金額",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "空～",
-        "reading": "くう～",
-        "meaning_tw": "empty ~",
+        "word": "緊急",
+        "reading": "きんきゅう",
+        "meaning_tw": "緊急",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "偶数",
-        "reading": "ぐうすう",
-        "meaning_tw": "even number",
+        "word": "近居",
+        "reading": "きんきょ",
+        "meaning_tw": "近居（住在附近）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "近郊",
+        "reading": "きんこう",
+        "meaning_tw": "近郊、郊區",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "禁酒",
+        "reading": "きんしゅ",
+        "meaning_tw": "禁酒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "禁止",
+        "reading": "きんし",
+        "meaning_tw": "禁止",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "金庫",
+        "reading": "きんこ",
+        "meaning_tw": "保險箱、金庫",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "近代",
+        "reading": "きんだい",
+        "meaning_tw": "近代",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "緊張",
+        "reading": "きんちょう",
+        "meaning_tw": "緊張",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "筋肉",
+        "reading": "きんにく",
+        "meaning_tw": "肌肉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "金融",
+        "reading": "きんゆう",
+        "meaning_tw": "金融",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勤務",
+        "reading": "きんむ",
+        "meaning_tw": "勤務、工作",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "金利",
+        "reading": "きんり",
+        "meaning_tw": "利息、利率",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "句",
+        "reading": "く",
+        "meaning_tw": "句、句子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "区",
+        "reading": "く",
+        "meaning_tw": "區、行政區",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "食う",
+        "reading": "くう",
+        "meaning_tw": "吃（俗語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "空軍",
+        "reading": "くうぐん",
+        "meaning_tw": "空軍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "空港",
+        "reading": "くうこう",
+        "meaning_tw": "機場",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "偶然",
+        "reading": "ぐうぜん",
+        "meaning_tw": "偶然",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "空想",
         "reading": "くうそう",
-        "meaning_tw": "daydream, fantasy",
+        "meaning_tw": "空想、幻想",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "空中",
         "reading": "くうちゅう",
-        "meaning_tw": "sky, air",
+        "meaning_tw": "空中",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "空腹",
+        "reading": "くうふく",
+        "meaning_tw": "空腹、飢餓",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "区画",
+        "reading": "くかく",
+        "meaning_tw": "區劃、區域",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "区間",
+        "reading": "くかん",
+        "meaning_tw": "區間、距離",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "釘",
         "reading": "くぎ",
-        "meaning_tw": "nail",
+        "meaning_tw": "釘子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "区切る",
         "reading": "くぎる",
-        "meaning_tw": "to punctuate, to cut off, to mark off",
+        "meaning_tw": "劃分、切分",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "草",
+        "reading": "くさ",
+        "meaning_tw": "草",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "臭い",
+        "reading": "くさい",
+        "meaning_tw": "臭的、可疑的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鎖",
+        "reading": "くさり",
+        "meaning_tw": "鎖鏈",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "腐る",
+        "reading": "くさる",
+        "meaning_tw": "腐爛、墮落",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "櫛",
         "reading": "くし",
-        "meaning_tw": "comb",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "くしゃみ",
-        "reading": "くしゃみ",
-        "meaning_tw": "sneeze",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "苦情",
-        "reading": "くじょう",
-        "meaning_tw": "complaint, grievance, grumble",
+        "meaning_tw": "梳子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "苦心",
         "reading": "くしん",
-        "meaning_tw": "pain, trouble",
+        "meaning_tw": "苦心、煞費苦心",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "屑",
-        "reading": "くず",
-        "meaning_tw": "waste, scrap",
+        "word": "ク字",
+        "reading": "くじ",
+        "meaning_tw": "抽籤、籤",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "クジラ",
+        "reading": "くじら",
+        "meaning_tw": "鯨魚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "藥",
+        "reading": "くすり",
+        "meaning_tw": "藥",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "崩す",
         "reading": "くずす",
-        "meaning_tw": "to destroy, to make change (money)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "薬指",
-        "reading": "くすりゆび",
-        "meaning_tw": "ring finger",
+        "meaning_tw": "弄亂、拆散、換零錢",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "崩れる",
         "reading": "くずれる",
-        "meaning_tw": "to collapse, to crumble",
+        "meaning_tw": "崩塌、崩潰、走樣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "砕く",
-        "reading": "くだく",
-        "meaning_tw": "to break, to smash",
+        "word": "癖",
+        "reading": "くせ",
+        "meaning_tw": "習慣、癖好",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "砕ける",
-        "reading": "くだける",
-        "meaning_tw": "to break, to be broken",
+        "word": "管",
+        "reading": "くだ",
+        "meaning_tw": "管、管子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "くたびれる",
-        "reading": "くたびれる",
-        "meaning_tw": "to get tired, to wear out",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "くだらない",
-        "reading": "くだらない",
-        "meaning_tw": "good-for-nothing, stupid, worthless",
+        "word": "下り",
+        "reading": "くだり",
+        "meaning_tw": "下坡、南下",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "下る",
         "reading": "くだる",
-        "meaning_tw": "to descend, to go down, to come down",
+        "meaning_tw": "下降、南下、下令",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "唇",
-        "reading": "くちびる",
-        "meaning_tw": "lip",
+        "word": "下さる",
+        "reading": "くださる",
+        "meaning_tw": "給、賞給（尊尊敬語）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "口",
+        "reading": "くち",
+        "meaning_tw": "口、嘴、入口",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "口紅",
         "reading": "くちべに",
-        "meaning_tw": "lipstick",
+        "meaning_tw": "口紅、唇膏",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "唇",
+        "reading": "くちびる",
+        "meaning_tw": "嘴唇",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "嘴",
+        "reading": "くちばし",
+        "meaning_tw": "鳥喙、嘴巴",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "屈折",
+        "reading": "くっせつ",
+        "meaning_tw": "折射、曲折",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "くっつく",
         "reading": "くっつく",
-        "meaning_tw": "to adhere to, to keep close to",
+        "meaning_tw": "黏住、緊貼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "くっつける",
         "reading": "くっつける",
-        "meaning_tw": "to attach",
+        "meaning_tw": "黏上、使貼近",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "くどい",
-        "reading": "くどい",
-        "meaning_tw": "verbose, importunate, heavy (taste)",
+        "word": "靴",
+        "reading": "くつ",
+        "meaning_tw": "鞋子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "苦痛",
+        "reading": "くつう",
+        "meaning_tw": "苦痛、痛苦",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "靴下",
+        "reading": "くつした",
+        "meaning_tw": "襪子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "寛ぐ",
+        "reading": "くつろぐ",
+        "meaning_tw": "放鬆、舒坦、隨便",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "句読点",
         "reading": "くとうてん",
-        "meaning_tw": "punctuation marks",
+        "meaning_tw": "標點符號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "配る",
-        "reading": "くばる",
-        "meaning_tw": "to distribute, to deliver",
+        "word": "口説く",
+        "reading": "くどく",
+        "meaning_tw": "說服、追求、糾纏",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "工夫",
-        "reading": "くふう",
-        "meaning_tw": "device, artifice, ingenuity",
+        "word": "くどい",
+        "reading": "くどい",
+        "meaning_tw": "囉嗦的、油膩的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "国",
+        "reading": "くに",
+        "meaning_tw": "國家、故鄉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "首",
+        "reading": "くび",
+        "meaning_tw": "脖子、首領、解雇",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "区分",
         "reading": "くぶん",
-        "meaning_tw": "division, section, classification",
+        "meaning_tw": "區分、劃分",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "組合せ",
+        "word": "組合",
+        "reading": "くみあい",
+        "meaning_tw": "工會、組合",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "組み合わせ",
         "reading": "くみあわせ",
-        "meaning_tw": "combination",
+        "meaning_tw": "組合、搭配",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "組み立てる",
         "reading": "くみたてる",
-        "meaning_tw": "to assemble, to set up, to construct",
+        "meaning_tw": "組裝、裝配",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "組む",
+        "reading": "くむ",
+        "meaning_tw": "組織、搭檔、交叉（手腳）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "汲む",
+        "reading": "くむ",
+        "meaning_tw": "打（水）、汲取、體諒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "酌む",
+        "reading": "くむ",
+        "meaning_tw": "斟（酒）、飲、體察",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "雲",
+        "reading": "くも",
+        "meaning_tw": "雲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "蜘蛛",
+        "reading": "くも",
+        "meaning_tw": "蜘蛛",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "曇る",
+        "reading": "くもる",
+        "meaning_tw": "天陰、模糊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "悔しい",
+        "reading": "くやしい",
+        "meaning_tw": "悔恨的、不甘心的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "悔やむ",
         "reading": "くやむ",
-        "meaning_tw": "to regret, to mourn",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11"
-    },
-    {
-        "word": "クリーニング",
-        "reading": "クリーニング",
-        "meaning_tw": "cleaning, dry cleaning, laundry service",
+        "meaning_tw": "後悔、哀悼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "くるむ",
-        "reading": "くるむ",
-        "meaning_tw": "to be enveloped by, to wrap up",
+        "word": "暗い",
+        "reading": "くらい",
+        "meaning_tw": "黑暗的、陰暗的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "くれぐれも",
-        "reading": "くれぐれも",
-        "meaning_tw": "repeatedly, sincerely, earnestly",
+        "word": "位",
+        "reading": "くらい",
+        "meaning_tw": "地位、大約、程度",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "暮らし",
+        "reading": "くらし",
+        "meaning_tw": "生活、生計",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "郡",
+        "word": "暮らす",
+        "reading": "くらす",
+        "meaning_tw": "生活、度日",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "繰り返す",
+        "reading": "くりかえす",
+        "meaning_tw": "重複、反覆",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "クリスマス",
+        "reading": "くりすます",
+        "meaning_tw": "聖誕節",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "狂う",
+        "reading": "くるう",
+        "meaning_tw": "發瘋、失常、出毛病",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "苦労",
+        "reading": "くろう",
+        "meaning_tw": "辛苦、勞苦",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "加える",
+        "reading": "くわえる",
+        "meaning_tw": "加上、添加、給予",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "詳しい",
+        "reading": "くわしい",
+        "meaning_tw": "詳細的、精通的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "加わる",
+        "reading": "くわわる",
+        "meaning_tw": "增加、加入、參加",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "軍",
         "reading": "ぐん",
-        "meaning_tw": "district, county",
+        "meaning_tw": "軍隊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "稽古",
-        "reading": "けいこ",
-        "meaning_tw": "practice, training, study",
+        "word": "軍隊",
+        "reading": "ぐんたい",
+        "meaning_tw": "軍隊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "敬語",
-        "reading": "けいご",
-        "meaning_tw": "honorific language (lit., respect language)",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese Genki_Ln.19 JLPT_2 Intermediate_Japanese_Ln.13 Genki"
-    },
-    {
-        "word": "蛍光灯",
-        "reading": "けいこうとう",
-        "meaning_tw": "fluorescent lamp",
+        "word": "訓練",
+        "reading": "くんれん",
+        "meaning_tw": "訓練",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "形式",
-        "reading": "けいしき",
-        "meaning_tw": "form, formality, format",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "継続",
-        "reading": "けいぞく",
-        "meaning_tw": "continuation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "毛糸",
-        "reading": "けいと",
-        "meaning_tw": "knitting wool",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "経度",
-        "reading": "けいど",
-        "meaning_tw": "longitude",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "系統",
-        "reading": "けいとう",
-        "meaning_tw": "system, genealogy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "芸能",
-        "reading": "げいのう",
-        "meaning_tw": "public entertainment, performing arts",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "競馬",
-        "reading": "けいば",
-        "meaning_tw": "horse racing",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "警備",
-        "reading": "けいび",
-        "meaning_tw": "defense, guard, policing, security",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "形容詞",
-        "reading": "けいようし",
-        "meaning_tw": "adjective",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "形容動詞",
-        "reading": "けいようどうし",
-        "meaning_tw": "adjectival noun, quasi-adjective",
+        "word": "下系",
+        "reading": "げけい",
+        "meaning_tw": "下級、下屬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "外科",
         "reading": "げか",
-        "meaning_tw": "surgical department",
+        "meaning_tw": "外科",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "毛皮",
-        "reading": "けがわ",
-        "meaning_tw": "fur, skin, pelt",
+        "word": "毛",
+        "reading": "け",
+        "meaning_tw": "毛、頭髮",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "劇",
+        "reading": "げき",
+        "meaning_tw": "劇、戲劇",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "劇場",
+        "reading": "げきじょう",
+        "meaning_tw": "劇場、劇院",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "激増",
         "reading": "げきぞう",
-        "meaning_tw": "sudden increase",
+        "meaning_tw": "激增、驟增",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "激励",
+        "reading": "げきれい",
+        "meaning_tw": "激勵、鼓舞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "下車",
         "reading": "げしゃ",
-        "meaning_tw": "alighting, getting off",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "下旬",
-        "reading": "げじゅん",
-        "meaning_tw": "month (last third of)",
+        "meaning_tw": "下車",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "下水",
         "reading": "げすい",
-        "meaning_tw": "drainage, sewage, ditch, gutter, sewerage",
+        "meaning_tw": "下水道、汙水",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "削る",
         "reading": "けずる",
-        "meaning_tw": "to cut down little by little, to take a percentage",
+        "meaning_tw": "削減、刪除、刨",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "桁",
         "reading": "けた",
-        "meaning_tw": "column, beam, digit",
+        "meaning_tw": "位數、樑",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下駄",
-        "reading": "げた",
-        "meaning_tw": "(Japanese footwear), wooden clogs",
+        "word": "下端",
+        "reading": "げたん",
+        "meaning_tw": "下端、底端",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "決意",
+        "reading": "けつい",
+        "meaning_tw": "決心、決意",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "欠陥",
+        "reading": "けっかん",
+        "meaning_tw": "缺陷、缺點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "結局",
+        "reading": "けっきょく",
+        "meaning_tw": "結局、最後、結果",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "決心",
+        "reading": "けっしん",
+        "meaning_tw": "決心",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "欠席",
+        "reading": "けっせき",
+        "meaning_tw": "缺席",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "決定",
+        "reading": "けってい",
+        "meaning_tw": "決定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "欠點",
+        "reading": "けってん",
+        "meaning_tw": "缺點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "血圧",
         "reading": "けつあつ",
-        "meaning_tw": "blood pressure",
+        "meaning_tw": "血壓",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "月給",
-        "reading": "げっきゅう",
-        "meaning_tw": "monthly salary",
+        "word": "血液",
+        "reading": "けつえき",
+        "meaning_tw": "血液",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "傑作",
-        "reading": "けっさく",
-        "meaning_tw": "masterpiece, best work",
+        "word": "結合",
+        "reading": "けつごう",
+        "meaning_tw": "結合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "月末",
-        "reading": "げつまつ",
-        "meaning_tw": "end of the month",
+        "word": "結論",
+        "reading": "けつろん",
+        "meaning_tw": "結論",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "気配",
-        "reading": "けはい",
-        "meaning_tw": "indication, sign, hint",
+        "word": "決める",
+        "reading": "きめる",
+        "meaning_tw": "決定、約定",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下品",
-        "reading": "げひん",
-        "meaning_tw": "vulgar, indecent, coarse",
+        "word": "決まる",
+        "reading": "きまる",
+        "meaning_tw": "決定、定下來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下品(な)",
-        "reading": "げひん(な)",
-        "meaning_tw": "vulgar",
+        "word": "煙",
+        "reading": "けむり",
+        "meaning_tw": "煙",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "煙い",
-        "reading": "けむい",
-        "meaning_tw": "smoky",
+        "word": "券",
+        "reading": "けん",
+        "meaning_tw": "券、票",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "険しい",
-        "reading": "けわしい",
-        "meaning_tw": "steep, rugged; severe",
+        "word": "県",
+        "reading": "けん",
+        "meaning_tw": "縣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "現～",
-        "reading": "げん～",
-        "meaning_tw": "present, incumbent",
+        "word": "見解",
+        "reading": "けんかい",
+        "meaning_tw": "見解、看法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "限界",
+        "reading": "げんかい",
+        "meaning_tw": "極限、界限",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "見学",
-        "reading": "けんがく",
-        "meaning_tw": "tour, study by observation",
+        "reading": "けん學",
+        "meaning_tw": "參觀、學習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "謙虚",
-        "reading": "けんきょ",
-        "meaning_tw": "modesty, humble",
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning_tw": "研究",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "原稿",
-        "reading": "げんこう",
-        "meaning_tw": "manuscript, copy",
+        "word": "現金",
+        "reading": "げんきん",
+        "meaning_tw": "現金",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "原産",
-        "reading": "げんさん",
-        "meaning_tw": "place of origin",
+        "word": "言語",
+        "reading": "げんご",
+        "meaning_tw": "語言",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "原始",
-        "reading": "げんし",
-        "meaning_tw": "origin, primeval",
+        "word": "健康",
+        "reading": "けんこう",
+        "meaning_tw": "健康",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "研修",
-        "reading": "けんしゅう",
-        "meaning_tw": "training",
+        "word": "検査",
+        "reading": "けんさ",
+        "meaning_tw": "檢查",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "厳重",
-        "reading": "げんじゅう",
-        "meaning_tw": "strict, severe, firm",
+        "word": "現狀",
+        "reading": "げんじょう",
+        "meaning_tw": "現狀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "謙遜",
         "reading": "けんそん",
-        "meaning_tw": "humble, humility, modesty",
+        "meaning_tw": "謙虛、謙遜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "県庁",
-        "reading": "けんちょう",
-        "meaning_tw": "prefectural office",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "限度",
-        "reading": "げんど",
-        "meaning_tw": "limit, bounds",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "現に",
-        "reading": "げんに",
-        "meaning_tw": "actually, really",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "顕微鏡",
-        "reading": "けんびきょう",
-        "meaning_tw": "microscope",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "懸命",
-        "reading": "けんめい",
-        "meaning_tw": "eagerness, strenuous",
+        "word": "建築",
+        "reading": "けんちく",
+        "meaning_tw": "建築",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "原理",
         "reading": "げんり",
-        "meaning_tw": "principle, theory, fundamental truth",
+        "meaning_tw": "原理",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "原料",
         "reading": "げんりょう",
-        "meaning_tw": "raw materials",
+        "meaning_tw": "原料",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "碁",
-        "reading": "ご",
-        "meaning_tw": "go (board game)",
+        "word": "権限",
+        "reading": "けんげん",
+        "meaning_tw": "權限",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "小～",
-        "reading": "こ～",
-        "meaning_tw": "small ~",
+        "word": "検索",
+        "reading": "けんさく",
+        "meaning_tw": "檢索、搜尋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "コース",
-        "reading": "コース",
-        "meaning_tw": "course",
+        "word": "建設",
+        "reading": "けんせつ",
+        "meaning_tw": "建設",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "コーラス",
-        "reading": "コーラス",
-        "meaning_tw": "chorus",
+        "word": "憲法",
+        "reading": "けんぽう",
+        "meaning_tw": "憲法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "権利",
+        "reading": "けんり",
+        "meaning_tw": "權利",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "源泉",
+        "reading": "げんせん",
+        "meaning_tw": "源泉、水源",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "現代",
+        "reading": "げんだい",
+        "meaning_tw": "現代",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "現地",
+        "reading": "げんち",
+        "meaning_tw": "當地、現址",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "限定",
+        "reading": "げんてい",
+        "meaning_tw": "限定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "現場",
+        "reading": "げんば",
+        "meaning_tw": "現場",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "減點",
+        "reading": "げんてん",
+        "meaning_tw": "扣分",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "減少",
+        "reading": "げんしょう",
+        "meaning_tw": "減少",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "現象",
+        "reading": "げんしょう",
+        "meaning_tw": "現象",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "現實",
+        "reading": "げんじつ",
+        "meaning_tw": "現實",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "厳密",
+        "reading": "げんみつ",
+        "meaning_tw": "嚴密、周密",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "原野",
+        "reading": "げんや",
+        "meaning_tw": "原野",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "見聞",
+        "reading": "けんぶん",
+        "meaning_tw": "見聞、見識",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "子",
+        "reading": "こ",
+        "meaning_tw": "孩子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "戶",
+        "reading": "こ",
+        "meaning_tw": "戶、家",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "故",
+        "reading": "こ",
+        "meaning_tw": "故、原因",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "孤",
+        "reading": "こ",
+        "meaning_tw": "孤、孤單",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "恋",
+        "reading": "こい",
+        "meaning_tw": "戀愛、戀情",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "濃い",
+        "reading": "こい",
+        "meaning_tw": "濃的、深的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "恋しい",
         "reading": "こいしい",
-        "meaning_tw": "dear, beloved; to miss",
+        "meaning_tw": "思念的、懷念的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "高～",
-        "reading": "こう～",
-        "meaning_tw": "high (level) ~",
+        "word": "恋人",
+        "reading": "こいびと",
+        "meaning_tw": "戀人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "工員",
-        "reading": "こういん",
-        "meaning_tw": "factory worker",
+        "word": "幸い",
+        "reading": "さいわい",
+        "meaning_tw": "幸運、幸福、幸好",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "強引",
-        "reading": "ごういん",
-        "meaning_tw": "forcible, assertive, pushy",
+        "word": "境",
+        "reading": "さかい",
+        "meaning_tw": "境界、邊界",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "公害",
-        "reading": "こうがい",
-        "meaning_tw": "public nuisance, pollution",
+        "word": "逆らう",
+        "reading": "さからう",
+        "meaning_tw": "逆、違背、反抗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "高級",
-        "reading": "こうきゅう",
-        "meaning_tw": "high class; first-rate",
+        "word": "盛ん",
+        "reading": "さかん",
+        "meaning_tw": "興盛、旺盛",
         "level": "2",
-        "tags": "Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese"
-    },
-    {
-        "word": "公共",
-        "reading": "こうきょう",
-        "meaning_tw": "public, community, communal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "工芸",
-        "reading": "こうげい",
-        "meaning_tw": "industrial arts",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "孝行",
-        "reading": "こうこう",
-        "meaning_tw": "filial piety",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "交差",
-        "reading": "こうさ",
-        "meaning_tw": "cross",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "講師",
-        "reading": "こうし",
-        "meaning_tw": "lecturer",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "工事",
-        "reading": "こうじ",
-        "meaning_tw": "construction work",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "公式",
-        "reading": "こうしき",
-        "meaning_tw": "formula, formality, official",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "口実",
-        "reading": "こうじつ",
-        "meaning_tw": "excuse",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こうして",
-        "reading": "こうして",
-        "meaning_tw": "like this, with this",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "校舎",
-        "reading": "こうしゃ",
-        "meaning_tw": "school building, schoolhouse",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "公衆",
-        "reading": "こうしゅう",
-        "meaning_tw": "the public",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "香水",
-        "reading": "こうすい",
-        "meaning_tw": "perfume",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "公正",
-        "reading": "こうせい",
-        "meaning_tw": "justice, fairness, impartiality",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "功績",
-        "reading": "こうせき",
-        "meaning_tw": "achievements, merit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "光線",
-        "reading": "こうせん",
-        "meaning_tw": "beam, light ray",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "高層",
-        "reading": "こうそう",
-        "meaning_tw": "tall, high rise",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "構造",
-        "reading": "こうぞう",
-        "meaning_tw": "structure, construction",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "交替",
-        "reading": "こうたい",
-        "meaning_tw": "change, relief, alteration",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "交代",
-        "reading": "こうたい",
-        "meaning_tw": "alternation, change, relief, relay, shift, substitution (sports, etc.), taking turns",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "耕地",
-        "reading": "こうち",
-        "meaning_tw": "arable land",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "交通機関",
-        "reading": "こうつうきかん",
-        "meaning_tw": "transportation facilities",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "校庭",
-        "reading": "こうてい",
-        "meaning_tw": "school yard",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "肯定",
-        "reading": "こうてい",
-        "meaning_tw": "positive, affirmation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "高度",
-        "reading": "こうど",
-        "meaning_tw": "altitude, height; advanced",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "高等",
-        "reading": "こうとう",
-        "meaning_tw": "high class, high grade",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "合同",
-        "reading": "ごうどう",
-        "meaning_tw": "combination, incorporation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "高等学校",
-        "reading": "こうとうがっこう",
-        "meaning_tw": "senior high school",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "公表",
-        "reading": "こうひょう",
-        "meaning_tw": "official announcement, proclamation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "鉱物",
-        "reading": "こうぶつ",
-        "meaning_tw": "mineral",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "公務",
-        "reading": "こうむ",
-        "meaning_tw": "official business, public business",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "項目",
-        "reading": "こうもく",
-        "meaning_tw": "item",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "紅葉",
-        "reading": "こうよう",
-        "meaning_tw": "fall colors (of leaves)",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.4 JLPT JLPT_2 Intermediate_Japanese"
-    },
-    {
-        "word": "こうよう もみじ",
-        "reading": "こうよう もみじ",
-        "meaning_tw": "(Japanese) maple",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "合理",
-        "reading": "ごうり",
-        "meaning_tw": "rational",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "交流",
-        "reading": "こうりゅう",
-        "meaning_tw": "exchange; alternating current",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "合流",
-        "reading": "ごうりゅう",
-        "meaning_tw": "confluence, merge, join",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "効力",
-        "reading": "こうりょく",
-        "meaning_tw": "effect, efficacy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "焦がす",
-        "reading": "こがす",
-        "meaning_tw": "to burn, to scorch",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "国王",
-        "reading": "こくおう",
-        "meaning_tw": "king",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こくせき",
-        "reading": "こくせき",
-        "meaning_tw": "nationality",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "国立",
-        "reading": "こくりつ",
-        "meaning_tw": "national",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ご苦労様",
-        "reading": "ごくろうさま",
-        "meaning_tw": "Thank you for your hard work",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "焦げる",
-        "reading": "こげる",
-        "meaning_tw": "to burn, to be burned",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "凍える",
-        "reading": "こごえる",
-        "meaning_tw": "to freeze, to be chilled, to be frozen",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "心当たり",
-        "reading": "こころあたり",
-        "meaning_tw": "having some knowledge of, happening to know",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "心得る",
-        "reading": "こころえる",
-        "meaning_tw": "to understand, to have thorough knowledge",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "腰掛け",
-        "reading": "こしかけ",
-        "meaning_tw": "seat, bench",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "腰掛",
-        "reading": "こしかけ",
-        "meaning_tw": "seat, bench",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "腰掛ける",
-        "reading": "こしかける",
-        "meaning_tw": "to sit (down)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "五十音",
-        "reading": "ごじゅうおん",
-        "meaning_tw": "the Japanese syllabary",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こしらえる",
-        "reading": "こしらえる",
-        "meaning_tw": "to make, to manufacture",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "擦る",
-        "reading": "こする",
-        "meaning_tw": "to rub, to chafe, to file, to frost (glass), to strike (match)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "個体",
-        "reading": "こたい",
-        "meaning_tw": "an individual",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ごちそうさま",
-        "reading": "ごちそうさま",
-        "meaning_tw": "Thank you for the meal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こちらこそ",
-        "reading": "こちらこそ",
-        "meaning_tw": "it is I who should say so",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "小遣い",
-        "reading": "こづかい",
-        "meaning_tw": "pocket money, allowance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "コック",
-        "reading": "コック",
-        "meaning_tw": "cook; tap, cock",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こっそり",
-        "reading": "こっそり",
-        "meaning_tw": "stealthily, secretly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "古典",
-        "reading": "こてん",
-        "meaning_tw": "classics, classic",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "言付ける",
-        "reading": "ことづける",
-        "meaning_tw": "to leave a message",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "言葉遣い",
-        "reading": "ことばづかい",
-        "meaning_tw": "speech, expression, wording",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こないだ",
-        "reading": "こないだ",
-        "meaning_tw": "the other day, lately, recently",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "御無沙汰",
-        "reading": "ごぶさた",
-        "meaning_tw": "not writing or contacting for a while",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ゴム",
-        "reading": "ゴム",
-        "meaning_tw": "gum, rubber",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "御免",
-        "reading": "ごめん",
-        "meaning_tw": "declining (something); pardon, sorry",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ごめんください",
-        "reading": "ごめんください",
-        "meaning_tw": "May I come in, Is anyone here",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "小指",
-        "reading": "こゆび",
-        "meaning_tw": "little finger",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "堪える",
-        "reading": "こらえる",
-        "meaning_tw": "to bear, to endure, to put up with",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "娯楽",
-        "reading": "ごらく",
-        "meaning_tw": "pleasure, amusement, recreation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "御覧",
-        "reading": "ごらん",
-        "meaning_tw": "(hon.) look, inspection, try",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "コレクション",
-        "reading": "コレクション",
-        "meaning_tw": "collection; correction",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "転がす",
-        "reading": "ころがす",
-        "meaning_tw": "to roll",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "転がる",
-        "reading": "ころがる",
-        "meaning_tw": "to roll, to tumble",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "紺",
-        "reading": "こん",
-        "meaning_tw": "navy blue, deep blue",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.9 Intermediate_Japanese"
-    },
-    {
-        "word": "今～",
-        "reading": "こん～",
-        "meaning_tw": "this, current",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "コンクール",
-        "reading": "コンクール",
-        "meaning_tw": "contest (FRE: concours)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "コンクリート",
-        "reading": "コンクリート",
-        "meaning_tw": "concrete",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "混合",
-        "reading": "こんごう",
-        "meaning_tw": "mixing, mixture",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "コンセント",
-        "reading": "コンセント",
-        "meaning_tw": "consent; power outlet",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "献立",
-        "reading": "こんだて",
-        "meaning_tw": "menu",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "こんばんは",
-        "reading": "こんばんは",
-        "meaning_tw": "good evening",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "サークル",
-        "reading": "サークル",
-        "meaning_tw": "circle, sports club (e.g., at a company)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "再～",
-        "reading": "さい～",
-        "meaning_tw": "re ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "最～",
-        "reading": "さい～",
-        "meaning_tw": "the most ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "在学",
-        "reading": "ざいがく",
-        "meaning_tw": "(enrolled) in school",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "再三",
-        "reading": "さいさん",
-        "meaning_tw": "again and again, repeatedly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "祭日",
-        "reading": "さいじつ",
-        "meaning_tw": "national holiday, festival day",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "催促",
-        "reading": "さいそく",
-        "meaning_tw": "demand, urge (action), press for",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "採点",
-        "reading": "さいてん",
-        "meaning_tw": "marking, grading",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "災難",
-        "reading": "さいなん",
-        "meaning_tw": "calamity, misfortune",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "裁縫",
-        "reading": "さいほう",
-        "meaning_tw": "sewing",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "材木",
-        "reading": "ざいもく",
-        "meaning_tw": "lumber, timber",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "サイレン",
-        "reading": "サイレン",
-        "meaning_tw": "siren",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "逆さ",
-        "reading": "さかさ",
-        "meaning_tw": "reverse, upside down",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "逆様",
-        "reading": "さかさま",
-        "meaning_tw": "reverse, upside down",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "捜す",
-        "reading": "さがす",
-        "meaning_tw": "to search, to seek, to look for",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "遡る",
-        "reading": "さかのぼる",
-        "meaning_tw": "to go back, to date back; ascend",
-        "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "酒場",
-        "reading": "さかば",
-        "meaning_tw": "bar, bar-room",
+        "word": "鎖",
+        "reading": "くさり",
+        "meaning_tw": "鎖鏈",
         "level": "2",
         "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "一昨昨日",
-        "reading": "さきおととい",
-        "meaning_tw": "two days before yesterday, three days ago",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先程",
-        "reading": "さきほど",
-        "meaning_tw": "a little while ago",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "索引",
-        "reading": "さくいん",
-        "meaning_tw": "index, indices",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "作者",
-        "reading": "さくしゃ",
-        "meaning_tw": "author, artist",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "削除",
-        "reading": "さくじょ",
-        "meaning_tw": "elimination, deletion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "作成",
-        "reading": "さくせい",
-        "meaning_tw": "creation, preparation, to make",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "作製",
-        "reading": "さくせい",
-        "meaning_tw": "manufacture, production",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "探る",
-        "reading": "さぐる",
-        "meaning_tw": "to search, to look for, investigate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "囁く",
-        "reading": "ささやく",
-        "meaning_tw": "to whisper, to murmur",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "刺さる",
-        "reading": "ささる",
-        "meaning_tw": "to stick, to be stuck",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "匙",
-        "reading": "さじ",
-        "meaning_tw": "spoon",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "座敷",
-        "reading": "ざしき",
-        "meaning_tw": "tatami room",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "差し支え",
-        "reading": "さしつかえ",
-        "meaning_tw": "hindrance, impediment",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "差し引き",
-        "reading": "さしひき",
-        "meaning_tw": "deduction, balance",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
     },
     {
-        "word": "刺身",
-        "reading": "さしみ",
-        "meaning_tw": "sliced raw fish",
+        "word": "挫折",
+        "reading": "ざせつ",
+        "meaning_tw": "挫折",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "刺す",
         "reading": "さす",
-        "meaning_tw": "to pierce, to stab, to prick, to thrust",
+        "meaning_tw": "刺、戳、叮",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "流石",
-        "reading": "さすが",
-        "meaning_tw": "indeed, truly, as one would expect",
+        "word": "指す",
+        "reading": "さす",
+        "meaning_tw": "指、指向",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "撮影",
-        "reading": "さつえい",
-        "meaning_tw": "photographing",
+        "word": "注ぐ",
+        "reading": "そそぐ",
+        "meaning_tw": "注入、傾注、倒（水）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "雑音",
-        "reading": "ざつおん",
-        "meaning_tw": "noise (jarring, grating)",
+        "word": "差す",
+        "reading": "さす",
+        "meaning_tw": "撐（傘）、映射、插",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "さっさと",
-        "reading": "さっさと",
-        "meaning_tw": "quickly",
+        "word": "誘う",
+        "reading": "さそう",
+        "meaning_tw": "邀請、勸誘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "早速",
-        "reading": "さっそく",
-        "meaning_tw": "at once, immediately, promptly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "錆",
-        "reading": "さび",
-        "meaning_tw": "rust (color)",
+        "word": "砂漠",
+        "reading": "さばく",
+        "meaning_tw": "沙漠",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "錆びる",
         "reading": "さびる",
-        "meaning_tw": "to rust, to become rusty",
+        "meaning_tw": "生鏽",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "座布団",
         "reading": "ざぶとん",
-        "meaning_tw": "cushion (Japanese)",
+        "meaning_tw": "坐墊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "妨げる",
-        "reading": "さまたげる",
-        "meaning_tw": "to disturb, to prevent",
+        "word": "差別",
+        "reading": "さべつ",
+        "meaning_tw": "差別、歧視",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "作法",
+        "reading": "さほう",
+        "meaning_tw": "禮節、做法、規矩",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "覚ます",
+        "reading": "さます",
+        "meaning_tw": "喚醒、弄醒",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "冷ます",
+        "reading": "さます",
+        "meaning_tw": "使冷卻、弄涼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "覚める",
+        "reading": "さめる",
+        "meaning_tw": "醒來",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "冷める",
+        "reading": "さめる",
+        "meaning_tw": "冷卻、變涼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "さようなら",
-        "reading": "さようなら",
-        "meaning_tw": "good-bye",
+        "reading": "さよなら",
+        "meaning_tw": "再見",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "サラリーマン",
-        "reading": "サラリーマン",
-        "meaning_tw": "salaryman; company employee",
-        "level": "2",
-        "tags": "Genki_Ln.17 JLPT JLPT_2 Genki"
-    },
-    {
-        "word": "騒がしい",
-        "reading": "さわがしい",
-        "meaning_tw": "noisy",
+        "word": "皿",
+        "reading": "さら",
+        "meaning_tw": "盤子、碟子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "さわやか",
+        "word": "猿",
+        "reading": "さる",
+        "meaning_tw": "猴子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "去る",
+        "reading": "さる",
+        "meaning_tw": "離去、離開、過去",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "爽やか",
         "reading": "さわやか",
-        "meaning_tw": "fresh, refreshing",
+        "meaning_tw": "清爽、爽快",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "觸る",
+        "reading": "さわる",
+        "meaning_tw": "觸摸、碰",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "障る",
+        "reading": "さわる",
+        "meaning_tw": "妨礙、有害、影響",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "酸",
+        "reading": "さん",
+        "meaning_tw": "酸",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "三角",
         "reading": "さんかく",
-        "meaning_tw": "triangle, triangular",
+        "meaning_tw": "三角形",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "參加",
+        "reading": "さんか",
+        "meaning_tw": "參加",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "産業",
+        "reading": "さんぎょう",
+        "meaning_tw": "產業",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "算数",
         "reading": "さんすう",
-        "meaning_tw": "arithmetic",
+        "meaning_tw": "算術",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "賛成",
+        "reading": "さんせい",
+        "meaning_tw": "贊成",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "酸性",
         "reading": "さんせい",
-        "meaning_tw": "acidity acidic",
+        "meaning_tw": "酸性",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "産地",
-        "reading": "さんち",
-        "meaning_tw": "producing area",
+        "word": "散步",
+        "reading": "さんぽ",
+        "meaning_tw": "散步",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "サンプル",
-        "reading": "サンプル",
-        "meaning_tw": "sample",
+        "word": "山脈",
+        "reading": "さんみゃく",
+        "meaning_tw": "山脈",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "山林",
-        "reading": "さんりん",
-        "meaning_tw": "mountain forest",
+        "word": "財産",
+        "reading": "ざいさん",
+        "meaning_tw": "財產",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "シーズン",
-        "reading": "シーズン",
-        "meaning_tw": "season (sporting)",
+        "word": "財布",
+        "reading": "さいふ",
+        "meaning_tw": "錢包",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "シーツ",
-        "reading": "シーツ",
-        "meaning_tw": "sheet",
+        "word": "材料",
+        "reading": "ざいりょう",
+        "meaning_tw": "材料",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仕上がる",
-        "reading": "しあがる",
-        "meaning_tw": "to be finished",
+        "word": "境",
+        "reading": "さかい",
+        "meaning_tw": "邊界",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "明明後日",
-        "reading": "しあさって",
-        "meaning_tw": "two days after tomorrow",
+        "word": "魚",
+        "reading": "さかな",
+        "meaning_tw": "魚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "寺院",
-        "reading": "じいん",
-        "meaning_tw": "temple",
+        "word": "酒",
+        "reading": "さけ",
+        "meaning_tw": "酒",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "しいんと (する)",
-        "reading": "しいんと (する)",
-        "meaning_tw": "silent (as the grave), (deathly) quiet",
+        "word": "叫ぶ",
+        "reading": "さけぶ",
+        "meaning_tw": "大喊、呼喊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "自衛",
-        "reading": "じえい",
-        "meaning_tw": "self-defense",
+        "word": "避ける",
+        "reading": "さける",
+        "meaning_tw": "避免、躲避",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "塩辛",
-        "reading": "しおから",
-        "meaning_tw": "salty (taste)",
+        "word": "裂ける",
+        "reading": "さける",
+        "meaning_tw": "裂開",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "塩辛い",
-        "reading": "しおからい",
-        "meaning_tw": "salty (taste)",
+        "word": "捧げる",
+        "reading": "ささげる",
+        "meaning_tw": "奉獻、貢獻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "司会",
-        "reading": "しかい",
-        "meaning_tw": "host, chairperson",
+        "word": "指し示す",
+        "reading": "さししめす",
+        "meaning_tw": "指示、指出",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "しかく しかくい",
-        "reading": "しかく しかくい",
-        "meaning_tw": "square",
+        "word": "差し出す",
+        "reading": "さしだす",
+        "meaning_tw": "伸出、提出、寄發",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "四角い",
-        "reading": "しかくい",
-        "meaning_tw": "square",
+        "word": "差し支え",
+        "reading": "さしつかえ",
+        "meaning_tw": "妨礙、不便、問題",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仕方がない",
-        "reading": "しかたがない",
-        "meaning_tw": "it can't be helped, it's inevitable",
+        "word": "差し支える",
+        "reading": "さしつかえる",
+        "meaning_tw": "有妨礙、影響",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "時間割",
-        "reading": "じかんわり",
-        "meaning_tw": "timetable, schedule",
+        "word": "差し引き",
+        "reading": "さしひき",
+        "meaning_tw": "扣除、差額",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "四季",
+        "word": "指す",
+        "reading": "さす",
+        "meaning_tw": "指",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "定める",
+        "reading": "さだめる",
+        "meaning_tw": "決定、規定、平定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "札",
+        "reading": "さつ",
+        "meaning_tw": "鈔票、紙幣、牌子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "撮影",
+        "reading": "さつえい",
+        "meaning_tw": "攝影、拍照",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "殺害",
+        "reading": "さつがい",
+        "meaning_tw": "殺害",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "雜誌",
+        "reading": "ざっし",
+        "meaning_tw": "雜誌",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "さっさと",
+        "reading": "さっさと",
+        "meaning_tw": "快快地、迅速地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "察する",
+        "reading": "さっする",
+        "meaning_tw": "推測、察覺、諒解",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "さっと",
+        "reading": "さっと",
+        "meaning_tw": "迅速地、一下子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "殺到",
+        "reading": "さっとう",
+        "meaning_tw": "湧到、紛至沓來",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "さっぱり",
+        "reading": "さっぱり",
+        "meaning_tw": "清爽、乾脆、完全（不）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "砂糖",
+        "reading": "さとう",
+        "meaning_tw": "砂糖",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "砂漠",
+        "reading": "さばく",
+        "meaning_tw": "沙漠",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "差別",
+        "reading": "さべつ",
+        "meaning_tw": "歧視、差別",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "作法",
+        "reading": "さほう",
+        "meaning_tw": "禮節、做法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "樣",
+        "reading": "さま",
+        "meaning_tw": "樣子、狀態、先生/女士",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "妨げる",
+        "reading": "さまたげる",
+        "meaning_tw": "妨礙、阻撓",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "侍",
+        "reading": "さむらい",
+        "meaning_tw": "武士",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "左右",
+        "reading": "さゆう",
+        "meaning_tw": "左右、控制、支配",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "さようなら",
+        "reading": "さよなら",
+        "meaning_tw": "再見",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "さらさら",
+        "reading": "さらさら",
+        "meaning_tw": "颯颯聲、流暢地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "更に",
+        "reading": "さらに",
+        "meaning_tw": "更加、進一步、而且",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "去る",
+        "reading": "さる",
+        "meaning_tw": "離去",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "猿",
+        "reading": "さる",
+        "meaning_tw": "猴子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "騒がしい",
+        "reading": "さわがしい",
+        "meaning_tw": "吵鬧的、喧嚷的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "騒ぐ",
+        "reading": "さわぐ",
+        "meaning_tw": "吵鬧、騷動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "觸る",
+        "reading": "さわる",
+        "meaning_tw": "摸、碰",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "障る",
+        "reading": "さわる",
+        "meaning_tw": "有害、妨礙",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "酸化",
+        "reading": "さんか",
+        "meaning_tw": "氧化",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "參加",
+        "reading": "さんか",
+        "meaning_tw": "參加",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "産業",
+        "reading": "さんぎょう",
+        "meaning_tw": "產業",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "三九",
+        "reading": "さんきゅう",
+        "meaning_tw": "謝謝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "參照",
+        "reading": "さんしょう",
+        "meaning_tw": "參照",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "贊成",
+        "reading": "さんせい",
+        "meaning_tw": "贊成",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "散策",
+        "reading": "さんさく",
+        "meaning_tw": "散步、閒逛",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "酸素",
+        "reading": "さんそ",
+        "meaning_tw": "氧氣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "散步",
+        "reading": "さんぽ",
+        "meaning_tw": "散步",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "詩",
+        "reading": "し",
+        "meaning_tw": "詩",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "四",
+        "reading": "し",
+        "meaning_tw": "四",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "市",
+        "reading": "し",
+        "meaning_tw": "市、城市",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "死",
+        "reading": "し",
+        "meaning_tw": "死亡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "氏",
+        "reading": "し",
+        "meaning_tw": "氏、先生",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "師",
+        "reading": "し",
+        "meaning_tw": "老師、師傅",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "幸せ",
+        "reading": "しあわせ",
+        "meaning_tw": "幸福、幸運",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仕上げ",
+        "reading": "しあげ",
+        "meaning_tw": "完成、最後加工",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仕上げる",
+        "reading": "しあげる",
+        "meaning_tw": "做完、完成",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning_tw": "比賽",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "強いる",
+        "reading": "しいる",
+        "meaning_tw": "強迫、強加",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "潮",
+        "reading": "しお",
+        "meaning_tw": "潮汐、海水、時機",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "塩",
+        "reading": "しお",
+        "meaning_tw": "鹽",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "然し",
+        "reading": "しかし",
+        "meaning_tw": "但是、然而",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "然も",
+        "reading": "しかも",
+        "meaning_tw": "而且、並且、卻",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning_tw": "方法、辦法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "叱る",
+        "reading": "しかる",
+        "meaning_tw": "責備、斥責",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "式",
         "reading": "しき",
-        "meaning_tw": "four seasons",
+        "meaning_tw": "儀式、公式、方式",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "敷地",
-        "reading": "しきち",
-        "meaning_tw": "site",
+        "word": "直に",
+        "reading": "じかに",
+        "meaning_tw": "直接、親自",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "敷く",
         "reading": "しく",
-        "meaning_tw": "to spread out, to lay out",
+        "meaning_tw": "鋪、鋪設、壓制",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仕組み",
+        "reading": "しくみ",
+        "meaning_tw": "結構、組織、計畫",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "試験",
+        "reading": "しけん",
+        "meaning_tw": "考試、試驗",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "資源",
+        "reading": "しげん",
+        "meaning_tw": "資源",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning_tw": "工作",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "茂る",
         "reading": "しげる",
-        "meaning_tw": "to grow thick",
+        "meaning_tw": "茂盛、繁茂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "持参",
-        "reading": "じさん",
-        "meaning_tw": "bringing, taking, carrying",
+        "word": "支持",
+        "reading": "しじ",
+        "meaning_tw": "支持",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "磁石",
-        "reading": "じしゃく",
-        "meaning_tw": "magnet",
+        "word": "指示",
+        "reading": "しじ",
+        "meaning_tw": "指示",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "四捨五入",
-        "reading": "ししゃごにゅう",
-        "meaning_tw": "rounding up (fractions)",
+        "word": "四季",
+        "reading": "しき",
+        "meaning_tw": "四季",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "始終",
-        "reading": "しじゅう",
-        "meaning_tw": "continuously, always, constantly",
+        "word": "刺激",
+        "reading": "しげき",
+        "meaning_tw": "刺激",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "自習",
-        "reading": "じしゅう",
-        "meaning_tw": "self-study",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.13 Intermediate_Japanese"
-    },
-    {
-        "word": "静まる",
-        "reading": "しずまる",
-        "meaning_tw": "to quieten down, to calm down",
+        "word": "試行",
+        "reading": "しこう",
+        "meaning_tw": "試行、試驗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "姿勢",
-        "reading": "しせい",
-        "meaning_tw": "attitude; posture",
+        "word": "思考",
+        "reading": "しこう",
+        "meaning_tw": "思考",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "自然科学",
-        "reading": "しぜんかがく",
-        "meaning_tw": "natural science",
+        "word": "施設",
+        "reading": "しせつ",
+        "meaning_tw": "設施、機構",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "時速",
-        "reading": "じそく",
-        "meaning_tw": "speed (per hour)",
+        "word": "視線",
+        "reading": "しせん",
+        "meaning_tw": "視線、目光",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "自然",
+        "reading": "しぜん",
+        "meaning_tw": "自然",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+{
+        "word": "思想",
+        "reading": "しそう",
+        "meaning_tw": "思想、念頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "子孫",
         "reading": "しそん",
-        "meaning_tw": "descendant, offspring",
+        "meaning_tw": "子孫、後代",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "死体",
         "reading": "したい",
-        "meaning_tw": "corpse",
+        "meaning_tw": "屍體",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "下書き",
-        "reading": "したがき",
-        "meaning_tw": "rough copy, draft",
+        "word": "下退",
+        "reading": "したき",
+        "meaning_tw": "下降、退步",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "親しい",
+        "reading": "したしい",
+        "meaning_tw": "親密的、親近的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "したがって",
+        "reading": "したがって",
+        "meaning_tw": "因此、從而",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "支度",
+        "reading": "したく",
+        "meaning_tw": "準備、打點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "下町",
+        "reading": "したまち",
+        "meaning_tw": "老城區、平民區（低窪地區）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "自宅",
         "reading": "じたく",
-        "meaning_tw": "one's own home (same as 自分の家 (じぶんのいえ))",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese"
-    },
-    {
-        "word": "下町",
-        "reading": "したまち",
-        "meaning_tw": "old parts of town",
+        "meaning_tw": "自宅、自己家",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "自治",
-        "reading": "じち",
-        "meaning_tw": "self-government, autonomy",
+        "word": "親しまれる",
+        "reading": "したしまれる",
+        "meaning_tw": "被喜愛、受大眾歡迎",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "室～",
-        "reading": "しつ～",
-        "meaning_tw": "room",
+        "word": "濕地",
+        "reading": "しっち",
+        "meaning_tw": "濕地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "嫉妬",
+        "reading": "しっと",
+        "meaning_tw": "嫉妒、吃醋",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "質",
+        "reading": "しつ",
+        "meaning_tw": "品質、性質、本質",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "室",
+        "reading": "しつ",
+        "meaning_tw": "房間、室",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "実感",
         "reading": "じっかん",
-        "meaning_tw": "feelings, realization",
+        "meaning_tw": "真切感受到、實感",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "湿気",
-        "reading": "しっき",
-        "meaning_tw": "moisture, humidity, dampness",
+        "reading": "しっけ",
+        "meaning_tw": "濕氣、潮濕",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "しつこい",
-        "reading": "しつこい",
-        "meaning_tw": "insistent, obstinate",
+        "word": "実行",
+        "reading": "じっこう",
+        "meaning_tw": "執行、實行",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "実際",
+        "reading": "じっさい",
+        "meaning_tw": "實際、事實上",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "実施",
+        "reading": "じっし",
+        "meaning_tw": "實施、施行",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "じっと",
+        "reading": "じっと",
+        "meaning_tw": "靜靜地、目不轉睛地、耐心地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "実習",
         "reading": "じっしゅう",
-        "meaning_tw": "practice, training",
+        "meaning_tw": "實習、演習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "実績",
         "reading": "じっせき",
-        "meaning_tw": "achievements, actual results",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "湿度",
-        "reading": "しつど",
-        "meaning_tw": "level of humidity",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "執筆",
-        "reading": "しっぴつ",
-        "meaning_tw": "writing",
+        "meaning_tw": "實際成績、功績",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "実物",
         "reading": "じつぶつ",
-        "meaning_tw": "an actual thing",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese"
-    },
-    {
-        "word": "しっぽ",
-        "reading": "しっぽ",
-        "meaning_tw": "tail (animal)",
+        "meaning_tw": "實物、本人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "実用",
-        "reading": "じつよう",
-        "meaning_tw": "practical use, utility",
+        "word": "執筆",
+        "reading": "しっぴつ",
+        "meaning_tw": "執筆、寫作（如為雜誌撰文）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "実力",
-        "reading": "じつりょく",
-        "meaning_tw": "(real) ability, true strength, merit, efficiency, competency",
+        "word": "失明",
+        "reading": "しつめい",
+        "meaning_tw": "失明、瞎眼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "実例",
-        "reading": "じつれい",
-        "meaning_tw": "example, instance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しつれいしました (かん)",
-        "reading": "しつれいしました (かん)",
-        "meaning_tw": "Excuse me., I'm sorry.",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "失恋",
-        "reading": "しつれん",
-        "meaning_tw": "broken heart, unrequited love",
+        "word": "失礼",
+        "reading": "しつれい",
+        "meaning_tw": "失禮、沒禮貌",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "指定",
         "reading": "してい",
-        "meaning_tw": "designation, specification, assignment",
+        "meaning_tw": "指定、指派",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "私鉄",
         "reading": "してつ",
-        "meaning_tw": "private railway",
+        "meaning_tw": "私鐵（民間鐵路）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "視點",
+        "reading": "してん",
+        "meaning_tw": "視點、觀點、角度",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "地點",
+        "reading": "ちてん",
+        "meaning_tw": "地點、處所",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "支店",
+        "reading": "してん",
+        "meaning_tw": "分店、分行",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "指導",
+        "reading": "しどう",
+        "meaning_tw": "指導、引導、教練",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "児童",
         "reading": "じどう",
-        "meaning_tw": "children, juvenile",
+        "meaning_tw": "兒童、少年",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "自動",
+        "reading": "じどう",
+        "meaning_tw": "自動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "品",
+        "reading": "しな",
+        "meaning_tw": "物品、物品、品質",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "支配",
+        "reading": "しはい",
+        "meaning_tw": "支配、統治、控制",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "芝居",
+        "reading": "しばい",
+        "meaning_tw": "戲劇、演戲",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "芝生",
+        "reading": "しばふ",
+        "meaning_tw": "草坪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "支払",
+        "reading": "しはらい",
+        "meaning_tw": "支付、付款",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "支払う",
+        "reading": "しはらう",
+        "meaning_tw": "支付、付出",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "しばしば",
+        "reading": "しばしば",
+        "meaning_tw": "屢次、常常",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "縛る",
         "reading": "しばる",
-        "meaning_tw": "to tie, to bind",
+        "meaning_tw": "捆綁、束縛",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "地盤",
-        "reading": "じばん",
-        "meaning_tw": "(the) ground",
+        "word": "四分",
+        "reading": "しぶん",
+        "meaning_tw": "四分之一、分成四份",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "しびれる",
-        "reading": "しびれる",
-        "meaning_tw": "to become numb",
+        "word": "渋い",
+        "reading": "しぶい",
+        "meaning_tw": "澀的、雅致的、吝嗇的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "紙幣",
-        "reading": "しへい",
-        "meaning_tw": "paper money, notes, bills",
+        "word": "脂肪",
+        "reading": "しぼう",
+        "meaning_tw": "脂肪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "志望",
+        "reading": "しぼう",
+        "meaning_tw": "志願、志向",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "死亡",
+        "reading": "しぼう",
+        "meaning_tw": "死亡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "資本",
+        "reading": "しほん",
+        "meaning_tw": "資本",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "しぼむ",
         "reading": "しぼむ",
-        "meaning_tw": "to wither, to shrivel",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "萎む",
-        "reading": "しぼむ",
-        "meaning_tw": "to wither (of flowers, dreams, etc.), to wilt",
+        "meaning_tw": "凋謝、枯萎、癟下去",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "絞る",
         "reading": "しぼる",
-        "meaning_tw": "to press, to wring, to squeeze",
+        "meaning_tw": "擰、擠、縮小、壓榨",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "縞",
         "reading": "しま",
-        "meaning_tw": "stripe",
+        "meaning_tw": "條紋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "地味",
-        "reading": "じみ",
-        "meaning_tw": "plain, simple, subdued, sober",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しみじみ",
-        "reading": "しみじみ",
-        "meaning_tw": "keenly, deeply, heartily",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "氏名",
-        "reading": "しめい",
-        "meaning_tw": "full name",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "締切",
-        "reading": "しめきり",
-        "meaning_tw": "deadline",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.3"
-    },
-    {
-        "word": "締め切り",
-        "reading": "しめきり",
-        "meaning_tw": "deadline, closing, cut-off, end",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "締め切る",
-        "reading": "しめきる",
-        "meaning_tw": "to close, cancel",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しめた (かん)",
-        "reading": "しめた (かん)",
-        "meaning_tw": "I've got it, all right, fine",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しめる",
-        "reading": "しめる",
-        "meaning_tw": "to be wet, to become wet, to be damp",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "地面",
-        "reading": "じめん",
-        "meaning_tw": "ground, earth's surface",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ジャーナリスト",
-        "reading": "ジャーナリスト",
-        "meaning_tw": "journalist",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "社会科学",
-        "reading": "しゃかいかがく",
-        "meaning_tw": "social science",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しゃがむ",
-        "reading": "しゃがむ",
-        "meaning_tw": "to squat",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蛇口",
-        "reading": "じゃぐち",
-        "meaning_tw": "faucet, tap",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "弱点",
-        "reading": "じゃくてん",
-        "meaning_tw": "weak point, weakness",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "車庫",
-        "reading": "しゃこ",
-        "meaning_tw": "garage, car shed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "車掌",
-        "reading": "しゃしょう",
-        "meaning_tw": "(train) conductor",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "写生",
-        "reading": "しゃせい",
-        "meaning_tw": "sketching, drawing from nature",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "社説",
-        "reading": "しゃせつ",
-        "meaning_tw": "editorial",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しゃっくり",
-        "reading": "しゃっくり",
-        "meaning_tw": "hiccough, hiccup",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "シャッター",
-        "reading": "シャッター",
-        "meaning_tw": "shutter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しゃぶる",
-        "reading": "しゃぶる",
-        "meaning_tw": "to suck, to chew",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "車輪",
-        "reading": "しゃりん",
-        "meaning_tw": "(car) wheel",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "洒落",
-        "reading": "しゃれ",
-        "meaning_tw": "joke, pun, witticism",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "じゃんけん",
-        "reading": "じゃんけん",
-        "meaning_tw": "rock-scissors-paper game",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "重～",
-        "reading": "じゅう～",
-        "meaning_tw": "heavy ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "集会",
-        "reading": "しゅうかい",
-        "meaning_tw": "meeting, assembly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "住居",
-        "reading": "じゅうきょ",
-        "meaning_tw": "dwelling, house, residence, address",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "集金",
-        "reading": "しゅうきん",
-        "meaning_tw": "money collection",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "集合",
-        "reading": "しゅうごう",
-        "meaning_tw": "gathering, assembly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "習字",
-        "reading": "しゅうじ",
-        "meaning_tw": "penmanship",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "修繕",
-        "reading": "しゅうぜん",
-        "meaning_tw": "repair, mending",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "重体",
-        "reading": "じゅうたい",
-        "meaning_tw": "serious condition, critical condition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "じゅうたん (カーペット)",
-        "reading": "じゅうたん (カーペット)",
-        "meaning_tw": "carpet",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "終点",
-        "reading": "しゅうてん",
-        "meaning_tw": "terminus, last stop (e.g train)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "重点",
-        "reading": "じゅうてん",
-        "meaning_tw": "important point, lay stress on, emphasis",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "就任",
-        "reading": "しゅうにん",
-        "meaning_tw": "inauguration, assumption of office",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "周辺",
-        "reading": "しゅうへん",
-        "meaning_tw": "circumference, peripheral",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "重役",
-        "reading": "じゅうやく",
-        "meaning_tw": "director, high executive",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "終了",
-        "reading": "しゅうりょう",
-        "meaning_tw": "end, close, termination",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
-    },
-    {
-        "word": "重量",
-        "reading": "じゅうりょう",
-        "meaning_tw": "heavyweight",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "重力",
-        "reading": "じゅうりょく",
-        "meaning_tw": "gravity",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "熟語",
-        "reading": "じゅくご",
-        "meaning_tw": "idiom, kanji compound",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "祝日",
-        "reading": "しゅくじつ",
-        "meaning_tw": "national holiday",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "縮小",
-        "reading": "しゅくしょう",
-        "meaning_tw": "reduction, curtailment",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "受験",
-        "reading": "じゅけん",
-        "meaning_tw": "taking an examination",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "主語",
-        "reading": "しゅご",
-        "meaning_tw": "(gram) subject",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "主人",
-        "reading": "しゅじん",
-        "meaning_tw": "(one's own) husband",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.9 Intermediate_Japanese"
-    },
-    {
-        "word": "出勤",
-        "reading": "しゅっきん",
-        "meaning_tw": "going to work, at work",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "述語",
-        "reading": "じゅつご",
-        "meaning_tw": "predicate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出張",
-        "reading": "しゅっちょう",
-        "meaning_tw": "official tour, business trip",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese Genki_Ln.19 JLPT_2 Intermediate_Japanese_Ln.10 Genki"
-    },
-    {
-        "word": "寿命",
-        "reading": "じゅみょう",
-        "meaning_tw": "life span",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "主役",
-        "reading": "しゅやく",
-        "meaning_tw": "leading part",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "受話器",
-        "reading": "じゅわき",
-        "meaning_tw": "(telephone) receiver",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "循環",
-        "reading": "じゅんかん",
-        "meaning_tw": "circulation, rotation, cycle",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "巡査",
-        "reading": "じゅんさ",
-        "meaning_tw": "policeman",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "順々",
-        "reading": "じゅんじゅん",
-        "meaning_tw": "in order, in turn",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "順序",
-        "reading": "じゅんじょ",
-        "meaning_tw": "order, sequence, procedure",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "純情",
-        "reading": "じゅんじょう",
-        "meaning_tw": "pure heart",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "純粋",
-        "reading": "じゅんすい",
-        "meaning_tw": "pure, genuine, unmixed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "初～",
-        "reading": "しょ～",
-        "meaning_tw": "first ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "諸～",
-        "reading": "しょ～",
-        "meaning_tw": "various ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "女～",
-        "reading": "じょ～",
-        "meaning_tw": "things done by women",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "省～",
-        "reading": "しょう～",
-        "meaning_tw": "economizing ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "消化",
-        "reading": "しょうか",
-        "meaning_tw": "digestion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "小学生",
-        "reading": "しょうがくせい",
-        "meaning_tw": "elementary school pupil",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "しょうがない",
-        "reading": "しょうがない",
-        "meaning_tw": "It is not worth ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "将棋",
-        "reading": "しょうぎ",
-        "meaning_tw": "Japanese chess",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蒸気",
-        "reading": "じょうき",
-        "meaning_tw": "steam, vapor",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "定規",
-        "reading": "じょうぎ",
-        "meaning_tw": "(measuring) ruler",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "上級",
-        "reading": "じょうきゅう",
-        "meaning_tw": "advanced level, high grade, senior",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "商業",
-        "reading": "しょうぎょう",
-        "meaning_tw": "commerce, trade, business",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "消極的",
-        "reading": "しょうきょくてき",
-        "meaning_tw": "passive",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "賞金",
-        "reading": "しょうきん",
-        "meaning_tw": "prize, monetary award",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "上下",
-        "reading": "じょうげ",
-        "meaning_tw": "high and low, up and down",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "障子",
-        "reading": "しょうじ",
-        "meaning_tw": "paper sliding door",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "商社",
-        "reading": "しょうしゃ",
-        "meaning_tw": "trading company",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "乗車",
-        "reading": "じょうしゃ",
-        "meaning_tw": "taking a train, entraining",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "上旬",
-        "reading": "じょうじゅん",
-        "meaning_tw": "first 10 days of month",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "小数",
-        "reading": "しょうすう",
-        "meaning_tw": "fraction (part of), decimal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "生ずる",
-        "reading": "しょうずる",
-        "meaning_tw": "to cause, to arise, to be generated",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "商店",
-        "reading": "しょうてん",
-        "meaning_tw": "shop, business firm",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "焦点",
-        "reading": "しょうてん",
-        "meaning_tw": "focus, point",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "消毒",
-        "reading": "しょうどく",
-        "meaning_tw": "disinfection",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "勝敗",
-        "reading": "しょうはい",
-        "meaning_tw": "victory or defeat, issue (of battle)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蒸発",
-        "reading": "じょうはつ",
-        "meaning_tw": "evaporation; unexplained disappearance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "賞品",
-        "reading": "しょうひん",
-        "meaning_tw": "prize, trophy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "上品",
-        "reading": "じょうひん",
-        "meaning_tw": "refined, elegant, well-mannered",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "勝負",
-        "reading": "しょうぶ",
-        "meaning_tw": "victory or defeat, game",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "小便",
-        "reading": "しょうべん",
-        "meaning_tw": "(col) urine, piss",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "消防署",
-        "reading": "しょうぼうしょ",
-        "meaning_tw": "fire station",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "正味",
-        "reading": "しょうみ",
-        "meaning_tw": "net (weight)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "正面",
-        "reading": "しょうめん",
-        "meaning_tw": "front",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "消耗",
-        "reading": "しょうもう",
-        "meaning_tw": "exhaustion, consumption",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "省略",
-        "reading": "しょうりゃく",
-        "meaning_tw": "omission, abbreviation, abridgment",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "初級",
-        "reading": "しょきゅう",
-        "meaning_tw": "elementary level",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "助教授",
-        "reading": "じょきょうじゅ",
-        "meaning_tw": "assistant professor",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "食塩",
-        "reading": "しょくえん",
-        "meaning_tw": "table salt",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "職人",
-        "reading": "しょくにん",
-        "meaning_tw": "artisan, craftsman",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "職場",
-        "reading": "しょくば",
-        "meaning_tw": "workplace",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "初旬",
-        "reading": "しょじゅん",
-        "meaning_tw": "first 10 days of the month",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "書籍",
-        "reading": "しょせき",
-        "meaning_tw": "book, publication",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "食器",
-        "reading": "しょっき",
-        "meaning_tw": "tableware",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ショップ",
-        "reading": "ショップ",
-        "meaning_tw": "a shop",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "書店",
-        "reading": "しょてん",
-        "meaning_tw": "bookshop",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "書道",
-        "reading": "しょどう",
-        "meaning_tw": "calligraphy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "初歩",
-        "reading": "しょほ",
-        "meaning_tw": "elements, rudiments",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "白髪",
-        "reading": "しらが",
-        "meaning_tw": "white or grey hair, trendy hair bleaching",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "シリーズ",
-        "reading": "シリーズ",
-        "meaning_tw": "series",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "知り合い",
-        "reading": "しりあい",
-        "meaning_tw": "acquaintance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "私立",
-        "reading": "しりつ",
-        "meaning_tw": "private (establishment)",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese"
-    },
-    {
-        "word": "資料",
-        "reading": "しりょう",
-        "meaning_tw": "materials, data",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "汁",
-        "reading": "しる",
-        "meaning_tw": "juice, soup",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "素人",
-        "reading": "しろうと",
-        "meaning_tw": "layman, amateur, novice",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese"
-    },
-    {
-        "word": "しわ (かおの～)",
-        "reading": "しわ (かおの～)",
-        "meaning_tw": "wrinkles, creases",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "芯",
-        "reading": "しん",
-        "meaning_tw": "core, heart, wick",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "新幹線",
-        "reading": "しんかんせん",
-        "meaning_tw": "Shinkansen, \"Bullet Train\"",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese JLPT_2 Genki_Ln.9 Intermediate_Japanese_Ln.10 Genki"
-    },
-    {
-        "word": "真空",
-        "reading": "しんくう",
-        "meaning_tw": "vacuum",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "人事",
-        "reading": "じんじ",
-        "meaning_tw": "human resources, personnel management",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "心身",
-        "reading": "しんしん",
-        "meaning_tw": "mind and body",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "信ずる",
-        "reading": "しんずる",
-        "meaning_tw": "to believe",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "申請",
-        "reading": "しんせい",
-        "meaning_tw": "application, request, petition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "人造",
-        "reading": "じんぞう",
-        "meaning_tw": "man-made, synthetic, artificial",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "寝台",
-        "reading": "しんだい",
-        "meaning_tw": "bed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "診断",
-        "reading": "しんだん",
-        "meaning_tw": "diagnosis",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "侵入",
-        "reading": "しんにゅう",
-        "meaning_tw": "invasion, raid, trespass",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "人文科学",
-        "reading": "じんぶんかがく",
-        "meaning_tw": "social sciences, humanities",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "人命",
-        "reading": "じんめい",
-        "meaning_tw": "(human) life",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "深夜",
-        "reading": "しんや",
-        "meaning_tw": "late at night",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "森林",
-        "reading": "しんりん",
-        "meaning_tw": "forest, woods",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "親類",
-        "reading": "しんるい",
-        "meaning_tw": "relative(s) (same as 親戚 (しんせき))",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese_Ln.9"
-    },
-    {
-        "word": "針路",
-        "reading": "しんろ",
-        "meaning_tw": "course, direction",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "神話",
-        "reading": "しんわ",
-        "meaning_tw": "myth, legend",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "酢",
-        "reading": "す",
-        "meaning_tw": "vinegar",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水産",
-        "reading": "すいさん",
-        "meaning_tw": "marine products, fisheries",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "炊事",
-        "reading": "すいじ",
-        "meaning_tw": "cooking",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水蒸気",
-        "reading": "すいじょうき",
-        "meaning_tw": "water vapor, steam",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水素",
-        "reading": "すいそ",
-        "meaning_tw": "hydrogen",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "垂直",
-        "reading": "すいちょく",
-        "meaning_tw": "vertical, perpendicular",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "推定",
-        "reading": "すいてい",
-        "meaning_tw": "presumption, assumption, estimation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水滴",
-        "reading": "すいてき",
-        "meaning_tw": "drop of water",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水筒",
-        "reading": "すいとう",
-        "meaning_tw": "canteen, flask, water bottle",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "随筆",
-        "reading": "ずいひつ",
-        "meaning_tw": "essays, miscellaneous writings",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水分",
-        "reading": "すいぶん",
-        "meaning_tw": "moisture",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水平",
-        "reading": "すいへい",
-        "meaning_tw": "level, horizontal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水平線",
-        "reading": "すいへいせん",
-        "meaning_tw": "horizon",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水面",
-        "reading": "すいめん",
-        "meaning_tw": "water's surface",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水曜",
-        "reading": "すいよう",
-        "meaning_tw": "Wednesday",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "図々しい",
-        "reading": "ずうずうしい",
-        "meaning_tw": "impudent, shameless",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ずうっと",
-        "reading": "ずうっと",
-        "meaning_tw": "all the time, all the way",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "末っ子",
-        "reading": "すえっこ",
-        "meaning_tw": "youngest child",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スカーフ",
-        "reading": "スカーフ",
-        "meaning_tw": "scarf",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "図鑑",
-        "reading": "ずかん",
-        "meaning_tw": "picture book",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "隙",
-        "reading": "すき",
-        "meaning_tw": "unguarded moment, chance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "杉",
-        "reading": "すぎ",
-        "meaning_tw": "Japanese cedar",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "好き嫌い",
-        "reading": "すききらい",
-        "meaning_tw": "likes and dislikes, taste",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "好き好き",
-        "reading": "すきずき",
-        "meaning_tw": "matter of taste",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "透き通る",
-        "reading": "すきとおる",
-        "meaning_tw": "to be(come) transparent",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "隙間",
-        "reading": "すきま",
-        "meaning_tw": "crack, gap, opening",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スクール",
-        "reading": "スクール",
-        "meaning_tw": "school",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "少なくとも",
-        "reading": "すくなくとも",
-        "meaning_tw": "at least",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "図形",
-        "reading": "ずけい",
-        "meaning_tw": "figure",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "鈴",
-        "reading": "すず",
-        "meaning_tw": "bell",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "涼む",
-        "reading": "すずむ",
-        "meaning_tw": "to cool oneself, to cool off",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スタート",
-        "reading": "スタート",
-        "meaning_tw": "start",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スチュワーデス",
-        "reading": "スチュワーデス",
-        "meaning_tw": "stewardess",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "すっきり",
-        "reading": "すっきり",
-        "meaning_tw": "shapely, clear, neat",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ステージ",
-        "reading": "ステージ",
-        "meaning_tw": "stage; performance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ストッキング",
-        "reading": "ストッキング",
-        "meaning_tw": "stockings",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ストップ",
-        "reading": "ストップ",
-        "meaning_tw": "stop",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "素直",
-        "reading": "すなお",
-        "meaning_tw": "obedient, meek, docile",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "頭脳",
-        "reading": "ずのう",
-        "meaning_tw": "head, brains, intellect",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スピーカー",
-        "reading": "スピーカー",
-        "meaning_tw": "speaker",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "図表",
-        "reading": "ずひょう",
-        "meaning_tw": "chart, diagram, graph",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スマート",
-        "reading": "スマート",
-        "meaning_tw": "smart, stylish, slim",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "住まい",
-        "reading": "すまい",
-        "meaning_tw": "dwelling, house",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "すまない",
-        "reading": "すまない",
-        "meaning_tw": "sorry (phrase)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "相撲",
-        "reading": "すもう",
-        "meaning_tw": "sumo wrestling",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese"
-    },
-    {
-        "word": "スライド",
-        "reading": "スライド",
-        "meaning_tw": "slide",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ずらす",
-        "reading": "ずらす",
-        "meaning_tw": "to put off, to delay",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ずらり",
-        "reading": "ずらり",
-        "meaning_tw": "in a line, in a row",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "スリッパ",
-        "reading": "スリッパ",
-        "meaning_tw": "slippers",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "する",
-        "reading": "する",
-        "meaning_tw": "to print",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "狡い",
-        "reading": "ずるい",
-        "meaning_tw": "sly, cunning",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "寸法",
-        "reading": "すんぽう",
-        "meaning_tw": "measurement, size, dimension",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "姓",
-        "reading": "せい",
-        "meaning_tw": "surname, family name",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "税関",
-        "reading": "ぜいかん",
-        "meaning_tw": "customs",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "製作",
-        "reading": "せいさく",
-        "meaning_tw": "manufacture, production",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "制作",
-        "reading": "せいさく",
-        "meaning_tw": "work (e.g., film, book)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "性質",
-        "reading": "せいしつ",
-        "meaning_tw": "nature, property, disposition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "清書",
-        "reading": "せいしょ",
-        "meaning_tw": "clean copy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "青少年",
-        "reading": "せいしょうねん",
-        "meaning_tw": "youth, young person",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "整数",
-        "reading": "せいすう",
-        "meaning_tw": "integer",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "清掃",
-        "reading": "せいそう",
-        "meaning_tw": "cleaning",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "生存",
-        "reading": "せいぞん",
-        "meaning_tw": "existence, being, survival",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "生長",
-        "reading": "せいちょう",
-        "meaning_tw": "growth (of a plant)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "政党",
-        "reading": "せいとう",
-        "meaning_tw": "(member of) political party",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "生年月日",
-        "reading": "せいねんがっぴ",
-        "meaning_tw": "date of birth",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "性能",
-        "reading": "せいのう",
-        "meaning_tw": "ability, capability",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "整備",
-        "reading": "せいび",
-        "meaning_tw": "maintenance, overhaul",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "成分",
-        "reading": "せいぶん",
-        "meaning_tw": "ingredient, component, composition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "性別",
-        "reading": "せいべつ",
-        "meaning_tw": "sex, gender",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "正方形",
-        "reading": "せいほうけい",
-        "meaning_tw": "square",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "正門",
-        "reading": "せいもん",
-        "meaning_tw": "main gate, main entrance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "成立",
-        "reading": "せいりつ",
-        "meaning_tw": "formation, establishment, completion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "西暦",
-        "reading": "せいれき",
-        "meaning_tw": "Christian Era, after (Christ’s) death (A.D.)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "背負う",
-        "reading": "せおう",
-        "meaning_tw": "to be burdened with; to carry on (one's) back or shoulder(s)",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.14 JLPT_2 JLPT Intermediate_Japanese"
-    },
-    {
-        "word": "赤道",
-        "reading": "せきどう",
-        "meaning_tw": "equator",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "折角",
-        "reading": "せっかく",
-        "meaning_tw": "with trouble, at great pains, long-awaited",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "接近",
-        "reading": "せっきん",
-        "meaning_tw": "getting closer, drawing nearer, approaching",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "接する",
-        "reading": "せっする",
-        "meaning_tw": "to attend to (someone); to associate with",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "せっせと",
-        "reading": "せっせと",
-        "meaning_tw": "busily, away",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "接続",
-        "reading": "せつぞく",
-        "meaning_tw": "connection, union, join, link; changing trains",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "瀬戸物",
-        "reading": "せともの",
-        "meaning_tw": "earthenware, crockery, china",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ぜひとも",
-        "reading": "ぜひとも",
-        "meaning_tw": "by all means (with sense of not taking 'no' for an answer)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "迫る",
-        "reading": "せまる",
-        "meaning_tw": "to draw near, to press",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ゼミ",
-        "reading": "ゼミ",
-        "meaning_tw": "seminar",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese"
-    },
-    {
-        "word": "せめて",
-        "reading": "せめて",
-        "meaning_tw": "at least",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "攻める",
-        "reading": "せめる",
-        "meaning_tw": "to attack, to assault, to assail",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "セメント",
-        "reading": "セメント",
-        "meaning_tw": "cement",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "台詞",
-        "reading": "せりふ",
-        "meaning_tw": "speech, words, one's lines, remarks",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "栓",
-        "reading": "せん",
-        "meaning_tw": "stopper, cork, stopcock",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "前～",
-        "reading": "ぜん～",
-        "meaning_tw": "former, late ~, past ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "前後",
-        "reading": "ぜんご",
-        "meaning_tw": "front and back, before and after",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "洗剤",
-        "reading": "せんざい",
-        "meaning_tw": "detergent, cleanser, cleaning agent, washing material",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "全集",
-        "reading": "ぜんしゅう",
-        "meaning_tw": "complete works",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "全身",
-        "reading": "ぜんしん",
-        "meaning_tw": "whole (body), full-length (e.g., portrait) systemic",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "扇子",
-        "reading": "せんす",
-        "meaning_tw": "folding fan",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Genki_Ln.20 Genki"
-    },
-    {
-        "word": "専制",
-        "reading": "せんせい",
-        "meaning_tw": "despotism, autocracy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先々月",
-        "reading": "せんせんげつ",
-        "meaning_tw": "month before last",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先々週",
-        "reading": "せんせんしゅう",
-        "meaning_tw": "2 weeks before",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先祖",
-        "reading": "せんぞ",
-        "meaning_tw": "ancestor",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先端",
-        "reading": "せんたん",
-        "meaning_tw": "pointed end, tip",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "センチ",
-        "reading": "センチ",
-        "meaning_tw": "centimeter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "宣伝",
-        "reading": "せんでん",
-        "meaning_tw": "publicity, advertisement, advertising, propaganda",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "先頭",
-        "reading": "せんとう",
-        "meaning_tw": "head, lead, vanguard",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "全般",
-        "reading": "ぜんぱん",
-        "meaning_tw": "(the) whole, general",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "扇風機",
-        "reading": "せんぷうき",
-        "meaning_tw": "electric fan",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "洗面",
-        "reading": "せんめん",
-        "meaning_tw": "wash up (one's face), have a wash",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "全力",
-        "reading": "ぜんりょく",
-        "meaning_tw": "all one's power, whole energy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "線路",
-        "reading": "せんろ",
-        "meaning_tw": "line, track, roadbed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "総～",
-        "reading": "そう～",
-        "meaning_tw": "gross, general, entire",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "相違",
-        "reading": "そうい",
-        "meaning_tw": "difference, discrepancy, variation",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11"
-    },
-    {
-        "word": "そういえば",
-        "reading": "そういえば",
-        "meaning_tw": "which reminds me ..",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "雑巾",
-        "reading": "ぞうきん",
-        "meaning_tw": "house-cloth, dust cloth",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "増減",
-        "reading": "ぞうげん",
-        "meaning_tw": "increase and decrease, fluctuation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "倉庫",
-        "reading": "そうこ",
-        "meaning_tw": "storehouse, warehouse",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "相互",
-        "reading": "そうご",
-        "meaning_tw": "mutual, reciprocal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "創作",
-        "reading": "そうさく",
-        "meaning_tw": "production, creation, work",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "葬式",
-        "reading": "そうしき",
-        "meaning_tw": "funeral",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "造船",
-        "reading": "ぞうせん",
-        "meaning_tw": "shipbuilding",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "騒々しい",
-        "reading": "そうぞうしい",
-        "meaning_tw": "noisy, boisterous",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "増大",
-        "reading": "ぞうだい",
-        "meaning_tw": "increase, growth",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "そうっと",
-        "reading": "そうっと",
-        "meaning_tw": "softly, cautiously, gently",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "送別",
-        "reading": "そうべつ",
-        "meaning_tw": "farewell, send-off",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "草履",
-        "reading": "ぞうり",
-        "meaning_tw": "Japanese sandals (footwear)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "総理大臣",
-        "reading": "そうりだいじん",
-        "meaning_tw": "Prime Minister",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "送料",
-        "reading": "そうりょう",
-        "meaning_tw": "postage, carriage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "属する",
-        "reading": "ぞくする",
-        "meaning_tw": "to belong to, to come under",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "続々",
-        "reading": "ぞくぞく",
-        "meaning_tw": "successively, one after another",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "速達",
-        "reading": "そくたつ",
-        "meaning_tw": "express, special delivery",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "測定",
-        "reading": "そくてい",
-        "meaning_tw": "measurement",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "測量",
-        "reading": "そくりょう",
-        "meaning_tw": "measurement, surveying",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "速力",
-        "reading": "そくりょく",
-        "meaning_tw": "speed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "素質",
-        "reading": "そしつ",
-        "meaning_tw": "talent, capability",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "祖先",
-        "reading": "そせん",
-        "meaning_tw": "ancestor(s)",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
-    },
-    {
-        "word": "そそっかしい",
-        "reading": "そそっかしい",
-        "meaning_tw": "careless, thoughtless",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "卒直",
-        "reading": "そっちょく",
-        "meaning_tw": "frank, candid, honest",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "率直",
-        "reading": "そっちょく",
-        "meaning_tw": "frank, candid, straightforward, openhearted, direct, outspoken",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "そのころ",
-        "reading": "そのころ",
-        "meaning_tw": "in those days, at that time, then",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "そのため",
-        "reading": "そのため",
-        "meaning_tw": "hence, for that reason",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "その他",
-        "reading": "そのほか",
-        "meaning_tw": "besides",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "そば",
-        "reading": "そば",
-        "meaning_tw": "soba (buckwheat noodles)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "剃る",
-        "reading": "そる",
-        "meaning_tw": "to shave",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "それなのに",
-        "reading": "それなのに",
-        "meaning_tw": "though, although",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "それなら",
-        "reading": "それなら",
-        "meaning_tw": "If that's the case..., If so..., That being the case...",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "それはいけませんね (かん)",
-        "reading": "それはいけませんね (かん)",
-        "meaning_tw": "that's not good",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "逸れる",
-        "reading": "それる",
-        "meaning_tw": "to stray (turn) from subject, to go astray",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "揃える",
-        "reading": "そろえる",
-        "meaning_tw": "to collect, to gather, to get together, to complete (a collection) to arrange, to put in order, to prepare, to get ready to make uniform, to make even, to match",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "算盤",
-        "reading": "そろばん",
-        "meaning_tw": "abacus",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "存じる",
-        "reading": "ぞんじる",
-        "meaning_tw": "(humble) to know",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "存ずる",
-        "reading": "ぞんずる",
-        "meaning_tw": "(humble) to know",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "損得",
-        "reading": "そんとく",
-        "meaning_tw": "loss and gain, advantage and disadvantage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "第～",
-        "reading": "だい～",
-        "meaning_tw": "~th",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "タイア",
-        "reading": "タイア",
-        "meaning_tw": "tire, tyre",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "だいいち (とりわけ)",
-        "reading": "だいいち (とりわけ)",
-        "meaning_tw": "first, foremost,&nbsp;&nbsp;#1",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大学院",
-        "reading": "だいがくいん",
-        "meaning_tw": "graduate school",
-        "level": "2",
-        "tags": "Genki_Ln.16 JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.1 Genki"
-    },
-    {
-        "word": "大工",
-        "reading": "だいく",
-        "meaning_tw": "carpenter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "体系",
-        "reading": "たいけい",
-        "meaning_tw": "system, organization",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "太鼓",
-        "reading": "たいこ",
-        "meaning_tw": "drum, tambourine",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "対策",
-        "reading": "たいさく",
-        "meaning_tw": "counter-plan, counter-measure",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大して",
-        "reading": "たいして",
-        "meaning_tw": "(not so) much, (not) very",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "対照",
-        "reading": "たいしょう",
-        "meaning_tw": "contrast, antithesis, comparison",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大小",
-        "reading": "だいしょう",
-        "meaning_tw": "size",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "体制",
-        "reading": "たいせい",
-        "meaning_tw": "order, system, structure",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "体積",
-        "reading": "たいせき",
-        "meaning_tw": "capacity, volume",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大層",
-        "reading": "たいそう",
-        "meaning_tw": "very much, greatly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "体操",
-        "reading": "たいそう",
-        "meaning_tw": "gymnastics, physical exercises, calisthenics",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大分",
-        "reading": "だいぶん",
-        "meaning_tw": "considerably, greatly, a lot",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "大木",
-        "reading": "たいぼく",
-        "meaning_tw": "large tree",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "題名",
-        "reading": "だいめい",
-        "meaning_tw": "title, caption, heading",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "代名詞",
-        "reading": "だいめいし",
-        "meaning_tw": "pronoun",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ダイヤグラム",
-        "reading": "ダイヤグラム",
-        "meaning_tw": "diagram",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ダイヤモンド",
-        "reading": "ダイヤモンド",
-        "meaning_tw": "diamond",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ダイヤル",
-        "reading": "ダイヤル",
-        "meaning_tw": "dial",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "対立",
-        "reading": "たいりつ",
-        "meaning_tw": "confrontation, opposition, antagonism",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "田植え",
-        "reading": "たうえ",
-        "meaning_tw": "rice planting",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "絶えず",
-        "reading": "たえず",
-        "meaning_tw": "constantly",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "楕円",
-        "reading": "だえん",
-        "meaning_tw": "ellipse",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "高める",
-        "reading": "たかめる",
-        "meaning_tw": "to raise, to lift, to boost, to enhance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "耕す",
-        "reading": "たがやす",
-        "meaning_tw": "to till, to plow, to cultivate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "滝",
-        "reading": "たき",
-        "meaning_tw": "waterfall",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蓄える",
-        "reading": "たくわえる",
-        "meaning_tw": "to save, to store, to lay in stock",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "竹",
-        "reading": "たけ",
-        "meaning_tw": "bamboo",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ただいま",
-        "reading": "ただいま",
-        "meaning_tw": "Here I am, I'm home!",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "但し",
-        "reading": "ただし",
-        "meaning_tw": "but, however, provided that",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "畳む",
-        "reading": "たたむ",
-        "meaning_tw": "to fold (e.g., clothes, umbrella)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "立ち止まる",
-        "reading": "たちどまる",
-        "meaning_tw": "to stop, to halt, to stand still",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "たちまち",
-        "reading": "たちまち",
-        "meaning_tw": "instantly, suddenly, all at once",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.7 Intermediate_Japanese"
-    },
-    {
-        "word": "建つ",
-        "reading": "たつ",
-        "meaning_tw": "to be erected, to be built",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "脱線",
-        "reading": "だっせん",
-        "meaning_tw": "derailment, digression",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "妥当",
-        "reading": "だとう",
-        "meaning_tw": "proper, appropriate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "例える",
-        "reading": "たとえる",
-        "meaning_tw": "to compare, to liken",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "頼もしい",
-        "reading": "たのもしい",
-        "meaning_tw": "reliable, promising",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "足袋",
-        "reading": "たび",
-        "meaning_tw": "tabi, Japanese socks (with split toe)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ダブル",
-        "reading": "ダブル",
-        "meaning_tw": "double",
-        "level": "2",
-        "tags": "JLPT_1 JLPT JLPT_2"
-    },
-    {
-        "word": "ダム",
-        "reading": "ダム",
-        "meaning_tw": "dam",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "溜息",
-        "reading": "ためいき",
-        "meaning_tw": "a sigh",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ためらう",
-        "reading": "ためらう",
-        "meaning_tw": "to be hesitant",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.12 Intermediate_Japanese"
-    },
-    {
-        "word": "だらしない",
-        "reading": "だらしない",
-        "meaning_tw": "slovenly, loose, a slut",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "足る",
-        "reading": "たる",
-        "meaning_tw": "to be sufficient, to be enough",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "短～",
-        "reading": "たん～",
-        "meaning_tw": "short ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "段階",
-        "reading": "だんかい",
-        "meaning_tw": "gradation, grade, stage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "短期",
-        "reading": "たんき",
-        "meaning_tw": "short term",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "炭鉱",
-        "reading": "たんこう",
-        "meaning_tw": "coal mine, coal pit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "短所",
-        "reading": "たんしょ",
-        "meaning_tw": "defect, weak point; disadvantage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "たんす",
-        "reading": "たんす",
-        "meaning_tw": "chest of drawers",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "淡水",
-        "reading": "たんすい",
-        "meaning_tw": "fresh water",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "断水",
-        "reading": "だんすい",
-        "meaning_tw": "water outage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "単数",
-        "reading": "たんすう",
-        "meaning_tw": "singular (number)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "団地",
-        "reading": "だんち",
-        "meaning_tw": "housing complex",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "断定",
-        "reading": "だんてい",
-        "meaning_tw": "conclusion, decision",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "短編",
-        "reading": "たんぺん",
-        "meaning_tw": "short (e.g., story, film)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "田ぼ",
-        "reading": "たんぼ",
-        "meaning_tw": "paddy field, farm",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "誓う",
-        "reading": "ちかう",
-        "meaning_tw": "to swear, to vow",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "地下水",
-        "reading": "ちかすい",
-        "meaning_tw": "underground water",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "近々",
-        "reading": "ちかぢか",
-        "meaning_tw": "soon, before long",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "近付ける",
-        "reading": "ちかづける",
-        "meaning_tw": "to bring near, to put close, to let come near",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "近寄る",
-        "reading": "ちかよる",
-        "meaning_tw": "to approach, to draw near",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "力強い",
-        "reading": "ちからづよい",
-        "meaning_tw": "powerful, strong, vigorous",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ちぎる",
-        "reading": "ちぎる",
-        "meaning_tw": "to cut up fine, to pick (fruit)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "地質",
-        "reading": "ちしつ",
-        "meaning_tw": "geological features",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "知人",
-        "reading": "ちじん",
-        "meaning_tw": "friend, acquaintance",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese"
-    },
-    {
-        "word": "地帯",
-        "reading": "ちたい",
-        "meaning_tw": "area, zone",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "縮む",
-        "reading": "ちぢむ",
-        "meaning_tw": "to shrink, to be contracted",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "縮める",
-        "reading": "ちぢめる",
-        "meaning_tw": "to shorten, to reduce, to shrink",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "縮れる",
-        "reading": "ちぢれる",
-        "meaning_tw": "to be wavy, to be curled",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "チップ",
-        "reading": "チップ",
-        "meaning_tw": "gratuity, tip; chip",
-        "level": "2",
-        "tags": "Intermediate_Japanese_Ln.6 JLPT_2 JLPT Intermediate_Japanese"
-    },
-    {
-        "word": "地点",
-        "reading": "ちてん",
-        "meaning_tw": "site, point on a map",
+        "word": "島",
+        "reading": "しま",
+        "meaning_tw": "島嶼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "地名",
         "reading": "ちめい",
-        "meaning_tw": "place name",
+        "meaning_tw": "地名",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "茶色い",
-        "reading": "ちゃいろい",
-        "meaning_tw": "brown",
+        "word": "地盤",
+        "reading": "じばん",
+        "meaning_tw": "地盤、地基、勢力範圍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "着々",
-        "reading": "ちゃくちゃく",
-        "meaning_tw": "steadily",
+        "word": "自慢",
+        "reading": "じまん",
+        "meaning_tw": "自誇、驕傲",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中間",
-        "reading": "ちゅうかん",
-        "meaning_tw": "middle, midway, interim",
+        "word": "事務",
+        "reading": "じむ",
+        "meaning_tw": "事務、辦公、內勤",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中旬",
-        "reading": "ちゅうじゅん",
-        "meaning_tw": "second third of a month",
+        "word": "閉まる",
+        "reading": "しまる",
+        "meaning_tw": "關閉、關著",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "抽象",
-        "reading": "ちゅうしょう",
-        "meaning_tw": "abstract",
+        "word": "締まる",
+        "reading": "しまる",
+        "meaning_tw": "緊湊、繃緊、勒緊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中世",
-        "reading": "ちゅうせい",
-        "meaning_tw": "Middle Ages, medieval times",
+        "word": "閉める",
+        "reading": "しめる",
+        "meaning_tw": "關、合上",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中性",
-        "reading": "ちゅうせい",
-        "meaning_tw": "neuter gender, neutral",
+        "word": "締める",
+        "reading": "しめる",
+        "meaning_tw": "繫、勒緊、節約",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中途",
-        "reading": "ちゅうと",
-        "meaning_tw": "in the middle, half-way",
+        "word": "占める",
+        "reading": "しめる",
+        "meaning_tw": "佔據、佔有、比例為",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中年",
-        "reading": "ちゅうねん",
-        "meaning_tw": "middle-aged",
+        "word": "湿る",
+        "reading": "しめる",
+        "meaning_tw": "弄濕、潮濕",
         "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.1 Intermediate_Japanese"
-    },
-    {
-        "word": "チョーク",
-        "reading": "チョーク",
-        "meaning_tw": "chalk",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長～",
-        "reading": "ちょう～",
-        "meaning_tw": "long ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "超過",
-        "reading": "ちょうか",
-        "meaning_tw": "excess, being more than",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "彫刻",
-        "reading": "ちょうこく",
-        "meaning_tw": "carving, engraving, sculpture",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長所",
-        "reading": "ちょうしょ",
-        "meaning_tw": "strong point, merit; advantage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長女",
-        "reading": "ちょうじょ",
-        "meaning_tw": "eldest daughter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "調整",
-        "reading": "ちょうせい",
-        "meaning_tw": "regulation, adjustment, tuning",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "調節",
-        "reading": "ちょうせつ",
-        "meaning_tw": "regulation, adjustment, control",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長短",
-        "reading": "ちょうたん",
-        "meaning_tw": "length, long and short, +-",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "頂点",
-        "reading": "ちょうてん",
-        "meaning_tw": "top, summit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長男",
-        "reading": "ちょうなん",
-        "meaning_tw": "eldest son",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "長方形",
-        "reading": "ちょうほうけい",
-        "meaning_tw": "rectangle, oblong",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "調味料",
-        "reading": "ちょうみりょう",
-        "meaning_tw": "condiment, seasoning",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直後",
-        "reading": "ちょくご",
-        "meaning_tw": "immediately following",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直線",
-        "reading": "ちょくせん",
-        "meaning_tw": "straight line",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直前",
-        "reading": "ちょくぜん",
-        "meaning_tw": "just before",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直通",
-        "reading": "ちょくつう",
-        "meaning_tw": "direct connection",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直流",
-        "reading": "ちょくりゅう",
-        "meaning_tw": "direct current",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "貯蔵",
-        "reading": "ちょぞう",
-        "meaning_tw": "storage, preservation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直角",
-        "reading": "ちょっかく",
-        "meaning_tw": "right angle",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "直径",
-        "reading": "ちょっけい",
-        "meaning_tw": "diameter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "散らかす",
-        "reading": "ちらかす",
-        "meaning_tw": "to scatter around, to leave untidy",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "散らかる",
-        "reading": "ちらかる",
-        "meaning_tw": "to be in disorder",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "塵紙",
-        "reading": "ちりがみ",
-        "meaning_tw": "tissue paper, toilet paper",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "追加",
-        "reading": "ついか",
-        "meaning_tw": "addition, supplement, appendix",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ついで",
-        "reading": "ついで",
-        "meaning_tw": "opportunity, occasion",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "つうか",
-        "reading": "つうか",
-        "meaning_tw": "currency",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通勤",
-        "reading": "つうきん",
-        "meaning_tw": "commuting to work",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通ずる",
-        "reading": "つうずる",
-        "meaning_tw": "to lead, to run, to open",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通知",
-        "reading": "つうち",
-        "meaning_tw": "notice, notification",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通帳",
-        "reading": "つうちょう",
-        "meaning_tw": "bankbook",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通訳",
-        "reading": "つうやく",
-        "meaning_tw": "interpretation (i.e., oral translation) interpreter",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通用",
-        "reading": "つうよう",
-        "meaning_tw": "popular use, circulation",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通路",
-        "reading": "つうろ",
-        "meaning_tw": "passage, pathway",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "突き当たり",
-        "reading": "つきあたり",
-        "meaning_tw": "end (e.g., of street)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "突き当たる",
-        "reading": "つきあたる",
-        "meaning_tw": "to run into, to collide with",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "月日",
-        "reading": "つきひ",
-        "meaning_tw": "time, years, days",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "次ぐ",
-        "reading": "つぐ",
-        "meaning_tw": "to follow, to come after, to come next (to)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "伝わる",
-        "reading": "つたわる",
-        "meaning_tw": "to spread (of a rumor, news, etc.), to travel, to circulate, to go around, to be passed around, to become known",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "突っ込む",
-        "reading": "つっこむ",
-        "meaning_tw": "to plunge into, to stick into",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "務める",
-        "reading": "つとめる",
-        "meaning_tw": "to serve, to act",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "努める",
-        "reading": "つとめる",
-        "meaning_tw": "to try, to aim",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "綱",
-        "reading": "つな",
-        "meaning_tw": "rope",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "繋がり",
-        "reading": "つながり",
-        "meaning_tw": "connection, link, relationship",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "繋がる",
-        "reading": "つながる",
-        "meaning_tw": "to be tied together, to be connected to, to be linked to",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "粒",
-        "reading": "つぶ",
-        "meaning_tw": "grain",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "潰す",
-        "reading": "つぶす",
-        "meaning_tw": "to smash, to waste",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "潰れる",
-        "reading": "つぶれる",
-        "meaning_tw": "to be smashed, to go bankrupt",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "つまずく",
-        "reading": "つまずく",
-        "meaning_tw": "to stumble, to trip",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "躓く",
-        "reading": "つまずく",
-        "meaning_tw": "to trip (over), to stumble",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "詰まる",
-        "reading": "つまる",
-        "meaning_tw": "to be blocked, to be packed",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "積む",
-        "reading": "つむ",
-        "meaning_tw": "to pile up, to stack",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "爪",
-        "reading": "つめ",
-        "meaning_tw": "fingernail or toenail",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "艶",
-        "reading": "つや",
-        "meaning_tw": "gloss, glaze",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "強気",
-        "reading": "つよき",
-        "meaning_tw": "firm, strong",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "釣り合う",
-        "reading": "つりあう",
-        "meaning_tw": "to balance, to be in harmony, to suit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "吊る",
-        "reading": "つる",
-        "meaning_tw": "to hang",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "吊す",
-        "reading": "つるす",
-        "meaning_tw": "to hang",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "テーマ",
-        "reading": "テーマ",
-        "meaning_tw": "theme, project, topic (GER: Thema)",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "手洗い",
-        "reading": "てあらい",
-        "meaning_tw": "restroom, lavatory",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "低～",
-        "reading": "てい～",
-        "meaning_tw": "low ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "定員",
-        "reading": "ていいん",
-        "meaning_tw": "fixed number of regular personnel, capacity (e.g., of boat)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "定価",
-        "reading": "ていか",
-        "meaning_tw": "established price",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "低下",
-        "reading": "ていか",
-        "meaning_tw": "fall, decline",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "定期券",
-        "reading": "ていきけん",
-        "meaning_tw": "commuter pass, season ticket",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "定休日",
-        "reading": "ていきゅうび",
-        "meaning_tw": "regular holiday",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "停止",
-        "reading": "ていし",
-        "meaning_tw": "suspension, interruption, stoppage",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "停車",
-        "reading": "ていしゃ",
-        "meaning_tw": "stopping (e.g., train)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "停電",
-        "reading": "ていでん",
-        "meaning_tw": "power outage, electricity outage, blackout",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出入り",
-        "reading": "でいり",
-        "meaning_tw": "in and out, coming and going",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出入口",
-        "reading": "でいりぐち",
-        "meaning_tw": "exit and entrance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出入り口",
-        "reading": "でいりぐち",
-        "meaning_tw": "exit and entrance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "手入れ",
-        "reading": "ていれ",
-        "meaning_tw": "repairs, maintenance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出来上がり",
-        "reading": "できあがり",
-        "meaning_tw": "be finished, ready",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "出来上がる",
-        "reading": "できあがる",
-        "meaning_tw": "to be finished, to be ready",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "的確",
-        "reading": "てきかく",
-        "meaning_tw": "precise, accurate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "適確",
-        "reading": "てきかく",
-        "meaning_tw": "precise, accurate",
-        "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手首",
-        "reading": "てくび",
-        "meaning_tw": "wrist",
+        "word": "示す",
+        "reading": "しめす",
+        "meaning_tw": "表示、指示、出示",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "凸凹",
-        "reading": "でこぼこ",
-        "meaning_tw": "unevenness, roughness, ruggedness",
+        "word": "地元",
+        "reading": "じもと",
+        "meaning_tw": "當地、本地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手頃",
-        "reading": "てごろ",
-        "meaning_tw": "moderate, handy",
+        "word": "霜",
+        "reading": "しも",
+        "meaning_tw": "霜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手ごろ",
-        "reading": "てごろ",
-        "meaning_tw": "handy, convenient suitable, reasoanble, moderate",
+        "word": "借金",
+        "reading": "しゃっきん",
+        "meaning_tw": "借款、債務",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "弟子",
-        "reading": "でし",
-        "meaning_tw": "pupil, disciple, apprentice",
+        "word": "社交",
+        "reading": "しゃこう",
+        "meaning_tw": "社交",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "でたらめ",
-        "reading": "でたらめ",
-        "meaning_tw": "irresponsible utterance, nonsense; random",
+        "word": "車庫",
+        "reading": "しゃこ",
+        "meaning_tw": "車庫",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手帳",
-        "reading": "てちょう",
-        "meaning_tw": "notebook",
+        "word": "写生",
+        "reading": "しゃせい",
+        "meaning_tw": "寫生、素描",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鉄橋",
-        "reading": "てっきょう",
-        "meaning_tw": "iron bridge",
+        "word": "謝絶",
+        "reading": "しゃぜつ",
+        "meaning_tw": "謝絕、拒絕",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手続き",
-        "reading": "てつづき",
-        "meaning_tw": "procedure, (legal) process, formalities",
+        "word": "車窓",
+        "reading": "しゃそう",
+        "meaning_tw": "車窗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鉄砲",
-        "reading": "てっぽう",
-        "meaning_tw": "gun",
+        "word": "シャッター",
+        "reading": "シャッター",
+        "meaning_tw": "快門、捲簾門",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "テニスコート",
-        "reading": "テニスコート",
-        "meaning_tw": "tennis court",
+        "word": "喋る",
+        "reading": "しゃべる",
+        "meaning_tw": "說話、喋喋不休",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手拭い",
-        "reading": "てぬぐい",
-        "meaning_tw": "(hand) towel",
+        "word": "しゃぶる",
+        "reading": "しゃぶる",
+        "meaning_tw": "吸、吮、舔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "手前",
-        "reading": "てまえ",
-        "meaning_tw": "before, this side",
+        "word": "洒落",
+        "reading": "しゃらく (しゃれ)",
+        "meaning_tw": "玩笑、俏皮話、時髦",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "出迎え",
-        "reading": "でむかえ",
-        "meaning_tw": "meeting, reception",
+        "word": "じゃんけん",
+        "reading": "じゃんけん",
+        "meaning_tw": "猜拳（剪刀石頭布）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "出迎える",
-        "reading": "でむかえる",
-        "meaning_tw": "to meet, to greet",
+        "word": "自由",
+        "reading": "じゆう",
+        "meaning_tw": "自由",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "照らす",
-        "reading": "てらす",
-        "meaning_tw": "to shine on, to illuminate",
+        "word": "集中",
+        "reading": "しゅうちゅう",
+        "meaning_tw": "集中",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "照る",
-        "reading": "てる",
-        "meaning_tw": "to shine",
+        "word": "重視",
+        "reading": "じゅうし",
+        "meaning_tw": "重視",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "展開",
-        "reading": "てんかい",
-        "meaning_tw": "develop, expansion (opposite of compression)",
+        "word": "重視",
+        "reading": "じゅうし",
+        "meaning_tw": "看重",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "伝記",
-        "reading": "でんき",
-        "meaning_tw": "biography, life story",
+        "word": "就職",
+        "reading": "しゅうしょく",
+        "meaning_tw": "就職、找到工作",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "電球",
-        "reading": "でんきゅう",
-        "meaning_tw": "light bulb",
+        "word": "収縮",
+        "reading": "しゅうしゅく",
+        "meaning_tw": "收縮",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "点数",
-        "reading": "てんすう",
-        "meaning_tw": "marks, points, score",
+        "word": "習字",
+        "reading": "しゅうじ",
+        "meaning_tw": "練字、書法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "伝染",
-        "reading": "でんせん",
-        "meaning_tw": "contagion",
+        "word": "修習",
+        "reading": "しゅうしゅう",
+        "meaning_tw": "修習、學習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "電池",
-        "reading": "でんち",
-        "meaning_tw": "battery",
+        "word": "週日",
+        "reading": "しゅうじつ",
+        "meaning_tw": "週日（平日）、一整天",
         "level": "2",
-        "tags": "Genki_Ln.15 JLPT_2 JLPT Genki"
-    },
-    {
-        "word": "電柱",
-        "reading": "でんちゅう",
-        "meaning_tw": "telephone pole, telegraph pole, light pole",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "点々",
-        "reading": "てんてん",
-        "meaning_tw": "here and there, little by little",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "転々",
-        "reading": "てんてん",
-        "meaning_tw": "from one to another",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "天皇",
-        "reading": "てんのう",
-        "meaning_tw": "Emperor of Japan",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "電波",
-        "reading": "でんぱ",
-        "meaning_tw": "electro-magnetic wave",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "テンポ",
-        "reading": "テンポ",
-        "meaning_tw": "tempo",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "電流",
-        "reading": "でんりゅう",
-        "meaning_tw": "electric current",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "電力",
-        "reading": "でんりょく",
-        "meaning_tw": "electric power",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "問い合わせ",
-        "reading": "といあわせ",
-        "meaning_tw": "inquiry",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "銅",
-        "reading": "どう",
-        "meaning_tw": "copper",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "同～",
-        "reading": "どう～",
-        "meaning_tw": "same ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "どういたしまして (かん)",
-        "reading": "どういたしまして (かん)",
-        "meaning_tw": "you are welcome, don't mention it",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "統一",
-        "reading": "とういつ",
-        "meaning_tw": "unity, consolidation, uniformity",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "同格",
-        "reading": "どうかく",
-        "meaning_tw": "the same rank, equality, apposition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "峠",
-        "reading": "とうげ",
-        "meaning_tw": "ridge, (mountain) pass, difficult part",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "統計",
-        "reading": "とうけい",
-        "meaning_tw": "statistics",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "動作",
-        "reading": "どうさ",
-        "meaning_tw": "action, movements, motions",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "東西",
-        "reading": "とうざい",
-        "meaning_tw": "East and West, whole country",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "当日",
-        "reading": "とうじつ",
-        "meaning_tw": "appointed day, very day",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "投書",
-        "reading": "とうしょ",
-        "meaning_tw": "letter to the editor, letter from a reader, contribution",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "登場",
-        "reading": "とうじょう",
-        "meaning_tw": "entry (on stage)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "どうせ",
-        "reading": "どうせ",
-        "meaning_tw": "anyhow, in any case, at any rate",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "灯台",
-        "reading": "とうだい",
-        "meaning_tw": "lighthouse",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "盗難",
-        "reading": "とうなん",
-        "meaning_tw": "theft, robbery",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "当番",
-        "reading": "とうばん",
-        "meaning_tw": "being on duty",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "等分",
-        "reading": "とうぶん",
-        "meaning_tw": "division into equal parts",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "透明",
-        "reading": "とうめい",
-        "meaning_tw": "transparency, cleanness",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "灯油",
-        "reading": "とうゆ",
-        "meaning_tw": "lamp oil, kerosene",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "東洋",
-        "reading": "とうよう",
-        "meaning_tw": "the East, the Orient",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "童話",
-        "reading": "どうわ",
-        "meaning_tw": "fairy tale",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "通り掛かる",
-        "reading": "とおりかかる",
-        "meaning_tw": "to happen to pass by",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "溶かす",
-        "reading": "とかす",
-        "meaning_tw": "to melt, to dissolve",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "尖る",
-        "reading": "とがる",
-        "meaning_tw": "to taper to a point, to become sharp",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "どきどき",
-        "reading": "どきどき",
-        "meaning_tw": "throb, beat (fast)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "特殊",
-        "reading": "とくしゅ",
-        "meaning_tw": "special, unique",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "特色",
-        "reading": "とくしょく",
-        "meaning_tw": "characteristic, feature",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "特定",
-        "reading": "とくてい",
-        "meaning_tw": "specific, special, particular",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "特売",
-        "reading": "とくばい",
-        "meaning_tw": "special sale",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "溶け込む",
-        "reading": "とけこむ",
-        "meaning_tw": "to melt into; to become a part of",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11"
-    },
-    {
-        "word": "溶ける",
-        "reading": "とける",
-        "meaning_tw": "(intransitive) to melt, to thaw, to fuse, to dissolve",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "退ける",
-        "reading": "どける",
-        "meaning_tw": "to dislodge, to put something out of the way",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "床の間",
-        "reading": "とこのま",
-        "meaning_tw": "alcove",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "所々",
-        "reading": "ところどころ",
-        "meaning_tw": "here and there, some parts (of something)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "都心",
-        "reading": "としん",
-        "meaning_tw": "heart (of city)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "戸棚",
-        "reading": "とだな",
-        "meaning_tw": "cupboard, cabinet",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "とっくに",
-        "reading": "とっくに",
-        "meaning_tw": "long ago, already, a long time ago",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "どっと",
-        "reading": "どっと",
-        "meaning_tw": "suddenly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "整う",
-        "reading": "ととのう",
-        "meaning_tw": "to be prepared, to be in order, to be arranged",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "留まる",
-        "reading": "とどまる",
-        "meaning_tw": "to be fixed; to abide, to stay (in the one place)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "怒鳴る",
-        "reading": "どなる",
-        "meaning_tw": "to shout, to yell",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "殿",
-        "reading": "どの",
-        "meaning_tw": "Mister (mostly in addressing someone on an envelope)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "飛び込む",
-        "reading": "とびこむ",
-        "meaning_tw": "to jump in, to leap in, to plunge into",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "留まる",
-        "reading": "とまる",
-        "meaning_tw": "to be fixed; to abide, to stay (in the one place)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "泊める",
-        "reading": "とめる",
-        "meaning_tw": "to give shelter to, to lodge",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ともかく",
-        "reading": "ともかく",
-        "meaning_tw": "anyhow, at any rate, anyway",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "捕える",
-        "reading": "とらえる",
-        "meaning_tw": "to seize, to capture, to arrest",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "取り入れる",
-        "reading": "とりいれる",
-        "meaning_tw": "to harvest, to take in, to adopt",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "取り消す",
-        "reading": "とりけす",
-        "meaning_tw": "to cancel",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "取り出す",
-        "reading": "とりだす",
-        "meaning_tw": "to take out, to pick out",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "採る",
-        "reading": "とる",
-        "meaning_tw": "to adopt (measure, proposal); to pick (fruit)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "捕る",
-        "reading": "とる",
-        "meaning_tw": "to take, to catch (fish)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "丼",
-        "reading": "どんぶり",
-        "meaning_tw": "porcelain bowl, bowl of rice with food on top",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "内科",
-        "reading": "ないか",
-        "meaning_tw": "internist clinic, internal medicine",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "内線",
-        "reading": "ないせん",
-        "meaning_tw": "phone extension",
-        "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ナイロン",
-        "reading": "ナイロン",
-        "meaning_tw": "nylon",
+        "word": "執着",
+        "reading": "しゅうちゃく",
+        "meaning_tw": "執著、留戀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "長～",
-        "reading": "なが～",
-        "meaning_tw": "long ~",
+        "word": "終點",
+        "reading": "しゅうてん",
+        "meaning_tw": "終點、終站",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仲直り",
-        "reading": "なかなおり",
-        "meaning_tw": "reconciliation, make peace with",
+        "word": "重点",
+        "reading": "じゅうてん",
+        "meaning_tw": "重點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "長引く",
-        "reading": "ながびく",
-        "meaning_tw": "to be prolonged, to drag on",
+        "word": "執念",
+        "reading": "しゅうねん",
+        "meaning_tw": "執念、固執",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中身",
-        "reading": "なかみ",
-        "meaning_tw": "contents, interior, filling substance, content",
+        "word": "週年",
+        "reading": "しゅうねん",
+        "meaning_tw": "週年、一年到頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "中指",
-        "reading": "なかゆび",
-        "meaning_tw": "middle finger",
+        "word": "重寶",
+        "reading": "じゅうほう",
+        "meaning_tw": "珍寶、便利、管用",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "仲良し",
-        "reading": "なかよし",
-        "meaning_tw": "intimate friend, bosom buddy",
+        "word": "重力",
+        "reading": "じゅうりょく",
+        "meaning_tw": "重力",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "慰める",
-        "reading": "なぐさめる",
-        "meaning_tw": "to comfort, to console",
+        "word": "終了",
+        "reading": "しゅうりょう",
+        "meaning_tw": "結束、完結",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "殴る",
-        "reading": "なぐる",
-        "meaning_tw": "to strike, to hit, to beat, to punch",
+        "word": "修了",
+        "reading": "しゅうりょう",
+        "meaning_tw": "修業期滿、結業",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "為す",
-        "reading": "なす",
-        "meaning_tw": "to accomplish, to do",
+        "word": "修理",
+        "reading": "しゅうり",
+        "meaning_tw": "修理、修補",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "謎謎",
-        "reading": "なぞなぞ",
-        "meaning_tw": "riddle",
+        "word": "主義",
+        "reading": "しゅぎ",
+        "meaning_tw": "主義、主張",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "傾らか",
-        "reading": "なだらか",
-        "meaning_tw": "gradual, gentle",
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "meaning_tw": "作業、課題",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "懐かしい",
-        "reading": "なつかしい",
-        "meaning_tw": "dear, desired, missed",
+        "word": "宿泊",
+        "reading": "しゅくはく",
+        "meaning_tw": "住宿",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "撫でる",
-        "reading": "なでる",
-        "meaning_tw": "to brush gently, to stroke",
+        "word": "塾",
+        "reading": "じゅく",
+        "meaning_tw": "補習班",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "斜め",
-        "reading": "ななめ",
-        "meaning_tw": "diagonal, oblique",
+        "word": "熟語",
+        "reading": "じゅくご",
+        "meaning_tw": "熟語、成語、複合詞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "なにしろ",
-        "reading": "なにしろ",
-        "meaning_tw": "at any rate, in any case",
+        "word": "主語",
+        "reading": "しゅご",
+        "meaning_tw": "主詞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "何しろ",
-        "reading": "なにしろ",
-        "meaning_tw": "in any case, at any rate, anyhow, anyway, as you know, for you see, particularly",
+        "word": "祝日",
+        "reading": "しゅくじつ",
+        "meaning_tw": "節日、國定假日",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "何々",
-        "reading": "なになに",
-        "meaning_tw": "such and such, What?",
+        "word": "首相",
+        "reading": "しゅしょう",
+        "meaning_tw": "首相、總理",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "何分",
-        "reading": "なにぶん",
-        "meaning_tw": "by all means, please",
+        "word": "主任",
+        "reading": "しゅにん",
+        "meaning_tw": "主任",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "生意気",
-        "reading": "なまいき",
-        "meaning_tw": "impertinent, impudent",
+        "word": "守備",
+        "reading": "しゅび",
+        "meaning_tw": "守備、防禦",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "生意気な",
-        "reading": "なまいきな",
-        "meaning_tw": "impertinent, saucy, cheeky, impudent, audacious, cocky, pert, brash",
+        "word": "手法",
+        "reading": "しゅほう",
+        "meaning_tw": "手法、技巧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "並木",
-        "reading": "なみき",
-        "meaning_tw": "roadside tree, row of trees",
+        "word": "主文",
+        "reading": "しゅぶん",
+        "meaning_tw": "主句、正文",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "倣う",
-        "reading": "ならう",
-        "meaning_tw": "to imitate, to follow, to emulate",
+        "word": "趣味",
+        "reading": "しゅみ",
+        "meaning_tw": "興趣、嗜好、品味",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "生る",
-        "reading": "なる",
-        "meaning_tw": "to bear fruit",
+        "word": "種目",
+        "reading": "しゅもく",
+        "meaning_tw": "項目、品目",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "南極",
-        "reading": "なんきょく",
-        "meaning_tw": "south pole, Antarctic",
+        "word": "主要",
+        "reading": "しゅよう",
+        "meaning_tw": "主要",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "なんとなく",
-        "reading": "なんとなく",
-        "meaning_tw": "somehow or other, for some reason or another",
+        "word": "種類",
+        "reading": "しゅるい",
+        "meaning_tw": "種類",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "なんとも",
-        "reading": "なんとも",
-        "meaning_tw": "nothing (with neg. verb), quite, not a bit",
+        "word": "手論",
+        "reading": "しゅろん",
+        "meaning_tw": "手論（手稿、論點）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "何とも",
-        "reading": "なんとも",
-        "meaning_tw": "really, very, extremely, terribly, awfully (not) anything, (not) at all, (not) a bit",
+        "word": "受話器",
+        "reading": "じゅわき",
+        "meaning_tw": "聽筒、話筒",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ナンバー",
-        "reading": "ナンバー",
-        "meaning_tw": "number",
+        "word": "順",
+        "reading": "じゅん",
+        "meaning_tw": "順序、次序",
         "level": "2",
         "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "南米",
-        "reading": "なんべい",
-        "meaning_tw": "South America",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
     },
     {
-        "word": "南北",
-        "reading": "なんぼく",
-        "meaning_tw": "south and north",
+        "word": "準",
+        "reading": "じゅん",
+        "meaning_tw": "準、半",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "匂う",
-        "reading": "におう",
-        "meaning_tw": "to be fragrant, to smell",
+        "word": "瞬間",
+        "reading": "しゅんかん",
+        "meaning_tw": "瞬間、一剎那",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "逃がす",
-        "reading": "にがす",
-        "meaning_tw": "to let loose, to set free, to let escape",
+        "word": "順序",
+        "reading": "じゅんじょ",
+        "meaning_tw": "順序、次序",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "憎い",
-        "reading": "にくい",
-        "meaning_tw": "hateful, abominable, detestable",
+        "word": "純情",
+        "reading": "じゅんじょう",
+        "meaning_tw": "純情、純真",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "憎む",
-        "reading": "にくむ",
-        "meaning_tw": "to hate, to detest",
+        "word": "順調",
+        "reading": "じゅんちょう",
+        "meaning_tw": "順利、良好",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "憎らしい",
-        "reading": "にくらしい",
-        "meaning_tw": "odious, hateful",
+        "word": "純粋",
+        "reading": "じゅんすい",
+        "meaning_tw": "純粹、純真、地道",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "にこにこ",
-        "reading": "にこにこ",
-        "meaning_tw": "smile sweetly, smiley",
+        "word": "準備",
+        "reading": "じゅんび",
+        "meaning_tw": "準備",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "濁る",
-        "reading": "にごる",
-        "meaning_tw": "to become muddy, to get cloudy",
+        "word": "準急",
+        "reading": "じゅんきゅう",
+        "meaning_tw": "準急（比急行慢的特快車）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "虹",
-        "reading": "にじ",
-        "meaning_tw": "rainbow",
+        "word": "決勝",
+        "reading": "けっしょう",
+        "meaning_tw": "決賽",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "日時",
-        "reading": "にちじ",
-        "meaning_tw": "date and time",
+        "word": "結晶",
+        "reading": "けっしょう",
+        "meaning_tw": "結晶、成果",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "日用品",
-        "reading": "にちようひん",
-        "meaning_tw": "daily necessities",
+        "word": "諸",
+        "reading": "しょ",
+        "meaning_tw": "諸、各、許多",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "日課",
-        "reading": "にっか",
-        "meaning_tw": "daily work, daily routine",
+        "word": "書",
+        "reading": "しょ",
+        "meaning_tw": "書、信、書法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "日程",
-        "reading": "にってい",
-        "meaning_tw": "schedule",
+        "word": "使用",
+        "reading": "しよう",
+        "meaning_tw": "使用",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鈍い",
-        "reading": "にぶい",
-        "meaning_tw": "dull (e.g., a knife), thickheaded, slow (opposite of fast), stupid",
+        "word": "正解",
+        "reading": "せいかい",
+        "meaning_tw": "正確答案、正解",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "入社",
-        "reading": "にゅうしゃ",
-        "meaning_tw": "entry to a company",
+        "word": "紹介",
+        "reading": "しょうかい",
+        "meaning_tw": "介紹",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "女房",
-        "reading": "にょうぼう",
-        "meaning_tw": "wife",
+        "word": "照会",
+        "reading": "しょうかい",
+        "meaning_tw": "查詢、照會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "睨む",
-        "reading": "にらむ",
-        "meaning_tw": "to glare at, to stare; to keep an eye on",
+        "word": "奨学金",
+        "reading": "しょうがくきん",
+        "meaning_tw": "獎學金",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "煮る",
-        "reading": "にる",
-        "meaning_tw": "to boil, to simmer, to stew, seethe",
+        "word": "小學",
+        "reading": "しょうがく",
+        "meaning_tw": "小學",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "俄",
-        "reading": "にわか",
-        "meaning_tw": "sudden, abrupt, unexpected",
+        "word": "障礙",
+        "reading": "しょうがい",
+        "meaning_tw": "障礙、阻礙、殘疾",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "縫う",
-        "reading": "ぬう",
-        "meaning_tw": "to sew",
+        "word": "生涯",
+        "reading": "しょうがい",
+        "meaning_tw": "生涯、一生",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ねじ",
-        "reading": "ねじ",
-        "meaning_tw": "(a) screw",
+        "word": "消去",
+        "reading": "しょうきょ",
+        "meaning_tw": "消去、消除",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "捩る",
-        "reading": "ねじる",
-        "meaning_tw": "to twist",
+        "word": "消極的",
+        "reading": "しょうきょくてき",
+        "meaning_tw": "消極的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ネックレス",
-        "reading": "ネックレス",
-        "meaning_tw": "necklace",
+        "word": "商業",
+        "reading": "しょうぎょう",
+        "meaning_tw": "商業",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "熱する",
-        "reading": "ねっする",
-        "meaning_tw": "to heat",
+        "word": "賞金",
+        "reading": "しょうきん",
+        "meaning_tw": "獎金",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "寝間着",
-        "reading": "ねまき",
-        "meaning_tw": "sleep-wear, pajamas",
+        "word": "衝撃",
+        "reading": "しょうげき",
+        "meaning_tw": "衝擊、震驚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "寝巻",
-        "reading": "ねまき",
-        "meaning_tw": "sleep-wear, pajamas",
+        "word": "証言",
+        "reading": "しょうげん",
+        "meaning_tw": "證言、證詞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "狙い",
-        "reading": "ねらい",
-        "meaning_tw": "aim",
+        "word": "証拠",
+        "reading": "しょうこ",
+        "meaning_tw": "證據",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "狙う",
-        "reading": "ねらう",
-        "meaning_tw": "to aim at",
+        "word": "称号",
+        "reading": "しょうごう",
+        "meaning_tw": "稱號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "年度",
-        "reading": "ねんど",
-        "meaning_tw": "year, fiscal year",
+        "word": "正午",
+        "reading": "しょうご",
+        "meaning_tw": "中午、正午",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "農産物",
-        "reading": "のうさんぶつ",
-        "meaning_tw": "agricultural produce",
+        "word": "正直",
+        "reading": "しょうじき",
+        "meaning_tw": "老實、誠實",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "農村",
-        "reading": "のうそん",
-        "meaning_tw": "agricultural community",
+        "word": "少々",
+        "reading": "しょうしょう",
+        "meaning_tw": "稍微、一點點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "濃度",
-        "reading": "のうど",
-        "meaning_tw": "concentration, density",
+        "word": "將來",
+        "reading": "しょうらい",
+        "meaning_tw": "將來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "農薬",
-        "reading": "のうやく",
-        "meaning_tw": "agricultural chemicals",
+        "word": "象徵",
+        "reading": "しょうちょう",
+        "meaning_tw": "象徵",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "能率",
-        "reading": "のうりつ",
-        "meaning_tw": "efficiency",
+        "word": "承知",
+        "reading": "しょうち",
+        "meaning_tw": "同意、知道、答應",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "のこぎり",
-        "reading": "のこぎり",
-        "meaning_tw": "saw",
+        "word": "商店",
+        "reading": "しょうてん",
+        "meaning_tw": "商店",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "残らず",
-        "reading": "のこらず",
-        "meaning_tw": "completely, without exception",
+        "word": "焦点",
+        "reading": "しょうてん",
+        "meaning_tw": "焦點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "上り",
-        "reading": "のぼり",
-        "meaning_tw": "up-train (going to Tokyo), ascent",
+        "word": "商売",
+        "reading": "しょうばい",
+        "meaning_tw": "買賣、生意、職業",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "糊",
-        "reading": "のり",
-        "meaning_tw": "glue, paste, starch",
+        "word": "商品",
+        "reading": "しょうひん",
+        "meaning_tw": "商品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "乗換",
-        "reading": "のりかえ",
-        "meaning_tw": "a transfer (e.g., trains, buses)",
+        "word": "消費",
+        "reading": "しょうひ",
+        "meaning_tw": "消費、消耗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "乗り換え",
-        "reading": "のりかえ",
-        "meaning_tw": "(n) transfer (trains, buses, etc.)",
+        "word": "賞品",
+        "reading": "しょうひん",
+        "meaning_tw": "獎品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "乗り越し",
-        "reading": "のりこし",
-        "meaning_tw": "riding past (one's station)",
+        "word": "小便",
+        "reading": "しょうべん",
+        "meaning_tw": "小便",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "鈍い",
-        "reading": "のろい",
-        "meaning_tw": "dull (e.g., a knife), slow (opposite of fast), stupid",
+        "word": "消防",
+        "reading": "しょうぼう",
+        "meaning_tw": "消防",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "のろのろ",
-        "reading": "のろのろ",
-        "meaning_tw": "slowly, sluggishly",
+        "word": "照明",
+        "reading": "しょうめい",
+        "meaning_tw": "照明",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "呑気",
-        "reading": "のんき",
-        "meaning_tw": "carefree, optimistic, careless",
+        "word": "証明",
+        "reading": "しょうめい",
+        "meaning_tw": "證明",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "はい (かん)",
-        "reading": "はい (かん)",
-        "meaning_tw": "yes",
+        "word": "正面",
+        "reading": "しょうめん",
+        "meaning_tw": "正面",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "灰色",
-        "reading": "はいいろ",
-        "meaning_tw": "grey, ashen",
+        "word": "所有",
+        "reading": "しょゆう",
+        "meaning_tw": "所有、擁有",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "俳句",
-        "reading": "はいく",
-        "meaning_tw": "haiku poetry",
+        "word": "省略",
+        "reading": "しょうりゃく",
+        "meaning_tw": "省略",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "売店",
-        "reading": "ばいてん",
-        "meaning_tw": "shop, stand",
+        "word": "奨励",
+        "reading": "しょうれい",
+        "meaning_tw": "獎勵、鼓勵",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "バイバイ",
-        "reading": "バイバイ",
-        "meaning_tw": "bye bye",
+        "word": "正月",
+        "reading": "しょうがつ",
+        "meaning_tw": "正月、新年",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "売買",
-        "reading": "ばいばい",
-        "meaning_tw": "trade, buying and selling",
+        "word": "消防車",
+        "reading": "しょうぼうしゃ",
+        "meaning_tw": "消防車",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "這う",
-        "reading": "はう",
-        "meaning_tw": "to creep, to crawl",
+        "word": "食",
+        "reading": "しょく",
+        "meaning_tw": "食、食物、進食",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "剥す",
-        "reading": "はがす",
-        "meaning_tw": "to tear off, to peel off, to rip off",
+        "word": "色",
+        "reading": "しょく",
+        "meaning_tw": "色、顏色、情色",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "剥がす",
-        "reading": "はがす",
-        "meaning_tw": "to tear off, to peel off, to rip off, to strip off, to skin, to flay, to disrobe, to deprive of, to detach, to disconnect",
+        "word": "職業",
+        "reading": "しょくぎょう",
+        "meaning_tw": "職業",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ばからしい",
-        "reading": "ばからしい",
-        "meaning_tw": "absurd",
+        "word": "食事",
+        "reading": "しょくじ",
+        "meaning_tw": "用餐、進食",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "秤",
-        "reading": "はかり",
-        "meaning_tw": "scales, weighing machine",
+        "word": "職種",
+        "reading": "しょくしゅ",
+        "meaning_tw": "職種、工作類別",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "吐き気",
-        "reading": "はきけ",
-        "meaning_tw": "nausea, sickness in the stomach",
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning_tw": "食堂、餐廳",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "はきはき",
-        "reading": "はきはき",
-        "meaning_tw": "clearly",
+        "word": "職務",
+        "reading": "しょくむ",
+        "meaning_tw": "職務",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "掃く",
-        "reading": "はく",
-        "meaning_tw": "to sweep, to brush, to gather up",
+        "word": "食欲",
+        "reading": "しょくよく",
+        "meaning_tw": "食慾",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "歯車",
-        "reading": "はぐるま",
-        "meaning_tw": "gear, cog-wheel",
+        "word": "食糧",
+        "reading": "しょくりょう",
+        "meaning_tw": "食糧、糧食",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "バケツ",
-        "reading": "バケツ",
-        "meaning_tw": "bucket, pail",
+        "word": "食料",
+        "reading": "しょくりょう",
+        "meaning_tw": "食料、食品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "挟まる",
-        "reading": "はさまる",
-        "meaning_tw": "to get between, to be caught in",
+        "word": "職人",
+        "reading": "しょくにん",
+        "meaning_tw": "工匠、手藝人",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "挟む",
-        "reading": "はさむ",
-        "meaning_tw": "to pinch; to hold between; to insert",
+        "word": "職場",
+        "reading": "しょくば",
+        "meaning_tw": "職場、工作地點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "梯子",
-        "reading": "はしご",
-        "meaning_tw": "ladder, stairs",
+        "word": "食品",
+        "reading": "しょくひん",
+        "meaning_tw": "食品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "始めに",
-        "reading": "はじめに",
-        "meaning_tw": "to begin with, first of all",
+        "word": "植物",
+        "reading": "しょくぶつ",
+        "meaning_tw": "植物",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
-    {
+{
         "word": "初めに",
         "reading": "はじめに",
-        "meaning_tw": "to begin with, first of all",
+        "meaning_tw": "首先、最初",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "はじめまして",
         "reading": "はじめまして",
-        "meaning_tw": "How do you do, I am glad to meet you",
+        "meaning_tw": "初次見面、幸會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "斜",
         "reading": "はす",
-        "meaning_tw": "diagonal",
+        "meaning_tw": "斜、傾斜、對角線",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "外れる",
         "reading": "はずれる",
-        "meaning_tw": "to be disconnected, to get out of place, to be off, to be out (e.g., of gear)",
+        "meaning_tw": "脫落、脫離、落空、不中",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "パターン",
         "reading": "パターン",
-        "meaning_tw": "pattern",
+        "meaning_tw": "模式、圖案、典型",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "肌着",
         "reading": "はだぎ",
-        "meaning_tw": "underwear",
+        "meaning_tw": "內衣、貼身衣物",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "果して",
         "reading": "はたして",
-        "meaning_tw": "as was expected, really",
+        "meaning_tw": "果然、真的、果真",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "果たして",
         "reading": "はたして",
-        "meaning_tw": "as was expected, just as one thought, sure enough",
+        "meaning_tw": "果然、（後接疑問）究竟、到底",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "鉢",
         "reading": "はち",
-        "meaning_tw": "a bowl, a pot",
+        "meaning_tw": "碗、盆、花盆",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "発",
+        "word": "發",
         "reading": "はつ",
-        "meaning_tw": "to depart (e.g., on a plane, train)",
+        "meaning_tw": "～出發、～發車",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "×",
         "reading": "ばつ",
-        "meaning_tw": "cross",
+        "meaning_tw": "叉、錯誤記號、失敗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "発揮",
+        "word": "發揮",
         "reading": "はっき",
-        "meaning_tw": "exhibition, demonstration, display",
+        "meaning_tw": "發揮、展現",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "バック",
         "reading": "バック",
-        "meaning_tw": "back",
+        "meaning_tw": "背後、後方、後退、背景",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "発想",
+        "word": "發想",
         "reading": "はっそう",
-        "meaning_tw": "idea; way of thinking (same as 考え方 (かんがえかた))",
+        "meaning_tw": "構思、想法、創意",
         "level": "2",
         "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
     },
     {
-        "word": "発電",
+        "word": "發電",
         "reading": "はつでん",
-        "meaning_tw": "generation (e.g., power)",
+        "meaning_tw": "發電",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "発売",
+        "word": "發賣",
         "reading": "はつばい",
-        "meaning_tw": "sale",
+        "meaning_tw": "發售、販賣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "派手",
         "reading": "はで",
-        "meaning_tw": "showy, loud, flashy, gaudy",
+        "meaning_tw": "華麗、花哨、顯眼、誇張",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "話合い",
         "reading": "はなしあい",
-        "meaning_tw": "discussion, talk",
+        "meaning_tw": "商量、討論、談判",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "話し合い",
         "reading": "はなしあい",
-        "meaning_tw": "discussion, talk, conference",
+        "meaning_tw": "協商、會談",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "話し掛ける",
         "reading": "はなしかける",
-        "meaning_tw": "to accost a person, to talk (to someone)",
+        "meaning_tw": "搭話、攀談",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "話中",
         "reading": "はなしちゅう",
-        "meaning_tw": "while talking, the line is busy",
+        "meaning_tw": "通話中、電話佔線",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "甚だしい",
         "reading": "はなはだしい",
-        "meaning_tw": "extreme, excessive, terrible",
+        "meaning_tw": "極其、非常、過分",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "花火",
         "reading": "はなび",
-        "meaning_tw": "fireworks",
+        "meaning_tw": "煙火、花火",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "花嫁",
         "reading": "はなよめ",
-        "meaning_tw": "bride",
+        "meaning_tw": "新娘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ばね",
         "reading": "ばね",
-        "meaning_tw": "spring (e.g., coil, leaf)",
+        "meaning_tw": "彈簧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "跳ねる",
         "reading": "はねる",
-        "meaning_tw": "to jump, to leap",
+        "meaning_tw": "跳躍、濺、飛散",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "破片",
         "reading": "はへん",
-        "meaning_tw": "fragment, broken piece",
+        "meaning_tw": "破片、碎片",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "歯磨き",
         "reading": "はみがき",
-        "meaning_tw": "toothbrushing, toothpaste",
+        "meaning_tw": "刷牙、牙膏",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "はめる",
         "reading": "はめる",
-        "meaning_tw": "(col) to get in, to insert, to put on",
+        "meaning_tw": "戴（戒指）、嵌進去、欺騙、陷入",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "早口",
         "reading": "はやくち",
-        "meaning_tw": "fast-talking",
+        "meaning_tw": "說話快",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "払い込む",
         "reading": "はらいこむ",
-        "meaning_tw": "to deposit, to pay in",
+        "meaning_tw": "繳納、繳入、支付",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "払い戻す",
         "reading": "はらいもどす",
-        "meaning_tw": "to repay, to pay back",
+        "meaning_tw": "退還、返還、退票",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "針金",
         "reading": "はりがね",
-        "meaning_tw": "wire",
+        "meaning_tw": "鐵絲、線材",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "張り切る",
         "reading": "はりきる",
-        "meaning_tw": "to be in high spirits, to be full of vigor",
+        "meaning_tw": "幹勁十足、緊張",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "反～",
         "reading": "はん～",
-        "meaning_tw": "anti ~, counter ~",
+        "meaning_tw": "反～、反對～、抗～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "反映",
         "reading": "はんえい",
-        "meaning_tw": "reflection, influence",
+        "meaning_tw": "反映、映射",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "半径",
+        "word": "半徑",
         "reading": "はんけい",
-        "meaning_tw": "radius",
+        "meaning_tw": "半徑",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "判子",
         "reading": "はんこ",
-        "meaning_tw": "seal (used for signature)",
+        "meaning_tw": "印章、圖章",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "万歳",
+        "word": "萬歳",
         "reading": "ばんざい",
-        "meaning_tw": "banzai, Long live ~!",
+        "meaning_tw": "萬歲、束手無策（投降）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "判事",
         "reading": "はんじ",
-        "meaning_tw": "judge, justice",
+        "meaning_tw": "法官、裁判官",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "反省",
         "reading": "はんせい",
-        "meaning_tw": "reflection, reconsideration",
+        "meaning_tw": "反省、反思",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "番地",
         "reading": "ばんち",
-        "meaning_tw": "house number, address",
+        "meaning_tw": "門牌號碼、地址",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "パンツ",
         "reading": "パンツ",
-        "meaning_tw": "underpants",
+        "meaning_tw": "內褲、短褲",
         "level": "2",
         "tags": "JLPT_2 JLPT Genki_Ln.10 Genki"
     },
     {
         "word": "バンド",
         "reading": "バンド",
-        "meaning_tw": "band",
+        "meaning_tw": "樂團、帶子、皮帶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "半島",
         "reading": "はんとう",
-        "meaning_tw": "peninsula",
+        "meaning_tw": "半島",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ハンドル",
         "reading": "ハンドル",
-        "meaning_tw": "handle, steering wheel",
+        "meaning_tw": "方向盤、把手、柄",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "非～",
         "reading": "ひ～",
-        "meaning_tw": "anti~, counter~, an~, non~",
+        "meaning_tw": "非～、不～",
         "level": "2",
         "tags": "JLPT_1 JLPT JLPT_2"
     },
     {
         "word": "日当たり",
         "reading": "ひあたり",
-        "meaning_tw": "exposure to the sun, sunny place",
+        "meaning_tw": "日照、向陽處",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日帰り",
         "reading": "ひがえり",
-        "meaning_tw": "day trip",
+        "meaning_tw": "當日往返、當天來回",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "比較的",
         "reading": "ひかくてき",
-        "meaning_tw": "comparatively; relatively",
+        "meaning_tw": "比較地、相對地",
         "level": "2",
         "tags": "Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese"
     },
     {
         "word": "日陰",
         "reading": "ひかげ",
-        "meaning_tw": "shadow",
+        "meaning_tw": "陰涼處、背陰處",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ぴかぴか",
         "reading": "ぴかぴか",
-        "meaning_tw": "glitter, sparkle",
+        "meaning_tw": "閃閃發亮、亮晶晶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引受る",
         "reading": "ひきうける",
-        "meaning_tw": "to undertake, to take up, to take over",
+        "meaning_tw": "承接、答應、負責",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引き返す",
         "reading": "ひきかえす",
-        "meaning_tw": "to turn back, to go back, reverse",
+        "meaning_tw": "返回、折回",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引算",
         "reading": "ひきざん",
-        "meaning_tw": "subtraction",
+        "meaning_tw": "減法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引き出す",
         "reading": "ひきだす",
-        "meaning_tw": "to pull out, to take out, to withdraw",
+        "meaning_tw": "抽出、提出、提款、誘導出",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引き止める",
         "reading": "ひきとめる",
-        "meaning_tw": "to keep back, to prevent, to hold back",
+        "meaning_tw": "留住、制止、挽留",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "卑怯",
         "reading": "ひきょう",
-        "meaning_tw": "cowardice, meanness, unfairness",
+        "meaning_tw": "卑鄙、怯懦、不公平",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引分け",
         "reading": "ひきわけ",
-        "meaning_tw": "a draw (in competition), tie game",
+        "meaning_tw": "平手、不分勝負",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引き分け",
         "reading": "ひきわけ",
-        "meaning_tw": "draw (in competition), tie game",
+        "meaning_tw": "平局、和局",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "陽射",
         "reading": "ひざし",
-        "meaning_tw": "sunlight, rays of the sun",
+        "meaning_tw": "陽光、光線",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日差し",
         "reading": "ひざし",
-        "meaning_tw": "sunlight",
+        "meaning_tw": "日光照射",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "肘",
         "reading": "ひじ",
-        "meaning_tw": "elbow",
+        "meaning_tw": "手肘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ピストル",
         "reading": "ピストル",
-        "meaning_tw": "pistol",
+        "meaning_tw": "手槍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ビタミン",
         "reading": "ビタミン",
-        "meaning_tw": "vitamin",
+        "meaning_tw": "維他命",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ぴたり",
         "reading": "ぴたり",
-        "meaning_tw": "exactly; close-fitting",
+        "meaning_tw": "恰好、突然停止、緊貼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引っ掛かる",
         "reading": "ひっかかる",
-        "meaning_tw": "to be caught in, to be stuck in",
+        "meaning_tw": "被掛住、被欺騙、牽連",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "筆記",
         "reading": "ひっき",
-        "meaning_tw": "note taking, writing",
+        "meaning_tw": "筆記、筆試、記錄",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引っ繰り返す",
         "reading": "ひっくりかえす",
-        "meaning_tw": "to turn over, to overturn, to knock over",
+        "meaning_tw": "推倒、翻轉、打亂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引っ繰り返る",
         "reading": "ひっくりかえる",
-        "meaning_tw": "to be overturned, to be upset, to topple over, to be reversed",
+        "meaning_tw": "翻倒、翻轉、倒下",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引っ越し",
         "reading": "ひっこし",
-        "meaning_tw": "moving (dwelling, office, etc.), changing residence",
+        "meaning_tw": "搬家、遷居",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "引っ込む",
         "reading": "ひっこむ",
-        "meaning_tw": "to draw back, to sink, to cave in",
+        "meaning_tw": "退居、塌陷、縮回",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "筆者",
         "reading": "ひっしゃ",
-        "meaning_tw": "writer, author",
+        "meaning_tw": "作者、筆者",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "必需品",
         "reading": "ひつじゅひん",
-        "meaning_tw": "necessities, essential",
+        "meaning_tw": "必需品",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "一～",
         "reading": "ひと～",
-        "meaning_tw": "one ~",
+        "meaning_tw": "一個～、一（量詞）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "人差指",
         "reading": "ひとさしゆび",
-        "meaning_tw": "index finger",
+        "meaning_tw": "食指",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "一通り",
         "reading": "ひととおり",
-        "meaning_tw": "general, briefly",
+        "meaning_tw": "普通、大概、一遍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "人通り",
         "reading": "ひとどおり",
-        "meaning_tw": "pedestrian traffic",
+        "meaning_tw": "行人往來",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ひとまず",
         "reading": "ひとまず",
-        "meaning_tw": "for the present, once, for the time being",
+        "meaning_tw": "暫且、總之、先",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "瞳",
         "reading": "ひとみ",
-        "meaning_tw": "pupil (of eye)",
+        "meaning_tw": "瞳孔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "一休み",
         "reading": "ひとやすみ",
-        "meaning_tw": "a rest",
+        "meaning_tw": "稍事休息",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "独り言",
+        "word": "獨り言",
         "reading": "ひとりごと",
-        "meaning_tw": "a soliloquy, a monologue, speaking to oneself",
+        "meaning_tw": "自言自語、獨白",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ひとりでに",
         "reading": "ひとりでに",
-        "meaning_tw": "by itself, automatically, naturally",
+        "meaning_tw": "自然而然地、自動地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ビニール",
         "reading": "ビニール",
-        "meaning_tw": "vinyl",
+        "meaning_tw": "塑膠、乙烯基",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "皮肉",
         "reading": "ひにく",
-        "meaning_tw": "cynicism, sarcasm",
+        "meaning_tw": "諷刺、挖苦",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日日",
         "reading": "ひにち",
-        "meaning_tw": "date",
+        "meaning_tw": "日期、天數",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日にち",
         "reading": "ひにち",
-        "meaning_tw": "date (of a planned event, act, etc.), day",
+        "meaning_tw": "日子、日程",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "捻る",
         "reading": "ひねる",
-        "meaning_tw": "to twist, to turn",
+        "meaning_tw": "扭、轉、絞盡腦汁",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日の入り",
         "reading": "ひのいり",
-        "meaning_tw": "sunset",
+        "meaning_tw": "日落、傍晚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "日の出",
         "reading": "ひので",
-        "meaning_tw": "sunrise",
+        "meaning_tw": "日出、黎明",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "響き",
         "reading": "ひびき",
-        "meaning_tw": "echo, sound",
+        "meaning_tw": "響聲、迴響、影響",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "響く",
         "reading": "ひびく",
-        "meaning_tw": "to resound; to affect",
+        "meaning_tw": "迴響、傳遍、影響",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "皮膚",
         "reading": "ひふ",
-        "meaning_tw": "skin",
+        "meaning_tw": "皮膚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "冷やす",
         "reading": "ひやす",
-        "meaning_tw": "to cool (from room temperature), to chill, to refrigerate",
+        "meaning_tw": "弄涼、冰鎮、使冷靜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ひゃっかじてん",
         "reading": "ひゃっかじてん",
-        "meaning_tw": "encyclopedia",
+        "meaning_tw": "百科全書",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "百科事典",
         "reading": "ひゃっかじてん",
-        "meaning_tw": "encyclopedia",
+        "meaning_tw": "百科全書",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "美容",
         "reading": "びよう",
-        "meaning_tw": "beauty of figure or form",
+        "meaning_tw": "美容、容貌美",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "表紙",
         "reading": "ひょうし",
-        "meaning_tw": "front cover, binding",
+        "meaning_tw": "封面、書皮",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "標識",
         "reading": "ひょうしき",
-        "meaning_tw": "sign, mark",
+        "meaning_tw": "標誌、標記、符號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "標準",
         "reading": "ひょうじゅん",
-        "meaning_tw": "standard, level",
+        "meaning_tw": "標準、基準",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "標本",
         "reading": "ひょうほん",
-        "meaning_tw": "example, specimen",
+        "meaning_tw": "標本、樣本",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "評論",
         "reading": "ひょうろん",
-        "meaning_tw": "criticism, critique",
+        "meaning_tw": "評論、批評",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ビルディング",
         "reading": "ビルディング",
-        "meaning_tw": "building",
+        "meaning_tw": "大樓、建築物",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "昼寝",
         "reading": "ひるね",
-        "meaning_tw": "nap (at home), siesta",
+        "meaning_tw": "午睡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "広げる",
+        "word": "廣げる",
         "reading": "ひろげる",
-        "meaning_tw": "to spread, to extend, to expand, to enlarge, to widen, to broaden",
+        "meaning_tw": "展開、鋪開、擴大",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "広さ",
+        "word": "廣さ",
         "reading": "ひろさ",
-        "meaning_tw": "extent",
+        "meaning_tw": "寬度、面積、範圍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "広場",
+        "word": "廣場",
         "reading": "ひろば",
-        "meaning_tw": "plaza",
+        "meaning_tw": "廣場",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "広々",
+        "word": "廣々",
         "reading": "ひろびろ",
-        "meaning_tw": "extensive, spacious",
+        "meaning_tw": "寬廣、遼闊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ピンク",
         "reading": "ピンク",
-        "meaning_tw": "pink",
+        "meaning_tw": "粉紅色",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "便箋",
         "reading": "びんせん",
-        "meaning_tw": "writing paper, stationery",
+        "meaning_tw": "信紙",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "瓶詰",
         "reading": "びんづめ",
-        "meaning_tw": "bottling, bottled",
+        "meaning_tw": "瓶裝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ファスナー",
         "reading": "ファスナー",
-        "meaning_tw": "fastener, zipper",
+        "meaning_tw": "拉鍊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "風船",
         "reading": "ふうせん",
-        "meaning_tw": "balloon",
+        "meaning_tw": "氣球",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "不運",
         "reading": "ふうん",
-        "meaning_tw": "unlucky, misfortune, bad luck",
+        "meaning_tw": "不幸、運氣不好",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "深まる",
         "reading": "ふかまる",
-        "meaning_tw": "to deepen, to heighten, to intensify",
+        "meaning_tw": "加深、深刻化",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "不規則",
         "reading": "ふきそく",
-        "meaning_tw": "irregularity, unsteadiness",
+        "meaning_tw": "不規則",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "普及",
         "reading": "ふきゅう",
-        "meaning_tw": "diffusion, spread",
+        "meaning_tw": "普及、推廣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "付近",
         "reading": "ふきん",
-        "meaning_tw": "neighborhood, vicinity",
+        "meaning_tw": "附近、鄰近地區",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "副～",
         "reading": "ふく～",
-        "meaning_tw": "vice ~",
+        "meaning_tw": "副～、輔助的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "副詞",
         "reading": "ふくし",
-        "meaning_tw": "adverb",
+        "meaning_tw": "副詞",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "複写",
+        "word": "複寫",
         "reading": "ふくしゃ",
-        "meaning_tw": "copy, duplicate",
+        "meaning_tw": "複寫、複製、拷貝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "複数",
         "reading": "ふくすう",
-        "meaning_tw": "plural, multiple",
+        "meaning_tw": "多個、複數",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ふくめる",
         "reading": "ふくめる",
-        "meaning_tw": "to include, to instruct, to make one understand",
+        "meaning_tw": "包括、包含、教導",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "膨らます",
         "reading": "ふくらます",
-        "meaning_tw": "to swell, to expand, to inflate",
+        "meaning_tw": "弄脹、鼓起、吹脹",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "膨らむ",
         "reading": "ふくらむ",
-        "meaning_tw": "to expand, to swell (out), to become inflated",
+        "meaning_tw": "膨脹、鼓起、規模變大",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "不潔",
         "reading": "ふけつ",
-        "meaning_tw": "unclean, dirty",
+        "meaning_tw": "不乾淨、不潔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "更ける",
         "reading": "ふける",
-        "meaning_tw": "to get late, to wear on",
+        "meaning_tw": "（夜）深、過渡、期滿",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "符号",
+        "word": "符號",
         "reading": "ふごう",
-        "meaning_tw": "sign, mark, symbol",
+        "meaning_tw": "符號、記號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "夫妻",
         "reading": "ふさい",
-        "meaning_tw": "man and wife, married couple",
+        "meaning_tw": "夫婦、夫妻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "塞がる",
         "reading": "ふさがる",
-        "meaning_tw": "to be plugged up, to be shut up",
+        "meaning_tw": "堵塞、被佔用、癒合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "塞ぐ",
         "reading": "ふさぐ",
-        "meaning_tw": "to stuff, to close up, to block (up)",
+        "meaning_tw": "堵住、擋住、悶悶不樂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ふざける",
         "reading": "ふざける",
-        "meaning_tw": "to romp, to gambol, to frolic",
+        "meaning_tw": "開玩笑、戲弄、胡鬧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "無沙汰",
         "reading": "ぶさた",
-        "meaning_tw": "neglecting to stay in contact",
+        "meaning_tw": "久疏問候",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "武士",
         "reading": "ぶし",
-        "meaning_tw": "warrior, samurai",
+        "meaning_tw": "武士",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "部首",
         "reading": "ぶしゅ",
-        "meaning_tw": "radical (of a kanji character)",
+        "meaning_tw": "部首",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "蒸す",
         "reading": "ふす",
-        "meaning_tw": "to steam (food, towel, etc.) to be hot and humid, to be sultry",
+        "meaning_tw": "蒸、悶熱",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "襖",
         "reading": "ふすま",
-        "meaning_tw": "sliding screen",
+        "meaning_tw": "隔扇、日式拉門",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "附属",
+        "word": "附屬",
         "reading": "ふぞく",
-        "meaning_tw": "attached, belonging, affiliated",
+        "meaning_tw": "附屬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "付属",
         "reading": "ふぞく",
-        "meaning_tw": "being attached (to), being affiliated (to), belonging (to), going with",
+        "meaning_tw": "附屬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "蓋",
         "reading": "ふた",
-        "meaning_tw": "cover, lid, cap",
+        "meaning_tw": "蓋子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "不通",
         "reading": "ふつう",
-        "meaning_tw": "suspension, interruption, stoppage, tie-up, cessation",
+        "meaning_tw": "不通、中斷、失聯",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "物騒",
         "reading": "ぶっそう",
-        "meaning_tw": "dangerous, disturbed, insecure",
+        "meaning_tw": "危險、世態不安",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ぶつぶつ",
         "reading": "ぶつぶつ",
-        "meaning_tw": "grumbling, complaining in a small voice",
+        "meaning_tw": "嘀咕、發牢騷、一顆顆的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "船便",
         "reading": "ふなびん",
-        "meaning_tw": "surface mail (ship)",
+        "meaning_tw": "海運、船運",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "部品",
         "reading": "ぶひん",
-        "meaning_tw": "parts, accessories",
+        "meaning_tw": "零件、配件",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "吹雪",
         "reading": "ふぶき",
-        "meaning_tw": "snow storm",
+        "meaning_tw": "暴風雪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "父母",
         "reading": "ふぼ",
-        "meaning_tw": "father and mother, parents",
+        "meaning_tw": "父母",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "踏切",
         "reading": "ふみきり",
-        "meaning_tw": "railway crossing, level crossing, starting line, scratch, crossover",
+        "meaning_tw": "平交道",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "麓",
         "reading": "ふもと",
-        "meaning_tw": "the foot, the bottom, the base (of a mountain)",
+        "meaning_tw": "山腳",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "フライパン",
         "reading": "フライパン",
-        "meaning_tw": "fry pan, frying pan",
+        "meaning_tw": "平底鍋",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ブラウス",
         "reading": "ブラウス",
-        "meaning_tw": "blouse",
+        "meaning_tw": "女裝襯衫",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ぶらさげる",
         "reading": "ぶらさげる",
-        "meaning_tw": "to hang, to suspend, to swing",
+        "meaning_tw": "懸掛、提、吊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ブラシ",
         "reading": "ブラシ",
-        "meaning_tw": "brush",
+        "meaning_tw": "刷子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "プラットホーム",
         "reading": "プラットホーム",
-        "meaning_tw": "platform",
+        "meaning_tw": "月台",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "フリー",
         "reading": "フリー",
-        "meaning_tw": "free",
+        "meaning_tw": "自由的、免費的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "振り仮名",
         "reading": "ふりがな",
-        "meaning_tw": "pronunciation key",
+        "meaning_tw": "注音假名",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "振り向く",
         "reading": "ふりむく",
-        "meaning_tw": "to turn one's face, to turn around",
+        "meaning_tw": "回頭、理會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "プリント",
         "reading": "プリント",
-        "meaning_tw": "print, handout",
+        "meaning_tw": "印刷、講義、照片",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "古～",
         "reading": "ふる～",
-        "meaning_tw": "old ~",
+        "meaning_tw": "舊的～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "故郷",
         "reading": "ふるさと",
-        "meaning_tw": "home town, birthplace",
+        "meaning_tw": "故鄉",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "古里",
         "reading": "ふるさと",
-        "meaning_tw": "home town, birthplace",
+        "meaning_tw": "家鄉、老家",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "振舞う",
         "reading": "ふるまう",
-        "meaning_tw": "to behave, to conduct",
+        "meaning_tw": "舉止、款待",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ブローチ",
         "reading": "ブローチ",
-        "meaning_tw": "brooch",
+        "meaning_tw": "胸針",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "プログラム",
         "reading": "プログラム",
-        "meaning_tw": "program",
+        "meaning_tw": "程式、計畫表、節目單",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "風呂敷",
         "reading": "ふろしき",
-        "meaning_tw": "wrapping cloth, cloth wrapper",
+        "meaning_tw": "包袱布",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ふわふわ",
         "reading": "ふわふわ",
-        "meaning_tw": "light, soft",
+        "meaning_tw": "輕飄飄、軟綿綿、心情浮躁",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "噴火",
         "reading": "ふんか",
-        "meaning_tw": "eruption",
+        "meaning_tw": "噴發",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "分解",
         "reading": "ぶんかい",
-        "meaning_tw": "analysis, disassembly",
+        "meaning_tw": "分解、拆卸",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "文芸",
         "reading": "ぶんげい",
-        "meaning_tw": "literature, art and literature",
+        "meaning_tw": "文藝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "文献",
+        "word": "文獻",
         "reading": "ぶんけん",
-        "meaning_tw": "literature, books (reference)",
+        "meaning_tw": "文獻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "噴水",
         "reading": "ふんすい",
-        "meaning_tw": "water fountain",
+        "meaning_tw": "噴水、噴泉",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "分数",
+        "word": "分數",
         "reading": "ぶんすう",
-        "meaning_tw": "fraction (in math)",
+        "meaning_tw": "分數（數學）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "文体",
+        "word": "文體",
         "reading": "ぶんたい",
-        "meaning_tw": "literary style",
+        "meaning_tw": "文體",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "分布",
         "reading": "ぶんぷ",
-        "meaning_tw": "distribution",
+        "meaning_tw": "分佈",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "文房具",
         "reading": "ぶんぼうぐ",
-        "meaning_tw": "stationery",
+        "meaning_tw": "文具",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "文脈",
         "reading": "ぶんみゃく",
-        "meaning_tw": "context",
+        "meaning_tw": "文脈、語境",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "分量",
         "reading": "ぶんりょう",
-        "meaning_tw": "amount, quantity",
+        "meaning_tw": "分量、數量",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "分類",
         "reading": "ぶんるい",
-        "meaning_tw": "classification",
+        "meaning_tw": "分類",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "閉会",
+        "word": "閉會",
         "reading": "へいかい",
-        "meaning_tw": "closure",
+        "meaning_tw": "閉幕、閉會",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "平気",
+        "word": "平氣",
         "reading": "へいき",
-        "meaning_tw": "coolness, calmness, unconcern",
+        "meaning_tw": "不在乎、沒事、冷靜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "並行",
         "reading": "へいこう",
-        "meaning_tw": "(going) side by side, concurrent, at the same time",
+        "meaning_tw": "並行、同步進行",
         "level": "2",
         "tags": "JLPT_1 JLPT JLPT_2"
     },
     {
         "word": "平日",
         "reading": "へいじつ",
-        "meaning_tw": "weekday",
+        "meaning_tw": "平日、工作日",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "兵隊",
         "reading": "へいたい",
-        "meaning_tw": "soldier",
+        "meaning_tw": "士兵、軍隊",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "平凡",
         "reading": "へいぼん",
-        "meaning_tw": "common, ordinary",
+        "meaning_tw": "平凡、普通",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "平野",
         "reading": "へいや",
-        "meaning_tw": "plain, open field",
+        "meaning_tw": "平原",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "凹む",
         "reading": "へこむ",
-        "meaning_tw": "to be dented, to be indented",
+        "meaning_tw": "凹陷、屈服、沮喪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "へそ",
         "reading": "へそ",
-        "meaning_tw": "navel, belly-button",
+        "meaning_tw": "肚臍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "隔てる",
         "reading": "へだてる",
-        "meaning_tw": "to be shut out",
+        "meaning_tw": "隔開、間隔",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "別荘",
         "reading": "べっそう",
-        "meaning_tw": "villa; vacation home; summer cottage",
+        "meaning_tw": "別墅",
         "level": "2",
         "tags": "JLPT Intermediate_Japanese Genki_Ln.23 JLPT_2 Intermediate_Japanese_Ln.13 Genki"
     },
-    {
-        "word": "別々",
-        "reading": "べつべつ",
-        "meaning_tw": "separately, individually",
+{
+        "word": "初めに",
+        "reading": "はじめに",
+        "meaning_tw": "首先、最初",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
+        "word": "はじめまして",
+        "reading": "はじめまして",
+        "meaning_tw": "初次見面、幸會",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "斜",
+        "reading": "はす",
+        "meaning_tw": "斜、傾斜、對角線",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "外れる",
+        "reading": "はずれる",
+        "meaning_tw": "脫落、脫離、落空、不中",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "パターン",
+        "reading": "パターン",
+        "meaning_tw": "模式、圖案、典型",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "肌着",
+        "reading": "はだぎ",
+        "meaning_tw": "內衣、貼身衣物",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "果して",
+        "reading": "はたして",
+        "meaning_tw": "果然、真的、果真",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "果たして",
+        "reading": "はたして",
+        "meaning_tw": "果然、（後接疑問）究竟、到底",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "鉢",
+        "reading": "はち",
+        "meaning_tw": "碗、盆、花盆",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "發",
+        "reading": "はつ",
+        "meaning_tw": "～出發、～發車",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "×",
+        "reading": "ばつ",
+        "meaning_tw": "叉、錯誤記號、失敗",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "發揮",
+        "reading": "はっき",
+        "meaning_tw": "發揮、展現",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "バック",
+        "reading": "バック",
+        "meaning_tw": "背後、後方、後退、背景",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "發想",
+        "reading": "はっそう",
+        "meaning_tw": "構思、想法、創意",
+        "level": "2",
+        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
+    },
+    {
+        "word": "發電",
+        "reading": "はつでん",
+        "meaning_tw": "發電",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "發賣",
+        "reading": "はつばい",
+        "meaning_tw": "發售、販賣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "派手",
+        "reading": "はで",
+        "meaning_tw": "華麗、花哨、顯眼、誇張",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "話合い",
+        "reading": "はなしあい",
+        "meaning_tw": "商量、討論、談判",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "話し合い",
+        "reading": "はなしあい",
+        "meaning_tw": "協商、會談",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "話し掛ける",
+        "reading": "はなしかける",
+        "meaning_tw": "搭話、攀談",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "話中",
+        "reading": "話中",
+        "meaning_tw": "通話中、電話佔線",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "甚だしい",
+        "reading": "はなはだしい",
+        "meaning_tw": "極其、非常、過分",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "花火",
+        "reading": "はなび",
+        "meaning_tw": "煙火、花火",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "花嫁",
+        "reading": "はなよめ",
+        "meaning_tw": "新娘",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ばね",
+        "reading": "ばね",
+        "meaning_tw": "彈簧",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "跳ねる",
+        "reading": "はねる",
+        "meaning_tw": "跳躍、濺、飛散",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "破片",
+        "reading": "はへん",
+        "meaning_tw": "破片、碎片",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "歯磨き",
+        "reading": "はみがき",
+        "meaning_tw": "刷牙、牙膏",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "はめる",
+        "reading": "はめる",
+        "meaning_tw": "戴（戒指）、嵌進去、欺騙、陷入",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "早口",
+        "reading": "はやくち",
+        "meaning_tw": "說話快",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "払い込む",
+        "reading": "はらいこむ",
+        "meaning_tw": "繳納、繳入、支付",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "払い戻す",
+        "reading": "はらいもどす",
+        "meaning_tw": "退還、返還、退票",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "針金",
+        "reading": "はりがね",
+        "meaning_tw": "鐵絲、線材",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "張り切る",
+        "reading": "はりきる",
+        "meaning_tw": "幹勁十足、緊張",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "反～",
+        "reading": "はん～",
+        "meaning_tw": "反～、反對～、抗～",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "反映",
+        "reading": "はんえい",
+        "meaning_tw": "反映、映射",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "半徑",
+        "reading": "はんけい",
+        "meaning_tw": "半徑",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "判子",
+        "reading": "はんこ",
+        "meaning_tw": "印章、圖章",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "萬歳",
+        "reading": "ばんざい",
+        "meaning_tw": "萬歲、束手無策（投降）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "判事",
+        "reading": "はんじ",
+        "meaning_tw": "法官、裁判官",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "反省",
+        "reading": "はんせい",
+        "meaning_tw": "反省、反思",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "番地",
+        "reading": "ばんち",
+        "meaning_tw": "門牌號碼、地址",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "パンツ",
+        "reading": "パンツ",
+        "meaning_tw": "內褲、短褲",
+        "level": "2",
+        "tags": "JLPT_2 JLPT Genki_Ln.10 Genki"
+    },
+    {
+        "word": "バンド",
+        "reading": "バンド",
+        "meaning_tw": "樂團、帶子、皮帶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "半島",
+        "reading": "はんとう",
+        "meaning_tw": "半島",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ハンドル",
+        "reading": "ハンドル",
+        "meaning_tw": "方向盤、把手、柄",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "非～",
+        "reading": "ひ～",
+        "meaning_tw": "非～、不～",
+        "level": "2",
+        "tags": "JLPT_1 JLPT JLPT_2"
+    },
+    {
+        "word": "日当たり",
+        "reading": "ひあたり",
+        "meaning_tw": "日照、向陽處",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日帰り",
+        "reading": "ひ認り",
+        "meaning_tw": "當日往返、當天來回",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "比較的",
+        "reading": "ひかくてき",
+        "meaning_tw": "比較地、相對地",
+        "level": "2",
+        "tags": "Intermediate_Japanese_Ln.5 JLPT JLPT_2 Intermediate_Japanese"
+    },
+    {
+        "word": "日陰",
+        "reading": "ひかげ",
+        "meaning_tw": "陰涼處、背陰處",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ぴかぴか",
+        "reading": "ぴかぴか",
+        "meaning_tw": "閃閃發亮、亮晶晶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引受る",
+        "reading": "ひきうける",
+        "meaning_tw": "承接、答應、負責",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引き返す",
+        "reading": "ひきかえす",
+        "meaning_tw": "返回、折回",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引算",
+        "reading": "ひきざん",
+        "meaning_tw": "減法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引き出す",
+        "reading": "ひきだす",
+        "meaning_tw": "抽出、提出、提款、誘導出",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引き止める",
+        "reading": "ひきとめる",
+        "meaning_tw": "留住、制止、挽留",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "卑怯",
+        "reading": "ひきょう",
+        "meaning_tw": "卑鄙、怯懦、不公平",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引分け",
+        "reading": "ひきわけ",
+        "meaning_tw": "平手、不分勝負",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引き分け",
+        "reading": "ひきわけ",
+        "meaning_tw": "平局、和局",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "陽射",
+        "reading": "ひざし",
+        "meaning_tw": "陽光、光線",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日差し",
+        "reading": "ひざし",
+        "meaning_tw": "日光照射",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "肘",
+        "reading": "ひじ",
+        "meaning_tw": "手肘",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ピストル",
+        "reading": "ピストル",
+        "meaning_tw": "手槍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ビタミン",
+        "reading": "ビタミン",
+        "meaning_tw": "維他命",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ぴたり",
+        "reading": "ぴたり",
+        "meaning_tw": "恰好、突然停止、緊貼",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引っ掛かる",
+        "reading": "ひっかかる",
+        "meaning_tw": "被掛住、被欺騙、牽連",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "筆記",
+        "reading": "ひっき",
+        "meaning_tw": "筆記、筆試、記錄",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引っ繰り返す",
+        "reading": "ひっくりかえす",
+        "meaning_tw": "推倒、翻轉、打亂",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引っ繰り返る",
+        "reading": "ひっくりかえる",
+        "meaning_tw": "翻倒、翻轉、倒下",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引っ越し",
+        "reading": "ひっこし",
+        "meaning_tw": "搬家、遷居",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "引っ込む",
+        "reading": "ひっこむ",
+        "meaning_tw": "退居、塌陷、縮回",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "筆者",
+        "reading": "ひっしゃ",
+        "meaning_tw": "作者、筆者",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "必需品",
+        "reading": "ひつじゅひん",
+        "meaning_tw": "必需品",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一～",
+        "reading": "ひと～",
+        "meaning_tw": "一個～、一（量詞）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "人差指",
+        "reading": "ひとさしゆび",
+        "meaning_tw": "食指",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一通り",
+        "reading": "ひととおり",
+        "meaning_tw": "普通、大概、一遍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "人通り",
+        "reading": "ひとどおり",
+        "meaning_tw": "行人往來",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ひとまず",
+        "reading": "ひとまず",
+        "meaning_tw": "暫且、總之、先",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "瞳",
+        "reading": "ひとみ",
+        "meaning_tw": "瞳孔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "一休み",
+        "reading": "ひとやすみ",
+        "meaning_tw": "稍事休息",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "獨り言",
+        "reading": "ひとりごと",
+        "meaning_tw": "自言自語、獨白",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ひとりでに",
+        "reading": "ひとりでに",
+        "meaning_tw": "自然而然地、自動地",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ビニール",
+        "reading": "ビニール",
+        "meaning_tw": "塑膠、乙烯基",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "皮肉",
+        "reading": "ひにく",
+        "meaning_tw": "諷刺、挖苦",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日日",
+        "reading": "ひにち",
+        "meaning_tw": "日期、天數",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日にち",
+        "reading": "ひにち",
+        "meaning_tw": "日子、日程",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "捻る",
+        "reading": "ひねる",
+        "meaning_tw": "扭、轉、絞盡腦汁",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日の入り",
+        "reading": "ひのいり",
+        "meaning_tw": "日落、傍晚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "日の出",
+        "reading": "ひので",
+        "meaning_tw": "日出、黎明",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "響き",
+        "reading": "ひびき",
+        "meaning_tw": "響聲、迴響、影響",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "響く",
+        "reading": "ひびく",
+        "meaning_tw": "迴響、傳遍、影響",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "皮膚",
+        "reading": "ひふ",
+        "meaning_tw": "皮膚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "冷やす",
+        "reading": "ひやす",
+        "meaning_tw": "弄涼、冰鎮、使冷靜",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ひゃっかじてん",
+        "reading": "ひゃっかじてん",
+        "meaning_tw": "百科全書",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "百科事典",
+        "reading": "ひゃっかじてん",
+        "meaning_tw": "百科全書",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "美容",
+        "reading": "びよう",
+        "meaning_tw": "美容、容貌美",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "表紙",
+        "reading": "ひょうし",
+        "meaning_tw": "封面、書皮",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "標識",
+        "reading": "ひょうしき",
+        "meaning_tw": "標誌、標記、符號",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "標準",
+        "reading": "ひょうじゅん",
+        "meaning_tw": "標準、基準",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "標本",
+        "reading": "ひょうほん",
+        "meaning_tw": "標本、樣本",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "評論",
+        "reading": "ひょうろん",
+        "meaning_tw": "評論、批評",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ビルディング",
+        "reading": "ビルディング",
+        "meaning_tw": "大樓、建築物",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "昼寝",
+        "reading": "ひるね",
+        "meaning_tw": "午睡",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "廣げる",
+        "reading": "ひろげる",
+        "meaning_tw": "展開、鋪開、擴大",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "廣さ",
+        "reading": "ひろさ",
+        "meaning_tw": "寬度、面積、範圍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "廣場",
+        "reading": "ひろば",
+        "meaning_tw": "廣場",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "廣々",
+        "reading": "ひろびろ",
+        "meaning_tw": "寬廣、遼闊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ピンク",
+        "reading": "ピンク",
+        "meaning_tw": "粉紅色",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "便箋",
+        "reading": "びんせん",
+        "meaning_tw": "信紙",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "瓶詰",
+        "reading": "びんづめ",
+        "meaning_tw": "瓶裝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ファスナー",
+        "reading": "ファスナー",
+        "meaning_tw": "拉鍊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "風船",
+        "reading": "ふうせん",
+        "meaning_tw": "氣球",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "不運",
+        "reading": "ふうん",
+        "meaning_tw": "不幸、運氣不好",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "深まる",
+        "reading": "ふかまる",
+        "meaning_tw": "加深、深刻化",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "不規則",
+        "reading": "ふきそく",
+        "meaning_tw": "不規則",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "普及",
+        "reading": "ふきゅう",
+        "meaning_tw": "普及、推廣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "付近",
+        "reading": "ふきん",
+        "meaning_tw": "附近、鄰近地區",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "副～",
+        "reading": "ふく～",
+        "meaning_tw": "副～、輔助的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "副詞",
+        "reading": "ふくし",
+        "meaning_tw": "副詞",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "複寫",
+        "reading": "ふくしゃ",
+        "meaning_tw": "複寫、複製、拷貝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "複数",
+        "reading": "ふくすう",
+        "meaning_tw": "多個、複數",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ふくめる",
+        "reading": "ふくめる",
+        "meaning_tw": "包括、包含、教導",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "膨らます",
+        "reading": "ふくらます",
+        "meaning_tw": "弄脹、鼓起、吹脹",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "膨らむ",
+        "reading": "ふくらむ",
+        "meaning_tw": "膨脹、鼓起、規模變大",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "不潔",
+        "reading": "ふけつ",
+        "meaning_tw": "不乾淨、不潔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "更ける",
+        "reading": "ふける",
+        "meaning_tw": "（夜）深、過渡、期滿",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "符號",
+        "reading": "ふごう",
+        "meaning_tw": "符號、記號",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "夫妻",
+        "reading": "ふさい",
+        "meaning_tw": "夫婦、夫妻",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "塞がる",
+        "reading": "ふさがる",
+        "meaning_tw": "堵塞、被佔用、癒合",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "塞ぐ",
+        "reading": "ふさぐ",
+        "meaning_tw": "堵住、擋住、悶悶不樂",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ふざける",
+        "reading": "ふざける",
+        "meaning_tw": "開玩笑、戲弄、胡鬧",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "無沙汰",
+        "reading": "ぶさた",
+        "meaning_tw": "久疏問候",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "武士",
+        "reading": "ぶし",
+        "meaning_tw": "武士",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "部首",
+        "reading": "ぶしゅ",
+        "meaning_tw": "部首",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "蒸す",
+        "reading": "ふす",
+        "meaning_tw": "蒸、悶熱",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "襖",
+        "reading": "ふすま",
+        "meaning_tw": "隔扇、日式拉門",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "附屬",
+        "reading": "ふぞく",
+        "meaning_tw": "附屬",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "付属",
+        "reading": "ふぞく",
+        "meaning_tw": "附屬",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "蓋",
+        "reading": "ふた",
+        "meaning_tw": "蓋子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "不通",
+        "reading": "ふつう",
+        "meaning_tw": "不通、中斷、失聯",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "物騒",
+        "reading": "ぶっそう",
+        "meaning_tw": "危險、世態不安",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ぶつぶつ",
+        "reading": "ぶつぶつ",
+        "meaning_tw": "嘀咕、發牢騷、一顆顆的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "船便",
+        "reading": "ふなびん",
+        "meaning_tw": "海運、船運",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "部品",
+        "reading": "ぶひん",
+        "meaning_tw": "零件、配件",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "吹雪",
+        "reading": "ふぶき",
+        "meaning_tw": "暴風雪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "父母",
+        "reading": "ふぼ",
+        "meaning_tw": "父母",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "踏切",
+        "reading": "ふみきり",
+        "meaning_tw": "平交道",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "麓",
+        "reading": "ふもと",
+        "meaning_tw": "山腳",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "フライパン",
+        "reading": "フライパン",
+        "meaning_tw": "平底鍋",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ブラウス",
+        "reading": "ブラウス",
+        "meaning_tw": "女裝襯衫",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ぶらさげる",
+        "reading": "ぶらさげる",
+        "meaning_tw": "懸掛、提、吊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ブラシ",
+        "reading": "ブラシ",
+        "meaning_tw": "刷子",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "プラットホーム",
+        "reading": "プラットホーム",
+        "meaning_tw": "月台",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "フリー",
+        "reading": "フリー",
+        "meaning_tw": "自由的、免費的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "振り仮名",
+        "reading": "ふりがな",
+        "meaning_tw": "注音假名",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "振り向く",
+        "reading": "ふりむく",
+        "meaning_tw": "回頭、理會",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "プリント",
+        "reading": "プリント",
+        "meaning_tw": "印刷、講義、照片",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "古～",
+        "reading": "ふる～",
+        "meaning_tw": "舊的～",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "故郷",
+        "reading": "ふるさと",
+        "meaning_tw": "故鄉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "古里",
+        "reading": "ふるさと",
+        "meaning_tw": "家鄉、老家",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "振舞う",
+        "reading": "ふるまう",
+        "meaning_tw": "舉止、款待",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ブローチ",
+        "reading": "ブローチ",
+        "meaning_tw": "胸針",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "プログラム",
+        "reading": "プログラム",
+        "meaning_tw": "程式、計畫表、節目單",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "風呂敷",
+        "reading": "ふろしき",
+        "meaning_tw": "包袱布",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ふわふわ",
+        "reading": "ふわふわ",
+        "meaning_tw": "輕飄飄、軟綿綿、心情浮躁",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "噴火",
+        "reading": "ふんか",
+        "meaning_tw": "噴發",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "分解",
+        "reading": "ぶんかい",
+        "meaning_tw": "分解、拆卸",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "文芸",
+        "reading": "ぶんげい",
+        "meaning_tw": "文藝",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "文獻",
+        "reading": "ぶんけん",
+        "meaning_tw": "文獻",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "噴水",
+        "reading": "ふんすい",
+        "meaning_tw": "噴水、噴泉",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "分數",
+        "reading": "ぶんすう",
+        "meaning_tw": "分數（數學）",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "文體",
+        "reading": "ぶんたい",
+        "meaning_tw": "文體",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "分布",
+        "reading": "ぶんぷ",
+        "meaning_tw": "分佈",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "文房具",
+        "reading": "ぶんぼうぐ",
+        "meaning_tw": "文具",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "文脈",
+        "reading": "ぶんみゃく",
+        "meaning_tw": "文脈、語境",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "分量",
+        "reading": "ぶんりょう",
+        "meaning_tw": "分量、數量",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "分類",
+        "reading": "ぶんるい",
+        "meaning_tw": "分類",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "閉會",
+        "reading": "へいかい",
+        "meaning_tw": "閉幕、閉會",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "平氣",
+        "reading": "へいき",
+        "meaning_tw": "不在乎、沒事、冷靜",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "並行",
+        "reading": "へいこう",
+        "meaning_tw": "並行、同步進行",
+        "level": "2",
+        "tags": "JLPT_1 JLPT JLPT_2"
+    },
+    {
+        "word": "平日",
+        "reading": "へいじつ",
+        "meaning_tw": "平日、工作日",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "兵隊",
+        "reading": "へいたい",
+        "meaning_tw": "士兵、軍隊",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "平凡",
+        "reading": "へいぼん",
+        "meaning_tw": "平凡、普通",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "平野",
+        "reading": "へいや",
+        "meaning_tw": "平原",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "凹む",
+        "reading": "へこむ",
+        "meaning_tw": "凹陷、屈服、沮喪",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "へそ",
+        "reading": "へそ",
+        "meaning_tw": "肚臍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "隔てる",
+        "reading": "へだてる",
+        "meaning_tw": "隔開、間隔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "別荘",
+        "reading": "べっそう",
+        "meaning_tw": "別墅、度假小屋",
+        "level": "2",
+        "tags": "JLPT Intermediate_Japanese Genki_Ln.23 JLPT_2 Intermediate_Japanese_Ln.13 Genki"
+    },
+    {
         "word": "ベテラン",
         "reading": "ベテラン",
-        "meaning_tw": "veteran",
+        "meaning_tw": "老手、專家、資深者",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ヘリコプター",
         "reading": "ヘリコプター",
-        "meaning_tw": "helicopter",
+        "meaning_tw": "直升機",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "編集",
         "reading": "へんしゅう",
-        "meaning_tw": "editing, compilation, editorial (e.g., committee)",
+        "meaning_tw": "編輯",
         "level": "2",
         "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
     },
     {
         "word": "便所",
         "reading": "べんじょ",
-        "meaning_tw": "toilet, lavatory",
+        "meaning_tw": "廁所",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ペンチ",
         "reading": "ペンチ",
-        "meaning_tw": "pliers (lit: pinchers)",
+        "meaning_tw": "老虎鉗、鉗子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ボーナス",
         "reading": "ボーナス",
-        "meaning_tw": "bonus",
+        "meaning_tw": "獎金、紅利",
         "level": "2",
         "tags": "JLPT JLPT_2 Genki_Ln.23 Genki"
     },
     {
         "word": "防～",
         "reading": "ぼう～",
-        "meaning_tw": "~ prevention",
+        "meaning_tw": "防～、預防～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "望遠鏡",
         "reading": "ぼうえんきょう",
-        "meaning_tw": "telescope",
+        "meaning_tw": "望遠鏡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "方角",
         "reading": "ほうがく",
-        "meaning_tw": "direction, way",
+        "meaning_tw": "方向、方位",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "箒",
         "reading": "ほうき",
-        "meaning_tw": "broom",
+        "meaning_tw": "掃帚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "方言",
         "reading": "ほうげん",
-        "meaning_tw": "dialect",
+        "meaning_tw": "方言",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "坊さん",
         "reading": "ぼうさん",
-        "meaning_tw": "Buddhist priest, monk",
+        "meaning_tw": "和尚、僧侶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "防止",
         "reading": "ぼうし",
-        "meaning_tw": "prevention, check",
+        "meaning_tw": "防止",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "方針",
         "reading": "ほうしん",
-        "meaning_tw": "objective, plan, policy",
+        "meaning_tw": "方針、目標",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "包装",
+        "word": "包裝",
         "reading": "ほうそう",
-        "meaning_tw": "packing, wrapping",
+        "meaning_tw": "包裝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "法則",
         "reading": "ほうそく",
-        "meaning_tw": "law, rule",
+        "meaning_tw": "法則、定律",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "包帯",
         "reading": "ほうたい",
-        "meaning_tw": "bandage",
+        "meaning_tw": "繃帶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "膨大",
         "reading": "ぼうだい",
-        "meaning_tw": "enormous, extensive",
+        "meaning_tw": "龐大、巨大",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "包丁",
         "reading": "ほうちょう",
-        "meaning_tw": "kitchen knife, carving knife",
+        "meaning_tw": "菜刀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "方程式",
         "reading": "ほうていしき",
-        "meaning_tw": "equation",
+        "meaning_tw": "方程式",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "防犯",
         "reading": "ぼうはん",
-        "meaning_tw": "prevention of crime",
+        "meaning_tw": "防範犯罪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "方面",
         "reading": "ほうめん",
-        "meaning_tw": "direction; area",
+        "meaning_tw": "方面、方向",
         "level": "2",
         "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
     },
     {
         "word": "坊や",
         "reading": "ぼうや",
-        "meaning_tw": "boy",
+        "meaning_tw": "小男孩",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "放る",
         "reading": "ほうる",
-        "meaning_tw": "to let go",
+        "meaning_tw": "拋、扔、放棄、不管",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "朗らか",
         "reading": "ほがらか",
-        "meaning_tw": "bright, cheerful, melodious",
+        "meaning_tw": "開朗、舒暢",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "朗らか(な)",
         "reading": "ほがらか(な)",
-        "meaning_tw": "cheerful, merry bright (sky, day, etc.), fine, clear",
+        "meaning_tw": "愉快的、晴朗的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "牧場",
         "reading": "ぼくじょう",
-        "meaning_tw": "farm (livestock); pasture land",
+        "meaning_tw": "牧場",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "牧畜",
         "reading": "ぼくちく",
-        "meaning_tw": "stock-farming",
+        "meaning_tw": "放牧、畜牧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "保健",
         "reading": "ほけん",
-        "meaning_tw": "health preservation, hygiene, sanitation",
+        "meaning_tw": "保健、衛生",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "募集",
         "reading": "ぼしゅう",
-        "meaning_tw": "recruitment",
+        "meaning_tw": "募集、招聘",
         "level": "2",
         "tags": "JLPT JLPT_2 Genki_Ln.13 Genki"
     },
     {
         "word": "干す",
         "reading": "ほす",
-        "meaning_tw": "to air, to dry, to drink up",
+        "meaning_tw": "曬、晾、喝乾",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ポスター",
         "reading": "ポスター",
-        "meaning_tw": "poster",
+        "meaning_tw": "海報",
         "level": "2",
         "tags": "JLPT_2 JLPT Genki_Ln.21 Genki"
     },
     {
         "word": "北極",
         "reading": "ほっきょく",
-        "meaning_tw": "North Pole",
+        "meaning_tw": "北極",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "坊っちゃん",
         "reading": "ぼっちゃん",
-        "meaning_tw": "son (of others)",
+        "meaning_tw": "少爺、令公子",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "解く",
         "reading": "ほどく",
-        "meaning_tw": "to unfasten",
+        "meaning_tw": "解開、拆開",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "掘る",
         "reading": "ほる",
-        "meaning_tw": "to dig, to excavate",
+        "meaning_tw": "挖掘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "彫る",
         "reading": "ほる",
-        "meaning_tw": "to carve, to chisel",
+        "meaning_tw": "雕刻",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ぼろ",
         "reading": "ぼろ",
-        "meaning_tw": "rag, tattered clothes",
+        "meaning_tw": "破布、缺點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "盆",
         "reading": "ぼん",
-        "meaning_tw": "Festival of the Dead; tray",
+        "meaning_tw": "盂蘭盆節、托盤",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "盆地",
         "reading": "ぼんち",
-        "meaning_tw": "basin (e.g., between mountains)",
+        "meaning_tw": "盆地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "ほんの～",
         "reading": "ほんの～",
-        "meaning_tw": "mere, just",
+        "meaning_tw": "僅僅、一點點",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "本部",
         "reading": "ほんぶ",
-        "meaning_tw": "headquarters",
+        "meaning_tw": "總部、本部",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "本来",
         "reading": "ほんらい",
-        "meaning_tw": "essentially, naturally, by nature",
+        "meaning_tw": "本來、原本",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まあまあ",
         "reading": "まあまあ",
-        "meaning_tw": "okay; so-so; decent",
+        "meaning_tw": "還可以、馬馬虎虎",
         "level": "2",
         "tags": "JLPT JLPT_2 Genki_Ln.11 Genki"
     },
     {
         "word": "毎～",
         "reading": "まい～",
-        "meaning_tw": "every ~",
+        "meaning_tw": "每～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "枚数",
         "reading": "まいすう",
-        "meaning_tw": "the number of flat things",
+        "meaning_tw": "張數、片數",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "毎度",
         "reading": "まいど",
-        "meaning_tw": "each time, common service-sector greeting",
+        "meaning_tw": "每次、老主顧",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まく",
         "reading": "まく",
-        "meaning_tw": "to wind, to coil, to roll",
+        "meaning_tw": "捲、繞、纏",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "枕",
         "reading": "まくら",
-        "meaning_tw": "pillow",
+        "meaning_tw": "枕頭",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "曲げる",
         "reading": "まげる",
-        "meaning_tw": "to bend, to crook, to lean",
+        "meaning_tw": "彎曲、屈從",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まごまご",
         "reading": "まごまご",
-        "meaning_tw": "confused, be at a loss",
+        "meaning_tw": "手忙腳亂、不知所措",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "摩擦",
         "reading": "まさつ",
-        "meaning_tw": "friction; rubbing; chafe",
+        "meaning_tw": "摩擦、衝突",
         "level": "2",
         "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
     },
     {
         "word": "まざる",
         "reading": "まざる",
-        "meaning_tw": "to be mixed, to be blended with, to associate with",
+        "meaning_tw": "混雜、摻雜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まじる",
         "reading": "まじる",
-        "meaning_tw": "to be mixed, to be blended with, to associate with",
+        "meaning_tw": "混雜、摻雜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "マスク",
         "reading": "マスク",
-        "meaning_tw": "mask",
+        "meaning_tw": "口罩、面具",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まぜる",
         "reading": "まぜる",
-        "meaning_tw": "to mix, to stir",
+        "meaning_tw": "混合、摻和",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "またぐ",
         "reading": "またぐ",
-        "meaning_tw": "to straddle",
+        "meaning_tw": "跨越、跨過",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "跨ぐ",
-        "reading": "またぐ",
-        "meaning_tw": "to step over/across, to stride over/across, to cross to stretch over, to span, to bridge, to saddle, to straddle",
+        "reading": "跨ぐ",
+        "meaning_tw": "跨、橫跨、跨越",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "待合室",
         "reading": "まちあいしつ",
-        "meaning_tw": "waiting room",
+        "meaning_tw": "候診室、候車室",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "待ち合わせる",
         "reading": "まちあわせる",
-        "meaning_tw": "to rendezvous, to meet at a prearranged place and time",
+        "meaning_tw": "約會、等候會合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "街角",
         "reading": "まちかど",
-        "meaning_tw": "street corner",
+        "meaning_tw": "街頭、轉角",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "真っ暗",
         "reading": "まっくら",
-        "meaning_tw": "total darkness",
+        "meaning_tw": "漆黑",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "真っ黒",
         "reading": "まっくろ",
-        "meaning_tw": "pitch black",
+        "meaning_tw": "烏黑",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "真っ青",
         "reading": "まっさお",
-        "meaning_tw": "deep blue, ghastly pale",
+        "meaning_tw": "深藍色、臉色蒼白",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "真っ先",
         "reading": "まっさき",
-        "meaning_tw": "foremost, beginning",
+        "meaning_tw": "最先、首先",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "真っ白",
         "reading": "まっしろ",
-        "meaning_tw": "pure white",
+        "meaning_tw": "雪白、純白",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "祭る",
         "reading": "まつる",
-        "meaning_tw": "to deify, to enshrine",
+        "meaning_tw": "祭祀、供奉",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "窓口",
         "reading": "まどぐち",
-        "meaning_tw": "(ticket) window",
+        "meaning_tw": "窗口、門路、聯絡窗口",
         "level": "2",
         "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
     },
     {
         "word": "真似る",
         "reading": "まねる",
-        "meaning_tw": "to mimic, to imitate",
+        "meaning_tw": "模仿、效法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "まぶた",
         "reading": "まぶた",
-        "meaning_tw": "eyelids",
+        "meaning_tw": "眼瞼",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "マフラー",
         "reading": "マフラー",
-        "meaning_tw": "a winter scarf",
+        "meaning_tw": "圍巾、消音器",
         "level": "2",
         "tags": "JLPT_2 JLPT Genki_Ln.14 Genki"
     },
     {
         "word": "間も無く",
         "reading": "まもなく",
-        "meaning_tw": "soon, in a short time",
+        "meaning_tw": "不久、一會兒",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "間もなく",
         "reading": "まもなく",
-        "meaning_tw": "soon, shortly, before long, in a short time, in a little while",
+        "meaning_tw": "快要、即將",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "マラソン",
         "reading": "マラソン",
-        "meaning_tw": "marathon",
+        "meaning_tw": "馬拉松",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "稀",
         "reading": "まれ",
-        "meaning_tw": "rare, seldom",
+        "meaning_tw": "稀少、罕見",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "回り道",
         "reading": "まわりみち",
-        "meaning_tw": "detour",
+        "meaning_tw": "繞道、繞遠路",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "満員",
         "reading": "まんいん",
-        "meaning_tw": "full house, no vacancy, sold out",
+        "meaning_tw": "客滿",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "マンション",
         "reading": "マンション",
-        "meaning_tw": "multistory apartment house, condominium",
+        "meaning_tw": "公寓、大廈",
         "level": "2",
         "tags": "JLPT_2 JLPT Genki_Ln.14 Genki"
     },
     {
         "word": "満点",
         "reading": "まんてん",
-        "meaning_tw": "perfect score",
+        "meaning_tw": "滿分",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "未～",
         "reading": "み～",
-        "meaning_tw": "not yet ~",
+        "meaning_tw": "未～、尚未～",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "見上げる",
         "reading": "みあげる",
-        "meaning_tw": "to look up at, to admire",
+        "meaning_tw": "仰視、尊敬",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "見送る",
         "reading": "みおくる",
-        "meaning_tw": "to see off; to escort; to let pass",
+        "meaning_tw": "目送、送行、推遲",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "見下ろす",
         "reading": "みおろす",
-        "meaning_tw": "to overlook, to look down on something",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見掛け",
-        "reading": "みかけ",
-        "meaning_tw": "outward appearance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "三日月",
-        "reading": "みかづき",
-        "meaning_tw": "crescent moon",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "岬",
-        "reading": "みさき",
-        "meaning_tw": "cape (on coast)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "みじめ",
-        "reading": "みじめ",
-        "meaning_tw": "sad, pitiful, wretched",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "惨めな",
-        "reading": "みじめな",
-        "meaning_tw": "miserable, wretched, unhappy, sad, pitiable",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ミシン",
-        "reading": "ミシン",
-        "meaning_tw": "sewing machine",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "自ら",
-        "reading": "みずから",
-        "meaning_tw": "for one's self, personally",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "水着",
-        "reading": "みずぎ",
-        "meaning_tw": "bathing suit (woman's)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "店屋",
-        "reading": "みせや",
-        "meaning_tw": "store, shop",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見出し",
-        "reading": "みだし",
-        "meaning_tw": "heading, index",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "道順",
-        "reading": "みちじゅん",
-        "meaning_tw": "itinerary, route",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "みっともない",
-        "reading": "みっともない",
-        "meaning_tw": "shameful, indecent",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11"
-    },
-    {
-        "word": "見詰める",
-        "reading": "みつめる",
-        "meaning_tw": "to stare at, to gaze at",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見直す",
-        "reading": "みなおす",
-        "meaning_tw": "to look over again, to review",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見慣れる",
-        "reading": "みなれる",
-        "meaning_tw": "to become used to seeing, to be familiar with",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "醜い",
-        "reading": "みにくい",
-        "meaning_tw": "ugly",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "実る",
-        "reading": "みのる",
-        "meaning_tw": "to bear fruit, to ripen",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "身分",
-        "reading": "みぶん",
-        "meaning_tw": "position, status",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見本",
-        "reading": "みほん",
-        "meaning_tw": "sample",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "見舞う",
-        "reading": "みまう",
-        "meaning_tw": "to ask after (health), to visit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "未満",
-        "reading": "みまん",
-        "meaning_tw": "less than, insufficient",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名字",
-        "reading": "みょうじ",
-        "meaning_tw": "surname, family name",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ミリ (メートル)",
-        "reading": "ミリ (メートル)",
-        "meaning_tw": "milli-",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "診る",
-        "reading": "みる",
-        "meaning_tw": "to examine (medically)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "民間",
-        "reading": "みんかん",
-        "meaning_tw": "private, civilian",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "民主～",
-        "reading": "みんしゅ～",
-        "meaning_tw": "democratic",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "民謡",
-        "reading": "みんよう",
-        "meaning_tw": "folk song, popular song",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "無限",
-        "reading": "むげん",
-        "meaning_tw": "infinite",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "無地",
-        "reading": "むじ",
-        "meaning_tw": "plain",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蒸し暑い",
-        "reading": "むしあつい",
-        "meaning_tw": "humid, sultry",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "矛盾",
-        "reading": "むじゅん",
-        "meaning_tw": "contradiction, inconsistency",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "無数",
-        "reading": "むすう",
-        "meaning_tw": "countless number, infinite number",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "紫",
-        "reading": "むらさき",
-        "meaning_tw": "purple color, violet",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "群れ",
-        "reading": "むれ",
-        "meaning_tw": "crowd, flock, herd",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "姪",
-        "reading": "めい",
-        "meaning_tw": "niece",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
-    },
-    {
-        "word": "名～",
-        "reading": "めい～",
-        "meaning_tw": "famous ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名作",
-        "reading": "めいさく",
-        "meaning_tw": "masterpiece",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名詞",
-        "reading": "めいし",
-        "meaning_tw": "noun",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名刺",
-        "reading": "めいし",
-        "meaning_tw": "business card",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名所",
-        "reading": "めいしょ",
-        "meaning_tw": "famous place",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "迷信",
-        "reading": "めいしん",
-        "meaning_tw": "superstition",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "命ずる",
-        "reading": "めいずる",
-        "meaning_tw": "to command, to appoint",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "名物",
-        "reading": "めいぶつ",
-        "meaning_tw": "famous product, special product, speciality",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "銘々",
-        "reading": "めいめい",
-        "meaning_tw": "each, individual",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "恵まれる",
-        "reading": "めぐまれる",
-        "meaning_tw": "to be blessed with, to be rich in",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "巡る",
-        "reading": "めぐる",
-        "meaning_tw": "to go around",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目指す",
-        "reading": "めざす",
-        "meaning_tw": "to aim at, to have an eye on",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目覚し",
-        "reading": "めざまし",
-        "meaning_tw": "alarm-clock",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目下",
-        "reading": "めした",
-        "meaning_tw": "at present, now",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目印",
-        "reading": "めじるし",
-        "meaning_tw": "mark, sign, landmark",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目立つ",
-        "reading": "めだつ",
-        "meaning_tw": "to be conspicuous, to stand out",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "めちゃくちゃ",
-        "reading": "めちゃくちゃ",
-        "meaning_tw": "absurd, messed up, wrecked",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "めっきり",
-        "reading": "めっきり",
-        "meaning_tw": "remarkably",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "めでたい",
-        "reading": "めでたい",
-        "meaning_tw": "happy, propitious, joyous",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "メニュー",
-        "reading": "メニュー",
-        "meaning_tw": "menu",
-        "level": "2",
-        "tags": "JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.6 Genki_Ln.2 Genki"
-    },
-    {
-        "word": "めまい",
-        "reading": "めまい",
-        "meaning_tw": "dizziness, giddiness",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目安",
-        "reading": "めやす",
-        "meaning_tw": "criterion, aim",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "免税",
-        "reading": "めんぜい",
-        "meaning_tw": "tax exemption",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "面積",
-        "reading": "めんせき",
-        "meaning_tw": "area",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "面接",
-        "reading": "めんせつ",
-        "meaning_tw": "interview",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "面倒臭い",
-        "reading": "めんどうくさい",
-        "meaning_tw": "bother to do, tiresome",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "モーター",
-        "reading": "モーター",
-        "meaning_tw": "motor",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "儲かる",
-        "reading": "もうかる",
-        "meaning_tw": "to be profitable, to yield a profit",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "儲ける",
-        "reading": "もうける",
-        "meaning_tw": "to earn, to have (bear, beget) a child",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "申し訳ない",
-        "reading": "もうしわけない",
-        "meaning_tw": "inexcusable, I am sorry",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "木材",
-        "reading": "もくざい",
-        "meaning_tw": "lumber, timber, wood",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "目次",
-        "reading": "もくじ",
-        "meaning_tw": "table of contents",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "潜る",
-        "reading": "もぐる",
-        "meaning_tw": "to dive, to pass through; to evade, to hide",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "もしかしたら",
-        "reading": "もしかしたら",
-        "meaning_tw": "perhaps, maybe, by some chance",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "もたれる",
-        "reading": "もたれる",
-        "meaning_tw": "to lean against, to lean on",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "凭れる",
-        "reading": "もたれる",
-        "meaning_tw": "to lean against, to lean on, to recline on",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "モダン",
-        "reading": "モダン",
-        "meaning_tw": "modern",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "餅",
-        "reading": "もち",
-        "meaning_tw": "sticky rice cake",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "モデル",
-        "reading": "モデル",
-        "meaning_tw": "a fashion model",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese"
-    },
-    {
-        "word": "元々",
-        "reading": "もともと",
-        "meaning_tw": "originally, by nature, from the start",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "物置",
-        "reading": "ものおき",
-        "meaning_tw": "storage room",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "物語る",
-        "reading": "ものがたる",
-        "meaning_tw": "to tell, to indicate",
+        "meaning_tw": "俯視、蔑視",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "見掛け", "reading": "みかけ", "meaning_tw": "外表", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "三日月", "reading": "みかづき", "meaning_tw": "新月、弦月", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "岬", "reading": "みさき", "meaning_tw": "海角、岬", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "みじめ", "reading": "みじめ", "meaning_tw": "悲慘、淒慘", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "慘めな", "reading": "みじめな", "meaning_tw": "慘不忍睹、悲哀", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "ミシン", "reading": "ミシン", "meaning_tw": "裁縫機", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "自ら", "reading": "みずから", "meaning_tw": "親自、自身", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "水着", "reading": "みずぎ", "meaning_tw": "泳衣", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "店屋", "reading": "みせや", "meaning_tw": "商店", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "見出し", "reading": "みだし", "meaning_tw": "標題、索引", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "道順", "reading": "みちじゅん", "meaning_tw": "路線、進展順序", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "みっともない", "reading": "みっともない", "meaning_tw": "丟人、不體面", "level": "2", "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11" },
+    { "word": "見詰める", "reading": "みつめる", "meaning_tw": "凝視、注視", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "見直す", "reading": "みなおす", "meaning_tw": "重看、重新評價", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "見慣れる", "reading": "みなれる", "meaning_tw": "看慣、眼熟", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "醜い", "reading": "みにくい", "meaning_tw": "醜陋", "level": "2", "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese" },
+    { "word": "実る", "reading": "みのる", "meaning_tw": "結實、成熟、有成果", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "身分", "reading": "みぶん", "meaning_tw": "身分、地位", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "見本", "reading": "みほん", "meaning_tw": "樣本、樣品", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "見舞う", "reading": "みまう", "meaning_tw": "探望、問候、遭受", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "未満", "reading": "みまん", "meaning_tw": "未滿、不足", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名字", "reading": "みょうじ", "meaning_tw": "姓氏", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "ミリ (メートル)", "reading": "ミリ (メートル)", "meaning_tw": "公釐", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "診る", "reading": "みる", "meaning_tw": "診察", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "民間", "reading": "みんかん", "meaning_tw": "民間", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "民主～", "reading": "みんしゅ～", "meaning_tw": "民主～", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "民謡", "reading": "みんよう", "meaning_tw": "民謠", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "無限", "reading": "むげん", "meaning_tw": "無限", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "無地", "reading": "むじ", "meaning_tw": "素色、無花紋", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "蒸し暑い", "reading": "むしあつい", "meaning_tw": "悶熱", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "矛盾", "reading": "むじゅん", "meaning_tw": "矛盾", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "無数", "reading": "むすう", "meaning_tw": "無數", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "紫", "reading": "むらさき", "meaning_tw": "紫色", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "群れ", "reading": "むれ", "meaning_tw": "群、群體", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "姪", "reading": "めい", "meaning_tw": "姪女、外甥女", "level": "2", "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.8 Intermediate_Japanese" },
+    { "word": "名～", "reading": "めい～", "meaning_tw": "著名的～", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名作", "reading": "めいさく", "meaning_tw": "傑作、名作", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名詞", "reading": "めいし", "meaning_tw": "名詞", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名刺", "reading": "めいし", "meaning_tw": "名片", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名所", "reading": "めいしょ", "meaning_tw": "名勝", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "迷信", "reading": "めいしん", "meaning_tw": "迷信", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "命ずる", "reading": "めいずる", "meaning_tw": "命令、任命", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "名物", "reading": "めいぶつ", "meaning_tw": "特產、名產", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "銘々", "reading": "めいめい", "meaning_tw": "各個、各自", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "恵まれる", "reading": "めぐまれる", "meaning_tw": "受惠、富有", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "巡る", "reading": "めぐる", "meaning_tw": "巡迴、圍繞", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目指す", "reading": "めざす", "meaning_tw": "目標、瞄準", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目覺し", "reading": "めざまし", "meaning_tw": "鬧鐘", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目下", "reading": "めした", "meaning_tw": "目前、現在", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目印", "reading": "めじるし", "meaning_tw": "記號、標誌", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目立つ", "reading": "めだつ", "meaning_tw": "顯眼、引人注目", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "めちゃくちゃ", "reading": "めちゃくちゃ", "meaning_tw": "亂七八糟、荒唐", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "めっきり", "reading": "めっきり", "meaning_tw": "顯著地、急劇地", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "めでたい", "reading": "めでたい", "meaning_tw": "可喜可賀", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "メニュー", "reading": "メニュー", "meaning_tw": "菜單", "level": "2", "tags": "JLPT Intermediate_Japanese JLPT_2 Intermediate_Japanese_Ln.6 Genki_Ln.2 Genki" },
+    { "word": "めまい", "reading": "めまい", "meaning_tw": "眩暈", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目安", "reading": "めやす", "meaning_tw": "基準、目標", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "免税", "reading": "めんぜい", "meaning_tw": "免稅", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "面積", "reading": "めんせき", "meaning_tw": "面積", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "面接", "reading": "めんせつ", "meaning_tw": "面試", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "面倒臭い", "reading": "めんどうくさい", "meaning_tw": "麻煩、煩人", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "モーター", "reading": "モーター", "meaning_tw": "馬達、發動機", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "儲かる", "reading": "もうかる", "meaning_tw": "賺錢、盈利", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "儲ける", "reading": "もうける", "meaning_tw": "賺錢、獲得", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "申し訳ない", "reading": "もうしわけない", "meaning_tw": "非常抱歉、對不起", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "木材", "reading": "もくざい", "meaning_tw": "木材", "level": "2", "tags": "JLPT JLPT_2" },
+    { "word": "目次", "reading": "もくじ", "meaning_tw": "目錄", "level": "2", "tags": "JLPT JLPT_2" },
+{
+        "word": "物音",
+        "reading": "ものおと",
+        "meaning_tw": "響聲、雜音",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "物事",
+        "reading": "ものごと",
+        "meaning_tw": "事物、事情",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "物差し",
         "reading": "ものさし",
-        "meaning_tw": "ruler, measure",
+        "meaning_tw": "尺、尺度、標準",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "物凄い",
         "reading": "ものすごい",
-        "meaning_tw": "earth-shattering, staggering, to a very great extent",
+        "meaning_tw": "可怕的、厲害的、驚人的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "モノレール",
-        "reading": "モノレール",
-        "meaning_tw": "monorail",
+        "word": "物足らない",
+        "reading": "ものたりない",
+        "meaning_tw": "美中不足、不夠滿足",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "紅葉",
-        "reading": "もみじ",
-        "meaning_tw": "(Japanese) maple",
+        "word": "物語",
+        "reading": "ものがたり",
+        "meaning_tw": "故事、傳說",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "揉む",
-        "reading": "もむ",
-        "meaning_tw": "to rub, to crumple (up), to wrinkle",
+        "word": "物語る",
+        "reading": "ものがたる",
+        "meaning_tw": "講述、說明、表明",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "もやす",
-        "reading": "もやす",
-        "meaning_tw": "to burn",
+        "word": "物好き",
+        "reading": "ものずき",
+        "meaning_tw": "好奇、古怪的愛好",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "催し",
-        "reading": "もよおし",
-        "meaning_tw": "event, festivities, function",
+        "word": "物足りない",
+        "reading": "ものたりない",
+        "meaning_tw": "不夠完善、不夠充分",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "盛る",
-        "reading": "もる",
-        "meaning_tw": "to serve (food); to fill up; to prescribe",
+        "word": "物忘れ",
+        "reading": "ものわすれ",
+        "meaning_tw": "健忘",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "尤も",
+        "reading": "もっとも",
+        "meaning_tw": "合理、理所當然、不過",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "最も",
+        "reading": "もっとも",
+        "meaning_tw": "最、極",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "基づく",
+        "reading": "もとづく",
+        "meaning_tw": "根據、基於",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "求める",
+        "reading": "もとめる",
+        "meaning_tw": "追求、尋求、要求",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "元々",
+        "reading": "もともと",
+        "meaning_tw": "原本、本來",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "戻す",
+        "reading": "もどす",
+        "meaning_tw": "退回、歸還、嘔吐",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "戻る",
+        "reading": "もどる",
+        "meaning_tw": "返回、折回",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "木材",
+        "reading": "もくざい",
+        "meaning_tw": "木材",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "目的",
+        "reading": "もくてき",
+        "meaning_tw": "目的",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "目標",
+        "reading": "もくひょう",
+        "meaning_tw": "目標",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "目録",
+        "reading": "もくろく",
+        "meaning_tw": "目錄、清單",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "模型",
+        "reading": "もけい",
+        "meaning_tw": "模型",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "模索",
+        "reading": "もさく",
+        "meaning_tw": "摸索",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "もし",
+        "reading": "もし",
+        "meaning_tw": "如果、假如",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "もしかしたら",
+        "reading": "もしかしたら",
+        "meaning_tw": "或許、說不定",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "もしかすると",
+        "reading": "もしかすると",
+        "meaning_tw": "說不定、或許",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "もしも",
+        "reading": "もしも",
+        "meaning_tw": "萬一、假如",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持たせる",
+        "reading": "もたせる",
+        "meaning_tw": "讓～持有、維持、負擔",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "もたれる",
+        "reading": "もたれる",
+        "meaning_tw": "依靠、憑藉、難消化",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "餅",
+        "reading": "もち",
+        "meaning_tw": "年糕、餅",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "用いる",
+        "reading": "もちいる",
+        "meaning_tw": "使用、採用、錄用",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち上げる",
+        "reading": "もちあげる",
+        "meaning_tw": "舉起、抬起、奉承",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち味",
+        "reading": "もちあじ",
+        "meaning_tw": "獨特風味、特色",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち歩く",
+        "reading": "もちあるく",
+        "meaning_tw": "隨身攜帶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち家",
+        "reading": "もちいえ",
+        "meaning_tw": "自有住房",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち帰り",
+        "reading": "もちかえり",
+        "meaning_tw": "帶走、外帶",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち主",
+        "reading": "もちぬし",
+        "meaning_tw": "持有者、主人",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち物",
+        "reading": "もちもの",
+        "meaning_tw": "攜帶物品、所有物",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "持ち寄る",
+        "reading": "もちよる",
+        "meaning_tw": "各自帶一點來、湊在一起",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勿論",
+        "reading": "もちろん",
+        "meaning_tw": "當然、不用說",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "門",
+        "reading": "もん",
+        "meaning_tw": "門",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning_tw": "問題",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "悶々",
+        "reading": "もんもん",
+        "meaning_tw": "煩悶、鬱悶",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "問答",
         "reading": "もんどう",
-        "meaning_tw": "questions and answers, dialogue",
+        "meaning_tw": "問答",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "やかましい",
-        "reading": "やかましい",
-        "meaning_tw": "to be fussy, to be overly critical",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese Intermediate_Japanese_Ln.11"
-    },
-    {
-        "word": "喧しい",
-        "reading": "やかましい",
-        "meaning_tw": "noisy, loud, clamorous, boisterous",
+        "word": "文句",
+        "reading": "もんく",
+        "meaning_tw": "句子、牢騷、怨言",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "夜間",
-        "reading": "やかん",
-        "meaning_tw": "at night, nighttime",
+        "word": "門限",
+        "reading": "もんげん",
+        "meaning_tw": "門禁時間",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "やかん",
-        "reading": "やかん",
-        "meaning_tw": "kettle",
+        "word": "夜中",
+        "reading": "やちゅう",
+        "meaning_tw": "深夜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "やかん",
-        "reading": "やかん",
-        "meaning_tw": "kettle",
+        "word": "宿",
+        "reading": "やど",
+        "meaning_tw": "宿、旅館",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "役者",
-        "reading": "やくしゃ",
-        "meaning_tw": "actor",
+        "word": "雇う",
+        "reading": "やとう",
+        "meaning_tw": "雇用",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "役所",
-        "reading": "やくしょ",
-        "meaning_tw": "government office, public office",
+        "word": "破る",
+        "reading": "やぶる",
+        "meaning_tw": "打破、弄破、違背",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "役人",
-        "reading": "やくにん",
-        "meaning_tw": "government official",
+        "word": "破れる",
+        "reading": "やぶれる",
+        "meaning_tw": "破裂、破碎、失敗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "薬品",
-        "reading": "やくひん",
-        "meaning_tw": "medicine(s), chemical(s)",
+        "word": "山",
+        "reading": "やま",
+        "meaning_tw": "山",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "役目",
-        "reading": "やくめ",
-        "meaning_tw": "duty, business",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "火傷",
-        "reading": "やけど",
-        "meaning_tw": "burn, scald",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "夜行",
-        "reading": "やこう",
-        "meaning_tw": "night train, night travel",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "矢印",
-        "reading": "やじるし",
-        "meaning_tw": "directing arrow",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "やたらに",
-        "reading": "やたらに",
-        "meaning_tw": "randomly, recklessly, blindly",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "薬局",
-        "reading": "やっきょく",
-        "meaning_tw": "pharmacy, drugstore",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "やっつける",
-        "reading": "やっつける",
-        "meaning_tw": "to attack (an enemy), to beat, to finish off",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "やっぱり",
-        "reading": "やっぱり",
-        "meaning_tw": "after all, anyway",
-        "level": "2",
-        "tags": "Genki_Ln.17 JLPT JLPT_2 Genki"
-    },
-    {
-        "word": "家主",
-        "reading": "やぬし",
-        "meaning_tw": "landlord",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "破く",
-        "reading": "やぶく",
-        "meaning_tw": "to tear",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "やむをえない",
+        "word": "止むを得ない",
         "reading": "やむをえない",
-        "meaning_tw": "cannot be helped, unavoidable",
+        "meaning_tw": "不得已、沒辦法",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "やや",
+        "reading": "やや",
+        "meaning_tw": "稍微、一點點",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "柔らかい",
+        "reading": "やわらかい",
+        "meaning_tw": "柔軟的、溫和的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "軟らかい",
         "reading": "やわらかい",
-        "meaning_tw": "soft, tender, limp",
+        "meaning_tw": "柔軟的（物體質地）",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "遊園地",
-        "reading": "ゆうえんち",
-        "meaning_tw": "amusement park",
+        "word": "矢印",
+        "reading": "やじるし",
+        "meaning_tw": "箭頭符號",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "夕刊",
-        "reading": "ゆうかん",
-        "meaning_tw": "evening paper",
+        "word": "野生",
+        "reading": "やせい",
+        "meaning_tw": "野生",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "友好",
+        "word": "役",
+        "reading": "やく",
+        "meaning_tw": "角色、職務、用處",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "約",
+        "reading": "やく",
+        "meaning_tw": "約、大約",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "厄介",
+        "reading": "やっかい",
+        "meaning_tw": "麻煩、照料",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "役割",
+        "reading": "やくわり",
+        "meaning_tw": "任務、分配的角色",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "薬品",
+        "reading": "やくひん",
+        "meaning_tw": "藥品",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "役立つ",
+        "reading": "やくだつ",
+        "meaning_tw": "有用、有益",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "約束",
+        "reading": "やくそく",
+        "meaning_tw": "約定、承諾",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "唯一",
+        "reading": "ゆいいつ",
+        "meaning_tw": "唯一",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "勇気",
+        "reading": "ゆうき",
+        "meaning_tw": "勇氣",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "有効",
         "reading": "ゆうこう",
-        "meaning_tw": "friendship",
+        "meaning_tw": "有效",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "郵送",
-        "reading": "ゆうそう",
-        "meaning_tw": "mailing",
+        "word": "優秀",
+        "reading": "ゆうしゅう",
+        "meaning_tw": "優秀",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "夕立",
-        "reading": "ゆうだち",
-        "meaning_tw": "(sudden) evening shower (rain)",
+        "word": "優勝",
+        "reading": "ゆうしょう",
+        "meaning_tw": "冠軍、優勝",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "夕日",
-        "reading": "ゆうひ",
-        "meaning_tw": "(in) the evening sun, setting sun",
+        "word": "友情",
+        "reading": "ゆうじょう",
+        "meaning_tw": "友情",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "悠々",
-        "reading": "ゆうゆう",
-        "meaning_tw": "quiet, calm, leisurely",
+        "word": "誘導",
+        "reading": "ゆうどう",
+        "meaning_tw": "誘導、引導",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "有料",
-        "reading": "ゆうりょう",
-        "meaning_tw": "admission-paid, toll",
+        "word": "有利",
+        "reading": "ゆうり",
+        "meaning_tw": "有利",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "浴衣",
-        "reading": "ゆかた",
-        "meaning_tw": "bathrobe, informal summer kimono",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "行方",
-        "reading": "ゆくえ",
-        "meaning_tw": "one's whereabouts",
+        "word": "幽霊",
+        "reading": "ゆうれい",
+        "meaning_tw": "幽靈、鬼魂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "湯気",
-        "reading": "ゆげ",
-        "meaning_tw": "steam",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "輸血",
-        "reading": "ゆけつ",
-        "meaning_tw": "blood transfusion",
+        "word": "優先",
+        "reading": "ゆうせん",
+        "meaning_tw": "優先",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "輸送",
         "reading": "ゆそう",
-        "meaning_tw": "transport, transportation",
+        "meaning_tw": "運輸、輸送",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "豊かな",
+        "reading": "ゆたかな",
+        "meaning_tw": "豐富的、富饒的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "油断",
         "reading": "ゆだん",
-        "meaning_tw": "negligence, unpreparedness",
+        "meaning_tw": "疏忽、大意",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "湯飲み",
-        "reading": "ゆのみ",
-        "meaning_tw": "teacup",
+        "word": "指",
+        "reading": "ゆび",
+        "meaning_tw": "手指、腳趾",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "湯飲",
-        "reading": "ゆのみ",
-        "meaning_tw": "teacup",
+        "word": "指先",
+        "reading": "ゆびさき",
+        "meaning_tw": "指尖",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "緩い",
+        "word": "指輪",
+        "reading": "ゆびわ",
+        "meaning_tw": "戒指",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "夢",
+        "reading": "ゆめ",
+        "meaning_tw": "夢、夢想",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "揺れる",
+        "reading": "ゆれる",
+        "meaning_tw": "搖晃、動搖",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "揺り動かす",
+        "reading": "ゆりうごかす",
+        "meaning_tw": "搖動、震動",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "ゆるい",
         "reading": "ゆるい",
-        "meaning_tw": "loose, lenient, slow",
+        "meaning_tw": "鬆的、緩和的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "溶岩",
-        "reading": "ようがん",
-        "meaning_tw": "lava",
+        "word": "許す",
+        "reading": "ゆるす",
+        "meaning_tw": "原諒、許可、允許",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "容器",
-        "reading": "ようき",
-        "meaning_tw": "container, receptacle, vessel, packaging",
+        "word": "緩む",
+        "reading": "ゆるむ",
+        "meaning_tw": "變鬆、緩和、鬆懈",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "用語",
-        "reading": "ようご",
-        "meaning_tw": "term, terminology",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.2 Intermediate_Japanese"
-    },
-    {
-        "word": "要旨",
-        "reading": "ようし",
-        "meaning_tw": "gist, essentials, summary",
+        "word": "余裕",
+        "reading": "よゆう",
+        "meaning_tw": "餘裕、從容",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "幼児",
-        "reading": "ようじ",
-        "meaning_tw": "infant, baby, child",
+        "word": "予測",
+        "reading": "よそく",
+        "meaning_tw": "預測",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "容積",
-        "reading": "ようせき",
-        "meaning_tw": "capacity, volume",
+        "word": "予想",
+        "reading": "よそう",
+        "meaning_tw": "預想、預料",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "幼稚",
-        "reading": "ようち",
-        "meaning_tw": "infancy, childish, infantile",
+        "word": "夜",
+        "reading": "よる",
+        "meaning_tw": "夜晚",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "幼稚園",
-        "reading": "ようちえん",
-        "meaning_tw": "kindergarten",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "用途",
-        "reading": "ようと",
-        "meaning_tw": "use, usefulness",
+        "word": "喜ぶ",
+        "reading": "よろこぶ",
+        "meaning_tw": "喜悅、高興",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "洋品店",
-        "reading": "ようひんてん",
-        "meaning_tw": "clothes store",
+        "word": "よろしく",
+        "reading": "よろしく",
+        "meaning_tw": "請多指教、合適地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "養分",
-        "reading": "ようぶん",
-        "meaning_tw": "nourishment, nutrient",
+        "word": "四",
+        "reading": "よん",
+        "meaning_tw": "四",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "羊毛",
-        "reading": "ようもう",
-        "meaning_tw": "wool",
+        "word": "弱る",
+        "reading": "よわる",
+        "meaning_tw": "虛弱、為難、困窘",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "漸く",
-        "reading": "ようやく",
-        "meaning_tw": "at last, finally, hardly",
+        "word": "予期",
+        "reading": "よき",
+        "meaning_tw": "預期、預料",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "要求",
+        "reading": "ようきゅう",
+        "meaning_tw": "要求",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "用意",
+        "reading": "ようい",
+        "meaning_tw": "準備",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "容易",
+        "reading": "ようい",
+        "meaning_tw": "容易、簡單",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "様子",
+        "reading": "ようす",
+        "meaning_tw": "樣子、情形、狀況",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "養成",
+        "reading": "ようせい",
+        "meaning_tw": "養成、培養",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "要素",
+        "reading": "ようそ",
+        "meaning_tw": "要素",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "要領",
         "reading": "ようりょう",
-        "meaning_tw": "gist, essentials, outline",
+        "meaning_tw": "要領、要點、訣竅",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "翌～",
-        "reading": "よく～",
-        "meaning_tw": "next ~",
+        "word": "予感",
+        "reading": "よかん",
+        "meaning_tw": "預感",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "欲張り",
-        "reading": "よくばり",
-        "meaning_tw": "greedy",
+        "word": "横切る",
+        "reading": "よこぎる",
+        "meaning_tw": "橫穿、橫過",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "余計",
-        "reading": "よけい",
-        "meaning_tw": "too much, unnecessary, abundance, surplus, excess, superfluity",
+        "word": "予算",
+        "reading": "よさん",
+        "meaning_tw": "預算",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "よこす",
-        "reading": "よこす",
-        "meaning_tw": "to send, to forward; to hand over (e.g., money)",
+        "word": "よし",
+        "reading": "よし",
+        "meaning_tw": "好、可以",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "よごす",
-        "reading": "よごす",
-        "meaning_tw": "(1) to disgrace, to dishonour, (2) to pollute, to contaminate, to soil, to make dirty, to stain",
+        "word": "予習",
+        "reading": "よしゅう",
+        "meaning_tw": "預習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "寄せる",
-        "reading": "よせる",
-        "meaning_tw": "to come near, to let someone approach to bring near, to bring together, to collect, to gather to deliver (opinion, news, etc.), to send (e.g. a letter), to contribute, to donate to let someone drop by",
+        "word": "予約",
+        "reading": "よやく",
+        "meaning_tw": "預約、預訂",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "余所",
-        "reading": "よそ",
-        "meaning_tw": "another place, somewhere else, strange parts",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "四つ角",
-        "reading": "よつかど",
-        "meaning_tw": "four corners, crossroads",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "酔っ払い",
-        "reading": "よっぱらい",
-        "meaning_tw": "drunkard",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "予備",
-        "reading": "よび",
-        "meaning_tw": "preparation, spare",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "呼び掛ける",
-        "reading": "よびかける",
-        "meaning_tw": "to call out to, to accost, to address (crowd), to appeal",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "呼び出す",
-        "reading": "よびだす",
-        "meaning_tw": "to summon, to call (e.g., phone)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "蘇る",
-        "reading": "よみがえる",
-        "meaning_tw": "to be resurrected, to be revived",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "慶ぶ",
-        "reading": "よろこぶ",
-        "meaning_tw": "to be delighted, to be glad",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "来日",
-        "reading": "らいにち",
-        "meaning_tw": "coming to Japan, visit to Japan",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "落第",
-        "reading": "らくだい",
-        "meaning_tw": "failure, dropping out of a class",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ラッシュアワー",
-        "reading": "ラッシュアワー",
-        "meaning_tw": "rush hour",
-        "level": "2",
-        "tags": "JLPT JLPT_2 Intermediate_Japanese_Ln.10 Intermediate_Japanese"
-    },
-    {
-        "word": "欄",
-        "reading": "らん",
-        "meaning_tw": "column of text (e.g., as in a newspaper)",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ランチ",
-        "reading": "ランチ",
-        "meaning_tw": "lunch",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ランニング",
-        "reading": "ランニング",
-        "meaning_tw": "running; tank top",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "乱暴",
-        "reading": "らんぼう",
-        "meaning_tw": "rude, violent, rough",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "理科",
-        "reading": "りか",
-        "meaning_tw": "science",
+        "word": "余裕",
+        "reading": "よゆう",
+        "meaning_tw": "餘裕、空位",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "利害",
         "reading": "りがい",
-        "meaning_tw": "advantages and disadvantages, interest",
+        "meaning_tw": "利害",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "リズム",
-        "reading": "リズム",
-        "meaning_tw": "rhythm",
+        "word": "理解",
+        "reading": "りかい",
+        "meaning_tw": "理解",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "リットル",
-        "reading": "リットル",
-        "meaning_tw": "liter",
+        "word": "陸",
+        "reading": "りく",
+        "meaning_tw": "陸地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "リポート",
-        "reading": "リポート",
-        "meaning_tw": "report, paper",
+        "word": "理想",
+        "reading": "りそう",
+        "meaning_tw": "理想",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "リボン",
-        "reading": "リボン",
-        "meaning_tw": "ribbon",
+        "word": "率",
+        "reading": "りつ",
+        "meaning_tw": "率、比例",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "略す",
-        "reading": "りゃくす",
-        "meaning_tw": "to abbreviate",
+        "word": "立派",
+        "reading": "りっぱ",
+        "meaning_tw": "出色、傑出、華麗",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "流域",
-        "reading": "りゅういき",
-        "meaning_tw": "(river) basin",
+        "word": "利益",
+        "reading": "りえき",
+        "meaning_tw": "利益、利潤",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "寮",
+        "word": "理由",
+        "reading": "りゆう",
+        "meaning_tw": "理由",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "流行",
+        "reading": "りゅうこう",
+        "meaning_tw": "流行",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "量",
         "reading": "りょう",
-        "meaning_tw": "hostel, dormitory",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "両～",
-        "reading": "りょう～",
-        "meaning_tw": "both ~",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "両側",
-        "reading": "りょうがわ",
-        "meaning_tw": "both sides",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "漁師",
-        "reading": "りょうし",
-        "meaning_tw": "fisherman",
+        "meaning_tw": "量、數量",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "領事",
         "reading": "りょうじ",
-        "meaning_tw": "consul",
+        "meaning_tw": "領事",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "領収",
-        "reading": "りょうしゅう",
-        "meaning_tw": "receipt, voucher",
+        "word": "領土",
+        "reading": "りょうど",
+        "meaning_tw": "領土",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "料金",
+        "reading": "りょうきん",
+        "meaning_tw": "費用、收費",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "領域",
+        "reading": "りょういき",
+        "meaning_tw": "領域、範圍",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning_tw": "料理、菜餚",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "両替",
+        "reading": "りょうがえ",
+        "meaning_tw": "兌換、換錢",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "了解",
+        "reading": "りょうかい",
+        "meaning_tw": "了解、領會、明白",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "臨時",
         "reading": "りんじ",
-        "meaning_tw": "temporary, special, extraordinary",
+        "meaning_tw": "臨時",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "留守番",
-        "reading": "るすばん",
-        "meaning_tw": "care-taking, caretaker, house-watching",
+        "word": "留守",
+        "reading": "るす",
+        "meaning_tw": "不在家",
         "level": "2",
-        "tags": "JLPT JLPT_2 Genki_Ln.23 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "例外",
         "reading": "れいがい",
-        "meaning_tw": "exception",
+        "meaning_tw": "例外",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "零点",
-        "reading": "れいてん",
-        "meaning_tw": "zero, no marks",
+        "word": "冷靜",
+        "reading": "れいせい",
+        "meaning_tw": "冷靜",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "冷凍",
-        "reading": "れいとう",
-        "meaning_tw": "freezing, cold storage, refrigeration",
+        "word": "冷藏庫",
+        "reading": "れいぞうこ",
+        "meaning_tw": "冰箱",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "レインコート",
-        "reading": "レインコート",
-        "meaning_tw": "raincoat",
+        "word": "列",
+        "reading": "れつ",
+        "meaning_tw": "列、隊伍",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "レクリェーション",
-        "reading": "レクリェーション",
-        "meaning_tw": "recreation",
+        "word": "列車",
+        "reading": "れっしゃ",
+        "meaning_tw": "列車",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "レジャー",
-        "reading": "レジャー",
-        "meaning_tw": "leisure",
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning_tw": "練習",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "列島",
-        "reading": "れっとう",
-        "meaning_tw": "chain of islands",
+        "word": "連想",
+        "reading": "れんそう",
+        "meaning_tw": "聯想",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "煉瓦",
-        "reading": "れんが",
-        "meaning_tw": "brick",
+        "word": "連続",
+        "reading": "れんぞく",
+        "meaning_tw": "連續",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "連合",
-        "reading": "れんごう",
-        "meaning_tw": "union, alliance",
+        "word": "連絡",
+        "reading": "れんらく",
+        "meaning_tw": "聯絡",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "レンズ",
-        "reading": "レンズ",
-        "meaning_tw": "lens",
+        "word": "連盟",
+        "reading": "れんめい",
+        "meaning_tw": "聯盟、聯合",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "ローマ字",
-        "reading": "ローマじ",
-        "meaning_tw": "romanization, Roman letters (alphabet)",
+        "word": "歴史",
+        "reading": "れきし",
+        "meaning_tw": "歷史",
         "level": "2",
-        "tags": "JLPT_2 JLPT Intermediate_Japanese_Ln.15 Intermediate_Japanese"
-    },
-    {
-        "word": "ろうそく",
-        "reading": "ろうそく",
-        "meaning_tw": "candle",
-        "level": "2",
-        "tags": "JLPT_2 JLPT Genki_Ln.18 Genki"
+        "tags": "JLPT JLPT_2"
     },
     {
         "word": "録音",
         "reading": "ろくおん",
-        "meaning_tw": "(audio) recording",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ロッカー",
-        "reading": "ロッカー",
-        "meaning_tw": "locker",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ロビー",
-        "reading": "ロビー",
-        "meaning_tw": "lobby",
+        "meaning_tw": "錄音",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "論ずる",
         "reading": "ろんずる",
-        "meaning_tw": "to argue, to discuss",
+        "meaning_tw": "論述、討論",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "和～",
-        "reading": "わ～",
-        "meaning_tw": "Japanese style",
+        "word": "論文",
+        "reading": "ろんぶん",
+        "meaning_tw": "論文",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "和英",
-        "reading": "わえい",
-        "meaning_tw": "Japanese-English",
+        "word": "湧く",
+        "reading": "わく",
+        "meaning_tw": "湧出、湧現",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "我～",
-        "reading": "わが～",
-        "meaning_tw": "our ~",
+        "word": "わずか",
+        "reading": "わずか",
+        "meaning_tw": "僅僅、稍微",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "分かれる",
+        "word": "わかる",
+        "reading": "わかる",
+        "meaning_tw": "明白、了解",
+        "level": "2",
+        "tags": "JLPT JLPT_2"
+    },
+    {
+        "word": "わかれる",
         "reading": "わかれる",
-        "meaning_tw": "to branch, to fork, to diverge to separate, to split, to divide to disperse, to scatter",
+        "meaning_tw": "分歧、分開、分散",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "若々しい",
         "reading": "わかわかしい",
-        "meaning_tw": "youthful, young",
+        "meaning_tw": "朝氣蓬勃的、年輕的",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "詫びる",
         "reading": "わびる",
-        "meaning_tw": "to apologize",
+        "meaning_tw": "道歉、謝罪",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "和服",
         "reading": "わふく",
-        "meaning_tw": "Japanese clothes",
+        "meaning_tw": "和服",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "割合に",
         "reading": "わりあいに",
-        "meaning_tw": "relatively, comparatively",
+        "meaning_tw": "相對地、比較地",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
         "word": "割算",
         "reading": "わりざん",
-        "meaning_tw": "division (math)",
+        "meaning_tw": "除法",
         "level": "2",
         "tags": "JLPT JLPT_2"
     },
     {
-        "word": "割と",
-        "reading": "わりと",
-        "meaning_tw": "relatively, comparatively",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "割引",
-        "reading": "わりびき",
-        "meaning_tw": "discount",
-        "level": "2",
-        "tags": "JLPT JLPT_2"
-    },
-    {
-        "word": "ワンピース",
-        "reading": "ワンピース",
-        "meaning_tw": "one-piece dress",
+        "word": "灣",
+        "reading": "わん",
+        "meaning_tw": "海灣",
         "level": "2",
         "tags": "JLPT JLPT_2"
     }
