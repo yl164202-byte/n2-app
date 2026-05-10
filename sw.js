@@ -1,4 +1,4 @@
-const CACHE_NAME = 'jlpt-n2-v2'; // 更新版本號
+const CACHE_NAME = 'jlpt-n2-v3'; // 更新版本號
 const ASSETS = [
   './',                // 快取根目錄
   './index.html',      // 快取主程式
